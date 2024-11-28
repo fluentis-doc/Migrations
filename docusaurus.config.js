@@ -1,7 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -26,96 +26,100 @@ const config = {
       },
     },
   },
-    themeConfig: {
+  themeConfig: {
     navbar: {
-      title: '.arm',
+      title: 'Arm',
       logo: {
         alt: 'Logo',
         src: 'img/fluentis.svg',
         className: 'logo'
       },
       items: [
-      {
-          to: 'docs/release-notes/intro',
-          /*activeBasePath: 'docs',*/
-          label: 'Release Notes',
-          position: 'right',
-        },
-    
         {
-          type: 'doc',
+          label: 'Home',
           position: 'left',
-          docId: 'arm/intro',
-          label: 'Application Resource Manager',
+          items: [
+            { label: 'License', to: 'docs/arm/home/applications/license1' },
+            { label: 'Company', to: 'docs/arm/home/users/company' },
+            { label: 'Connections', to: 'docs/arm/home/connections/connections-details/connections' },
+            { label: 'Appplications', to: 'docs/specifications/FluentisMobile/specification' },
+            { label: 'Database Management', to: 'docs/specifications/FluentisMobile/specification' },
+            { label: 'Custom Data Management', to: 'docs/specifications/FluentisMobile/specification' },
+            { label: 'Context', to: 'docs/specifications/FluentisMobile/specification' },
+            { label: 'Themes', to: 'docs/specifications/FluentisMobile/specification' },
+          ]
+        },
+        {
+          label: 'Platform',
+          position: 'left',
+          items: [
+            { label: 'Users', to: 'docs/specifications/getting-started' },
+            { label: 'Ribbon Menu', to: 'docs/specifications/server/linux-specifications' },
+            { label: 'Forms', to: 'docs/specifications/server/windows-specifications' },
+            { label: 'Wizards', to: 'docs/specifications/Fluentis%20Web/specifications' },
+            { label: 'WebApi', to: 'docs/specifications/FluentisMobile/specification' },
+            { label: 'Objects Repository', to: 'docs/specifications/FluentisMobile/specification' },
+            { label: 'Business Processes', to: 'docs/specifications/FluentisMobile/specification' },
+            { label: 'Auti Trail', to: 'docs/specifications/FluentisMobile/specification' },
+            { label: 'Chat Bot Options', to: 'docs/specifications/FluentisMobile/specification' },
+          ]
         },
 
         {
-          type: 'localeDropdown',
+          to: 'docs/FAQ/WINDOWSFAQ',
+          label: 'FAQ',
           position: 'right',
         },
-      ],
+        {
+          to: '#',
+          label: 'Release Notes',
+          position: 'right',
+          items: [
+            {
+              label: '1.2.71',
+              href: '#'
+            },
+            {
+              label: '1.2.70',
+              href: '#',
+            },
+          ],
+        },
+      ]
     },
     footer: {
       style: 'dark',
       links: [
         {
-
           title: 'Fluentis Documentation',
           items: [
-            {
-              label: 'Fluentis Live Update',
-              href: 'https://docs.fluentis.com/FluentisLiveUpdate/',
-            },
-            {
-              label: 'Fluentis ERP',
-              href: 'https://docs.fluentis.com/FluentisErp/',
-            },
-
-
-          ],
+            { label: 'Fluentis ERP', href: 'https://docs.fluentis.com/FluentisErp/' },
+            { label: 'ARM', href: 'https://docs.fluentis.com/Arm/' },
+            { label: 'Fluentis Live Update', href: 'https://docs.fluentis.com/FluentisLiveUpdate/' }
+          ]
         },
         {
-          title: 'Integration',
+          title: 'Fluentis Customization',
           items: [
-            {
-              label: 'Integration',
-              href: 'https://docs.fluentis.com/Integration/',
-            },
-          ],
+            { label: 'Integration', href: 'https://docs.fluentis.com/Integration/' },
+          ]
         },
-
         {
           title: 'Fluentis Training',
-          items: [
-            {
-              label: 'Training',
-              href: 'https://training.fluentis.com/',
-            },
-          ],
+          items: [{ label: 'Training', href: 'https://training.fluentis.com/' }]
         },
         {
           title: 'About Fluentis',
           items: [
-            {
-              label: ' Web Site',
-              href: 'https://www.fluentis.com/it/',
-              className: 'icon bi bi-arrow-up-right-circle-fill',
-            },
-            {
-              label: ' Instagram',
-              href: 'https://www.instagram.com/fluentis.erp/',
-              className: 'icon bi bi-instagram',
-            },
-            {
-              label: ' Facebook',
-              href: 'https://www.facebook.com/FluentisSrl',
-              className: 'icon bi bi-facebook',
-            },
-          ],
-        },
+            { label: ' Web Site', href: 'https://www.fluentis.com/it/', className: ' icon bi bi-arrow-up-right-circle-fill' },
+            { label: ' Instagram', href: 'https://www.instagram.com/fluentis.erp/', className: ' icon bi bi-instagram' },
+            { label: ' Facebook', href: 'https://www.facebook.com/FluentisSrl', className: ' icon bi bi-facebook' },
+            { label: ' YouTube', href: 'https://www.youtube.com/@formazionefluentis', className: ' bi bi-youtube' }
+          ]
+        }
       ],
-      copyright: `Fluentis SRL 2024 | C.F. e P.IVA IT01720550936`,
-    },
+      copyright: `Fluentis SRL 2024 | C.F. e P.IVA IT01720550936`
+    }
   },
   presets: [
     [
@@ -205,7 +209,7 @@ const config = {
           parentCategoriesBoost: 2, // Only used when indexDocSidebarParentCategories > 0
         }
       },
-    ],    
+    ],
   ],
 };
 

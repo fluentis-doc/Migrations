@@ -1,7 +1,7 @@
 {
   "id": "arm/home/applications/license1",
   "title": "Licenza",
-  "description": "La form contiene tutte le informazioni della licenza acquistata dal cliente e della sua configurazione.",
+  "description": "La form contiene tutte le informazioni della licenza acquistata dal cliente.",
   "source": "@site/docs/arm/home/applications/license1.md",
   "sourceDirName": "arm/home/applications",
   "slug": "/arm/home/applications/license1",

@@ -33,7 +33,7 @@ export default {
   },
   "themeConfig": {
     "navbar": {
-      "title": ".arm",
+      "title": "Arm",
       "logo": {
         "alt": "Logo",
         "src": "img/fluentis.svg",
@@ -41,21 +41,104 @@ export default {
       },
       "items": [
         {
-          "to": "docs/release-notes/intro",
-          "label": "Release Notes",
+          "label": "Home",
+          "position": "left",
+          "items": [
+            {
+              "label": "License",
+              "to": "docs/arm/home/applications/license1"
+            },
+            {
+              "label": "Company",
+              "to": "docs/arm/home/users/company"
+            },
+            {
+              "label": "Connections",
+              "to": "docs/arm/home/connections/connections-details/connections"
+            },
+            {
+              "label": "Appplications",
+              "to": "docs/specifications/FluentisMobile/specification"
+            },
+            {
+              "label": "Database Management",
+              "to": "docs/specifications/FluentisMobile/specification"
+            },
+            {
+              "label": "Custom Data Management",
+              "to": "docs/specifications/FluentisMobile/specification"
+            },
+            {
+              "label": "Context",
+              "to": "docs/specifications/FluentisMobile/specification"
+            },
+            {
+              "label": "Themes",
+              "to": "docs/specifications/FluentisMobile/specification"
+            }
+          ]
+        },
+        {
+          "label": "Platform",
+          "position": "left",
+          "items": [
+            {
+              "label": "Users",
+              "to": "docs/specifications/getting-started"
+            },
+            {
+              "label": "Ribbon Menu",
+              "to": "docs/specifications/server/linux-specifications"
+            },
+            {
+              "label": "Forms",
+              "to": "docs/specifications/server/windows-specifications"
+            },
+            {
+              "label": "Wizards",
+              "to": "docs/specifications/Fluentis%20Web/specifications"
+            },
+            {
+              "label": "WebApi",
+              "to": "docs/specifications/FluentisMobile/specification"
+            },
+            {
+              "label": "Objects Repository",
+              "to": "docs/specifications/FluentisMobile/specification"
+            },
+            {
+              "label": "Business Processes",
+              "to": "docs/specifications/FluentisMobile/specification"
+            },
+            {
+              "label": "Auti Trail",
+              "to": "docs/specifications/FluentisMobile/specification"
+            },
+            {
+              "label": "Chat Bot Options",
+              "to": "docs/specifications/FluentisMobile/specification"
+            }
+          ]
+        },
+        {
+          "to": "docs/FAQ/WINDOWSFAQ",
+          "label": "FAQ",
           "position": "right"
         },
         {
-          "type": "doc",
-          "position": "left",
-          "docId": "arm/intro",
-          "label": "Application Resource Manager"
-        },
-        {
-          "type": "localeDropdown",
+          "to": "#",
+          "label": "Release Notes",
           "position": "right",
-          "dropdownItemsBefore": [],
-          "dropdownItemsAfter": []
+          "items": [
+            {
+              "label": "1.2.71",
+              "href": "#"
+            },
+            {
+              "label": "1.2.70",
+              "href": "#"
+            }
+          ]
         }
       ],
       "hideOnScroll": false
@@ -67,17 +150,21 @@ export default {
           "title": "Fluentis Documentation",
           "items": [
             {
-              "label": "Fluentis Live Update",
-              "href": "https://docs.fluentis.com/FluentisLiveUpdate/"
-            },
-            {
               "label": "Fluentis ERP",
               "href": "https://docs.fluentis.com/FluentisErp/"
+            },
+            {
+              "label": "ARM",
+              "href": "https://docs.fluentis.com/Arm/"
+            },
+            {
+              "label": "Fluentis Live Update",
+              "href": "https://docs.fluentis.com/FluentisLiveUpdate/"
             }
           ]
         },
         {
-          "title": "Integration",
+          "title": "Fluentis Customization",
           "items": [
             {
               "label": "Integration",
@@ -100,17 +187,22 @@ export default {
             {
               "label": " Web Site",
               "href": "https://www.fluentis.com/it/",
-              "className": "icon bi bi-arrow-up-right-circle-fill"
+              "className": " icon bi bi-arrow-up-right-circle-fill"
             },
             {
               "label": " Instagram",
               "href": "https://www.instagram.com/fluentis.erp/",
-              "className": "icon bi bi-instagram"
+              "className": " icon bi bi-instagram"
             },
             {
               "label": " Facebook",
               "href": "https://www.facebook.com/FluentisSrl",
-              "className": "icon bi bi-facebook"
+              "className": " icon bi bi-facebook"
+            },
+            {
+              "label": " YouTube",
+              "href": "https://www.youtube.com/@formazionefluentis",
+              "className": " bi bi-youtube"
             }
           ]
         }

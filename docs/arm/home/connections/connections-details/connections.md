@@ -14,10 +14,17 @@ La form **Connessioni** è costituita da un filtro, un corpo centrale con grigli
 
 **Griglia dei risultati**
 * **Codice:** codice alfanumerico univoco da assegnare alla connessione.
-* **Server:** nome dell’istanza SQL (solitamente del server SQL).
-* **Database:** nome del database.
+* **Server:** nome dell’istanza MSSQL.
+* **Database:** nome del database caricato sull'istanza MSSQL.
 * **Utente:** utente sql server con diritti di accesso al database.
 * **Password:** password utente.
+
+Premendo sul pulsante si apre una form indicante il record della connessione con il nome del'ambiente e i riferimentI al database, come le credenziali dell'utente sa di MSSQL.  
+Inoltre, cliccando sul record comparirà un tab laterale ed uno in basso che rispettivamente fanno riferimento a:
+* Service Users, cioè gli utenti abilitati a contattare Fluentis dall'esterno della rete aziendale (ed. WebApi).
+* Properties, con l'indirizzo del server Fluentis.
+
+
 
 Oltre alla griglia dei risultati, sulla sinistra, è presente una griglia di dettaglio **Service Users**, utile per effettuare chiamate WCF all'esterno di Fluentis. Per esempio è possibile utilizzare i Service Users per loggarsi su eventuali server stampa esterni o quando si chiamano delle Web API che necessitano un'utenza.
 * **Nome utente**

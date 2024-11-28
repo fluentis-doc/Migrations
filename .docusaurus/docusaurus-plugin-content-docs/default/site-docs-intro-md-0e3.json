@@ -1,7 +1,7 @@
 {
   "id": "intro",
-  "title": "Fluentis ARM",
-  "description": "Application Resource Manager, di seguito definita anche con l’acronimo ARM, consente la configurazione delle applicazioni e dei parametri di accesso delle applicazioni a livello database ed utente. Definisce i menù applicativi standard e personalizzati per ruoli/utenti. Stabilisce inoltre restrizioni, diritti di accesso ad ogni singola procedura e funzionalità dell’applicazione. Per quanto concerne lo sviluppo di applicazioni, ARM è lo strumento che permette la consultazione, gestione e creazione degli oggetti business utilizzabili e utilizzati dalle applicazioni.",
+  "title": "Application Resource Manager",
+  "description": "L'Application Resource Manager, di seguito anche 'Arm', è un'applicativo facente parte della Suite Fluentis, e si tratta del principale strumento amministrativo di Fluentis ERP.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -11,6 +11,6 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Fluentis ARM"
+    "title": "Application Resource Manager"
   }
 }

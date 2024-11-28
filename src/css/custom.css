@@ -1,7 +1,6 @@
 @import '~bootstrap-icons/font/bootstrap-icons.css';
 
 
-
 :root {
   --ifm-color-primary: #4c769b;
   --ifm-color-primary-dark: #3e6077;
@@ -29,7 +28,6 @@
 
   --ifm-code-font-size: 95%;
 }
-
 details>summary {
   cursor: pointer;
 }
@@ -104,11 +102,12 @@ a:hover {
 
 .footer .footer__links a {
   font-size: 0.9rem;
-  color: #fff;
+  color: white;
   text-decoration: none;
 }
 
 .footer .footer__title {
+  color:white;
   font-size: 1.0rem;
 }
 
@@ -137,17 +136,23 @@ a:hover {
   align-items: center;
 }
 
-.search-row{
+.search-row {
   width: 75%;
 }
 
 .bottoneCustom {
+  font-size: 1.8rem;
+  margin-top: 5px;
+  font-weight: 100;
+  padding: 3px;
+  transition: background-color 0.4s ease, color 0.4s ease, transform 0.4s ease;
+}
 
-font-size: 1.8rem;
-margin-top: 5px;
-font-weight: 100;
-padding: 3px;
-
+.bottoneCustom:hover {
+  background-color: white;
+  color: #4c769b;
+  transform: scale(1.11);
+  
 }
 
 .heroBanner {
@@ -172,7 +177,7 @@ padding: 3px;
 .features {
   display: flex;
   align-items: center;
-   padding: 2rem 0;
+  padding: 2rem 0;
   width: 100%;
 }
 
@@ -180,3 +185,4 @@ padding: 3px;
   height: 10%;
   width: 10%;
 }
+

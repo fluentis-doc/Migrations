@@ -3,12 +3,12 @@ title: Licenza
 sidebar_position: 3
 ---
 
-La form contiene tutte le informazioni della licenza acquistata dal cliente e della sua configurazione.
+La form contiene tutte le informazioni della licenza acquistata dal cliente.
 
 La form **Licenza** è costituita da un corpo centrale che mostra il numero seriale e una ribbon bar con le azione consentite all'utente.
 
 **Corpo centrale**
-* **Numero seriale:** è il numero seriale della licenza che è stata associata al cliente. 
+* **Numero seriale:** è il numero seriale della licenza che è stata associata al cliente, ed è univoco.
 
 **Azioni**
 * **Salva:** permette di salvare il numero seriale della licenza, questo da modo poi di configurare gli ambienti associati alla licenza e per ogni ambiente le applicazioni collegate.
@@ -20,3 +20,4 @@ La form **Licenza** è costituita da un corpo centrale che mostra il numero seri
 * **Richiesta licenza demo:** procedura per richiedere una licenza demo a scopi commerciali. Questa richiesta può essere fatta aprendo un ticket direttamente a Fluentis.
 * **Visualizza licenza:** permette di visualizzare tutti i dettagli relativi alla licenza rilasciata al cliente.
 
+![alt text](image.png)

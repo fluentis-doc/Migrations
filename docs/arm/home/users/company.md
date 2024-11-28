@@ -3,11 +3,8 @@ title: Società
 sidebar_position: 2
 ---
 
-Questa procedura permette la definizione delle società con relative divisioni che vengono gestite da ARM e dall’applicativo Fluentis. 
-
-![](/img/home/users/company1.png)
-
-La form **Società** è una filter form costituita da un filtro, una griglia dei risultati divisa in griglia principale e griglia di dettaglio e una ribbon bar con le azioni possibili.
+Il medesimo sistema gestionale Fluentis ERP permette di lavorare con più Società, ognuna del quale avrà n. divisioni.  
+In questa form è possibile definire le società con le relative dvivisioni cio cui opera. La form si compone così come segue:  
 
 **Filtro**
 * **Nome**
@@ -28,3 +25,5 @@ La cosa importante è che il codice della società inserito in ARM corrisponda a
 **Azioni**
 * **Ricerca:** per applicare le regole di filtro e caricare la lista delle società disponibili.
 * **Elimina:** per eliminare la società selezionata.
+
+![alt text](image.png)

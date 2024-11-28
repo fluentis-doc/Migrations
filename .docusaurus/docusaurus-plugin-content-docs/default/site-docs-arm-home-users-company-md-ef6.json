@@ -1,7 +1,7 @@
 {
   "id": "arm/home/users/company",
   "title": "Società",
-  "description": "Questa procedura permette la definizione delle società con relative divisioni che vengono gestite da ARM e dall’applicativo Fluentis.",
+  "description": "Il medesimo sistema gestionale Fluentis ERP permette di lavorare con più Società, ognuna del quale avrà n. divisioni.",
   "source": "@site/docs/arm/home/users/company.md",
   "sourceDirName": "arm/home/users",
   "slug": "/arm/home/users/company",
