@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/users/users-details/LDAP-config",
+  "title": "Configurazione LDAP",
+  "description": "Per automatizzare il processo di importazione degli utenti da Active Directory, è necessario configurare in ARM uno o più LDAP tramite la form Configurazione LDAP.",
+  "source": "@site/docs/arm/home/users/users-details/LDAP-config.md",
+  "sourceDirName": "arm/home/users/users-details",
+  "slug": "/arm/home/users/users-details/LDAP-config",
+  "permalink": "/Arm/docs/arm/home/users/users-details/LDAP-config",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Configurazione LDAP",
+    "sidebar_position": 6
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Tipo directory e-mail",
+    "permalink": "/Arm/docs/arm/home/users/users-details/email-dir-type"
+  },
+  "next": {
+    "title": "Società",
+    "permalink": "/Arm/docs/arm/home/users/company"
+  }
+}

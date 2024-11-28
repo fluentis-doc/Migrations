@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/schema/database/menuContestuale",
+  "title": "Menu contestuale",
+  "description": "Il menu contestuale, a cui si accede tramite tasto destro del mouse, permette di interagire con i vari oggetti del database.",
+  "source": "@site/docs/arm/home/schema/database/menuContestuale.md",
+  "sourceDirName": "arm/home/schema/database",
+  "slug": "/arm/home/schema/database/menuContestuale",
+  "permalink": "/Arm/docs/arm/home/schema/database/menuContestuale",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Menu contestuale",
+    "sidebar_position": 7
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Configurazione Pannelli Contestuali",
+    "permalink": "/Arm/docs/arm/home/schema/database/context-panel-configuration"
+  },
+  "next": {
+    "title": "Tabella",
+    "permalink": "/Arm/docs/arm/home/schema/database/tabella"
+  }
+}

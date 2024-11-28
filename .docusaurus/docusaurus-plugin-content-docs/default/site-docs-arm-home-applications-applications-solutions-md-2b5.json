@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/applications/applications/solutions",
+  "title": "Soluzione",
+  "description": "In questa form è possibile visualizzare tutti i moduli di Fluentis con i rispettivi dettagli.",
+  "source": "@site/docs/arm/home/applications/applications/solutions.md",
+  "sourceDirName": "arm/home/applications/applications",
+  "slug": "/arm/home/applications/applications/solutions",
+  "permalink": "/Arm/docs/arm/home/applications/applications/solutions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Soluzione",
+    "sidebar_position": 5
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Nazioni",
+    "permalink": "/Arm/docs/arm/home/applications/applications/nations"
+  },
+  "next": {
+    "title": "Dizionario",
+    "permalink": "/Arm/docs/arm/home/applications/dictionary/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/schema/database/rights",
+  "title": "Diritti",
+  "description": "La form permette di gestire e configurare tutti i diritti di esecuzione di azioni nell'applicativo.",
+  "source": "@site/docs/arm/home/schema/database/rights.md",
+  "sourceDirName": "arm/home/schema/database",
+  "slug": "/arm/home/schema/database/rights",
+  "permalink": "/Arm/docs/arm/home/schema/database/rights",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Diritti",
+    "sidebar_position": 3
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Schema applicazioni",
+    "permalink": "/Arm/docs/arm/home/schema/database/application-schema"
+  },
+  "next": {
+    "title": "Acceleratori",
+    "permalink": "/Arm/docs/arm/home/schema/database/accelerators"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arm/fluentis/objects-repository/objects-navigator/objects-navigator",
+  "title": "Navigatore Oggetti",
+  "description": "L’elemento fondamentale per lavorare con oggetti e relative proprietà è l’Object Navigator. Da ARM, andando sul Tab Fluentis, possiamo accedere all’Object Navigator.",
+  "source": "@site/docs/arm/fluentis/objects-repository/objects-navigator/objects-navigator.md",
+  "sourceDirName": "arm/fluentis/objects-repository/objects-navigator",
+  "slug": "/arm/fluentis/objects-repository/objects-navigator/",
+  "permalink": "/Arm/docs/arm/fluentis/objects-repository/objects-navigator/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Navigatore Oggetti",
+    "sidebar_position": 2
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "EntryPoint Commands",
+    "permalink": "/Arm/docs/arm/fluentis/forms/forms/entrypoint-commands"
+  },
+  "next": {
+    "title": "Oggetto Business",
+    "permalink": "/Arm/docs/arm/fluentis/objects-repository/objects-navigator/business-object/"
+  }
+}

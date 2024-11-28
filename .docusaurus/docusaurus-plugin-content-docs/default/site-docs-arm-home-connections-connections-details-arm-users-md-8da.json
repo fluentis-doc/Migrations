@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/connections/connections-details/arm-users",
+  "title": "Utenti ARM",
+  "description": "Richiama la procedura per inserire tutti gli utenti che potranno accedere all’applicazione Application Resource Manager. Si potranno, tramite questa form, aggiungere sia utenti di dominio che utenti a livello database. A differenza degli utenti Fluentis, gli utenti ARM non si possono importare da active directory ma vanno sempre aggiunti manualmente.",
+  "source": "@site/docs/arm/home/connections/connections-details/arm-users.md",
+  "sourceDirName": "arm/home/connections/connections-details",
+  "slug": "/arm/home/connections/connections-details/arm-users",
+  "permalink": "/Arm/docs/arm/home/connections/connections-details/arm-users",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Utenti ARM",
+    "sidebar_position": 2
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Connessioni",
+    "permalink": "/Arm/docs/arm/home/connections/connections-details/connections"
+  },
+  "next": {
+    "title": "Utenti BizLink",
+    "permalink": "/Arm/docs/arm/home/connections/connections-details/bizlink-users"
+  }
+}

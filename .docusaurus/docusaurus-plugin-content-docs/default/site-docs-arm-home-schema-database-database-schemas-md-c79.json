@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/schema/database/database-schemas",
+  "title": "Database Schemas",
+  "description": "Il Database Schema rappresenta lo schema del Database al quale si riferiscono una o più applicazioni.",
+  "source": "@site/docs/arm/home/schema/database/database-schemas.md",
+  "sourceDirName": "arm/home/schema/database",
+  "slug": "/arm/home/schema/database/database-schemas",
+  "permalink": "/Arm/docs/arm/home/schema/database/database-schemas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Database Schemas",
+    "sidebar_position": 1
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Database",
+    "permalink": "/Arm/docs/arm/home/schema/database/"
+  },
+  "next": {
+    "title": "Schema applicazioni",
+    "permalink": "/Arm/docs/arm/home/schema/database/application-schema"
+  }
+}

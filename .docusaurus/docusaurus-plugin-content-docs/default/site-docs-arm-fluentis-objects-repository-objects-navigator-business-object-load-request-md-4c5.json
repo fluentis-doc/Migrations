@@ -1,0 +1,27 @@
+{
+  "id": "arm/fluentis/objects-repository/objects-navigator/business-object/load-request",
+  "title": "Load Request",
+  "description": "Generale",
+  "source": "@site/docs/arm/fluentis/objects-repository/objects-navigator/business-object/load-request.md",
+  "sourceDirName": "arm/fluentis/objects-repository/objects-navigator/business-object",
+  "slug": "/arm/fluentis/objects-repository/objects-navigator/business-object/load-request",
+  "permalink": "/Arm/docs/arm/fluentis/objects-repository/objects-navigator/business-object/load-request",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Load Request",
+    "sidebar_position": 4
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Proprietà",
+    "permalink": "/Arm/docs/arm/fluentis/objects-repository/objects-navigator/business-object/business-property"
+  },
+  "next": {
+    "title": "Workflow",
+    "permalink": "/Arm/docs/arm/fluentis/objects-repository/objects-navigator/business-object/workflow"
+  }
+}

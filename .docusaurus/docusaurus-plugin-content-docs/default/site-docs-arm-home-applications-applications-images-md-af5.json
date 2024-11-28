@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/applications/applications/images",
+  "title": "Immagini",
+  "description": "Questa procedura consente all’utente di modificare, aggiungere, eliminare delle nuove immagini associando un codice ed una descrizione.",
+  "source": "@site/docs/arm/home/applications/applications/images.md",
+  "sourceDirName": "arm/home/applications/applications",
+  "slug": "/arm/home/applications/applications/images",
+  "permalink": "/Arm/docs/arm/home/applications/applications/images",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Immagini",
+    "sidebar_position": 2
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Applicazioni",
+    "permalink": "/Arm/docs/arm/home/applications/applications/"
+  },
+  "next": {
+    "title": "Versione applicazione",
+    "permalink": "/Arm/docs/arm/home/applications/applications/version-application"
+  }
+}

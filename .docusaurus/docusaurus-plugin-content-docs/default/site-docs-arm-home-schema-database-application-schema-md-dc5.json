@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/schema/database/application-schema",
+  "title": "Schema applicazioni",
+  "description": "La form, selezionato una schema del database, permette di identificare la lista di applicazioni disponibili, deciderne l'abilitazione o inserirne di nuove.",
+  "source": "@site/docs/arm/home/schema/database/application-schema.md",
+  "sourceDirName": "arm/home/schema/database",
+  "slug": "/arm/home/schema/database/application-schema",
+  "permalink": "/Arm/docs/arm/home/schema/database/application-schema",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Schema applicazioni",
+    "sidebar_position": 2
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Database Schemas",
+    "permalink": "/Arm/docs/arm/home/schema/database/database-schemas"
+  },
+  "next": {
+    "title": "Diritti",
+    "permalink": "/Arm/docs/arm/home/schema/database/rights"
+  }
+}

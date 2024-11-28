@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/applications/license1",
+  "title": "Licenza",
+  "description": "La form contiene tutte le informazioni della licenza acquistata dal cliente e della sua configurazione.",
+  "source": "@site/docs/arm/home/applications/license1.md",
+  "sourceDirName": "arm/home/applications",
+  "slug": "/arm/home/applications/license1",
+  "permalink": "/Arm/docs/arm/home/applications/license1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Licenza",
+    "sidebar_position": 3
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Lingue",
+    "permalink": "/Arm/docs/arm/home/applications/dictionary/languages"
+  },
+  "next": {
+    "title": "Database",
+    "permalink": "/Arm/docs/arm/home/schema/database/"
+  }
+}

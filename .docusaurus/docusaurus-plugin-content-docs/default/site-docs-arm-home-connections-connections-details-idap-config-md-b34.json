@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/connections/connections-details/idap-config",
+  "title": "Configurazione globale LDAP",
+  "description": "Configurazione LDAP",
+  "source": "@site/docs/arm/home/connections/connections-details/idap-config.md",
+  "sourceDirName": "arm/home/connections/connections-details",
+  "slug": "/arm/home/connections/connections-details/idap-config",
+  "permalink": "/Arm/docs/arm/home/connections/connections-details/idap-config",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Configurazione globale LDAP",
+    "sidebar_position": 5
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Utenti Supervisor",
+    "permalink": "/Arm/docs/arm/home/connections/connections-details/supervisor-users"
+  },
+  "next": {
+    "title": "Applicazioni",
+    "permalink": "/Arm/docs/arm/home/applications/applications/"
+  }
+}

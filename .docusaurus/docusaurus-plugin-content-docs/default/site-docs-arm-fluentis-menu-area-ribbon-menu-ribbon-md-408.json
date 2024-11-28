@@ -1,0 +1,27 @@
+{
+  "id": "arm/fluentis/menu-area/ribbon-menu/ribbon",
+  "title": "Ribbon - Modifica",
+  "description": "L'Object form di edit della ribbon permette di personalizzare la ribbon, è possibile creare bottoni raggrupparli e dividerli come si preferisce, è anche possibile far visualizzare determinati elementi in determinate soluzioni e piattaforme.",
+  "source": "@site/docs/arm/fluentis/menu-area/ribbon-menu/ribbon.md",
+  "sourceDirName": "arm/fluentis/menu-area/ribbon-menu",
+  "slug": "/arm/fluentis/menu-area/ribbon-menu/ribbon",
+  "permalink": "/Arm/docs/arm/fluentis/menu-area/ribbon-menu/ribbon",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Ribbon - Modifica",
+    "sidebar_position": 1
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Ribbon",
+    "permalink": "/Arm/docs/arm/fluentis/menu-area/ribbon-menu/"
+  },
+  "next": {
+    "title": "Operazioni",
+    "permalink": "/Arm/docs/arm/fluentis/rights/rights-details/operations"
+  }
+}

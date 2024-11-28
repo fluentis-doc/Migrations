@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/home",
+  "title": "Home",
+  "description": "Menu Home.",
+  "source": "@site/docs/arm/home/home.md",
+  "sourceDirName": "arm/home",
+  "slug": "/arm/home/",
+  "permalink": "/Arm/docs/arm/home/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Home",
+    "sidebar_position": 1
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "ARM",
+    "permalink": "/Arm/docs/arm/intro"
+  },
+  "next": {
+    "title": "Utenti",
+    "permalink": "/Arm/docs/arm/home/users/users-details/users"
+  }
+}

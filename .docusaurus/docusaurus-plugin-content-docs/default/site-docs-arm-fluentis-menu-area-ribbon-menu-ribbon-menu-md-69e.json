@@ -1,0 +1,27 @@
+{
+  "id": "arm/fluentis/menu-area/ribbon-menu/ribbon-menu",
+  "title": "Ribbon",
+  "description": "Questa form di ARM è dedicata alla gestione dei menu Fluentis.",
+  "source": "@site/docs/arm/fluentis/menu-area/ribbon-menu/ribbon-menu.md",
+  "sourceDirName": "arm/fluentis/menu-area/ribbon-menu",
+  "slug": "/arm/fluentis/menu-area/ribbon-menu/",
+  "permalink": "/Arm/docs/arm/fluentis/menu-area/ribbon-menu/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Ribbon",
+    "sidebar_position": 2
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Fluentis",
+    "permalink": "/Arm/docs/arm/fluentis/"
+  },
+  "next": {
+    "title": "Ribbon - Modifica",
+    "permalink": "/Arm/docs/arm/fluentis/menu-area/ribbon-menu/ribbon"
+  }
+}

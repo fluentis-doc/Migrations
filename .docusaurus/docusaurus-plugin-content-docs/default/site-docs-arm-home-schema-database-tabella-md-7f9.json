@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/schema/database/tabella",
+  "title": "Tabella",
+  "description": "Le Tabelle sono la prima rappresentazione degli oggetti in Fluentis, esse vengono prima create a DataBase per la permanenza e poi mappate attraverso NHibernate per avere una rappresentazione Object Oriented all'interno dell'applicativo.",
+  "source": "@site/docs/arm/home/schema/database/tabella.md",
+  "sourceDirName": "arm/home/schema/database",
+  "slug": "/arm/home/schema/database/tabella",
+  "permalink": "/Arm/docs/arm/home/schema/database/tabella",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Tabella",
+    "sidebar_position": 8
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Menu contestuale",
+    "permalink": "/Arm/docs/arm/home/schema/database/menuContestuale"
+  },
+  "next": {
+    "title": "Forms",
+    "permalink": "/Arm/docs/arm/home/schema/forms/intro"
+  }
+}

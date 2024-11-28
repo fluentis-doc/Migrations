@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/users/users-details/import-ad",
+  "title": "Importazione da Active Directory",
+  "description": "La procedura permette di sfogliare la struttura Active Directory a cui appartiene il server di ARM ed avere una lista degli utenti definiti nel Dominio Windows. Nel caso in cui il server di ARM faccia parte di un WorkGroup, tale procedura non può visualizzare alcuna informazione. Appena il server Arm verrà messo a dominio verrà in automatico rilevato l'AD.",
+  "source": "@site/docs/arm/home/users/users-details/import-ad.md",
+  "sourceDirName": "arm/home/users/users-details",
+  "slug": "/arm/home/users/users-details/import-ad",
+  "permalink": "/Arm/docs/arm/home/users/users-details/import-ad",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Importazione da Active Directory",
+    "sidebar_position": 2
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Utenti",
+    "permalink": "/Arm/docs/arm/home/users/users-details/users"
+  },
+  "next": {
+    "title": "Stampa utenti",
+    "permalink": "/Arm/docs/arm/home/users/users-details/user-print"
+  }
+}

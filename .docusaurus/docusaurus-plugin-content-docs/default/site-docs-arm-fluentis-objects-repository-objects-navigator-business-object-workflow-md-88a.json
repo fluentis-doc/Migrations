@@ -1,0 +1,27 @@
+{
+  "id": "arm/fluentis/objects-repository/objects-navigator/business-object/workflow",
+  "title": "Workflow",
+  "description": "I workflow sono un potente mezzo di gestione dei flussi operativi tra gli utenti definiti in Fluentis, ma anche esterni all’azienda, consentendo di formalizzare e automatizzare i vari passaggi logici tra utenti e ruoli aziendali.",
+  "source": "@site/docs/arm/fluentis/objects-repository/objects-navigator/business-object/workflow.md",
+  "sourceDirName": "arm/fluentis/objects-repository/objects-navigator/business-object",
+  "slug": "/arm/fluentis/objects-repository/objects-navigator/business-object/workflow",
+  "permalink": "/Arm/docs/arm/fluentis/objects-repository/objects-navigator/business-object/workflow",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Workflow",
+    "sidebar_position": 5
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Load Request",
+    "permalink": "/Arm/docs/arm/fluentis/objects-repository/objects-navigator/business-object/load-request"
+  },
+  "next": {
+    "title": "Unità di lavoro",
+    "permalink": "/Arm/docs/arm/fluentis/objects-repository/working-units"
+  }
+}

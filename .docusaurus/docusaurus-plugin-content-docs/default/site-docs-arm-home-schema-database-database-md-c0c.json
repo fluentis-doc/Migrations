@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/schema/database/database",
+  "title": "Database",
+  "description": "Il Database rappresenta la struttura delle tabelle in Fluentis.",
+  "source": "@site/docs/arm/home/schema/database/database.md",
+  "sourceDirName": "arm/home/schema/database",
+  "slug": "/arm/home/schema/database/",
+  "permalink": "/Arm/docs/arm/home/schema/database/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Database",
+    "sidebar_position": 1
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Licenza",
+    "permalink": "/Arm/docs/arm/home/applications/license1"
+  },
+  "next": {
+    "title": "Database Schemas",
+    "permalink": "/Arm/docs/arm/home/schema/database/database-schemas"
+  }
+}

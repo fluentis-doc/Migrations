@@ -1,0 +1,27 @@
+{
+  "id": "arm/fluentis/rights/Stampe/Diritti Stampe/Diritti Stampe",
+  "title": "Stampa Diritti",
+  "description": "",
+  "source": "@site/docs/arm/fluentis/rights/Stampe/Diritti Stampe/Diritti Stampe.md",
+  "sourceDirName": "arm/fluentis/rights/Stampe/Diritti Stampe",
+  "slug": "/arm/fluentis/rights/Stampe/Diritti Stampe/",
+  "permalink": "/Arm/docs/arm/fluentis/rights/Stampe/Diritti Stampe/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Stampa Diritti",
+    "sidebar_position": 1
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Ruoli",
+    "permalink": "/Arm/docs/arm/fluentis/rights/roles"
+  },
+  "next": {
+    "title": "Server Stampa",
+    "permalink": "/Arm/docs/arm/fluentis/rights/Stampe/Server Stampa/"
+  }
+}

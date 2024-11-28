@@ -1,0 +1,27 @@
+{
+  "id": "arm/fluentis/fluentis",
+  "title": "Fluentis",
+  "description": "Menu Fluentis.",
+  "source": "@site/docs/arm/fluentis/fluentis.md",
+  "sourceDirName": "arm/fluentis",
+  "slug": "/arm/fluentis/",
+  "permalink": "/Arm/docs/arm/fluentis/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Fluentis",
+    "sidebar_position": 1
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Contesto",
+    "permalink": "/Arm/docs/arm/home/context"
+  },
+  "next": {
+    "title": "Ribbon",
+    "permalink": "/Arm/docs/arm/fluentis/menu-area/ribbon-menu/"
+  }
+}

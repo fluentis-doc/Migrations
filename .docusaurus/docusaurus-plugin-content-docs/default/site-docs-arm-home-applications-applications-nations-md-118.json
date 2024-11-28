@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/applications/applications/nations",
+  "title": "Nazioni",
+  "description": "Questa procedura prevede una lista delle Nazioni che vengono gestite dalle applicazioni definite in ARM.",
+  "source": "@site/docs/arm/home/applications/applications/nations.md",
+  "sourceDirName": "arm/home/applications/applications",
+  "slug": "/arm/home/applications/applications/nations",
+  "permalink": "/Arm/docs/arm/home/applications/applications/nations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Nazioni",
+    "sidebar_position": 4
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Versione applicazione",
+    "permalink": "/Arm/docs/arm/home/applications/applications/version-application"
+  },
+  "next": {
+    "title": "Soluzione",
+    "permalink": "/Arm/docs/arm/home/applications/applications/solutions"
+  }
+}

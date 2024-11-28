@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": ".arm",
+    "description": "The title in the navbar"
+  },
+  "item.label.Fluentis Live Update": {
+    "message": "Fluentis Live Update",
+    "description": "Navbar item with label Fluentis Live Update"
+  },
+  "item.label.Application Resource Manager": {
+    "message": "Application Resource Manager",
+    "description": "Navbar item with label FApplication Resource Manager"
+  },
+  "item.label.News": {
+    "message": "News",
+    "description": "Navbar item with label News"
+  }
+}

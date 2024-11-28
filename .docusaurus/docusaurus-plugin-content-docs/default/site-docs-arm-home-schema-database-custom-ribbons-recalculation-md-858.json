@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/schema/database/custom-ribbons-recalculation",
+  "title": "Ricalcolo ribbon personalizzati",
+  "description": "La form Ricalcolo ribbon personalizzati permette di effettuare un ricalcolo di tutti i ribbon personalizzati. Deve essere utilizzata in caso di aggiornamento di versione o di problemi/conflitti con la visualizzazione dei comandi su una ribbon custom a seguito di aggiornamenti o al caricamento di nuove personalizzazioni.",
+  "source": "@site/docs/arm/home/schema/database/custom-ribbons-recalculation.md",
+  "sourceDirName": "arm/home/schema/database",
+  "slug": "/arm/home/schema/database/custom-ribbons-recalculation",
+  "permalink": "/Arm/docs/arm/home/schema/database/custom-ribbons-recalculation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Ricalcolo ribbon personalizzati",
+    "sidebar_position": 5
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Acceleratori",
+    "permalink": "/Arm/docs/arm/home/schema/database/accelerators"
+  },
+  "next": {
+    "title": "Configurazione Pannelli Contestuali",
+    "permalink": "/Arm/docs/arm/home/schema/database/context-panel-configuration"
+  }
+}

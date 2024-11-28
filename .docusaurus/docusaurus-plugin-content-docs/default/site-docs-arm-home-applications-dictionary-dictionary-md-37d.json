@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/applications/dictionary/dictionary",
+  "title": "Dizionario",
+  "description": "Filter Form",
+  "source": "@site/docs/arm/home/applications/dictionary/dictionary.md",
+  "sourceDirName": "arm/home/applications/dictionary",
+  "slug": "/arm/home/applications/dictionary/",
+  "permalink": "/Arm/docs/arm/home/applications/dictionary/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Dizionario",
+    "sidebar_position": 1
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Soluzione",
+    "permalink": "/Arm/docs/arm/home/applications/applications/solutions"
+  },
+  "next": {
+    "title": "Lingue",
+    "permalink": "/Arm/docs/arm/home/applications/dictionary/languages"
+  }
+}

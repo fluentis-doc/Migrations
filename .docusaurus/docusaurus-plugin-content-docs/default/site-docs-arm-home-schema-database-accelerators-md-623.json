@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/schema/database/accelerators",
+  "title": "Acceleratori",
+  "description": "La form permette di gestire gli shortcuts da tastiera da associare ai comandi dell'applicativo.",
+  "source": "@site/docs/arm/home/schema/database/accelerators.md",
+  "sourceDirName": "arm/home/schema/database",
+  "slug": "/arm/home/schema/database/accelerators",
+  "permalink": "/Arm/docs/arm/home/schema/database/accelerators",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Acceleratori",
+    "sidebar_position": 4
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Diritti",
+    "permalink": "/Arm/docs/arm/home/schema/database/rights"
+  },
+  "next": {
+    "title": "Ricalcolo ribbon personalizzati",
+    "permalink": "/Arm/docs/arm/home/schema/database/custom-ribbons-recalculation"
+  }
+}

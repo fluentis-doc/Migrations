@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/connections/connections-details/connections",
+  "title": "Connessioni",
+  "description": "In questo gruppo vengono mostrati i parametri di connessione ai database di SQL Server. A tali database verranno poi definiti gli accessi alle varie applicazioni.",
+  "source": "@site/docs/arm/home/connections/connections-details/connections.md",
+  "sourceDirName": "arm/home/connections/connections-details",
+  "slug": "/arm/home/connections/connections-details/connections",
+  "permalink": "/Arm/docs/arm/home/connections/connections-details/connections",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Connessioni",
+    "sidebar_position": 1
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Tipi Restrizioni",
+    "permalink": "/Arm/docs/arm/home/users/restriction-type"
+  },
+  "next": {
+    "title": "Utenti ARM",
+    "permalink": "/Arm/docs/arm/home/connections/connections-details/arm-users"
+  }
+}

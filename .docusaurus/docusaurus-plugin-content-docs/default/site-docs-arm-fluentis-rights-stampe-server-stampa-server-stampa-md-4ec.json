@@ -1,0 +1,27 @@
+{
+  "id": "arm/fluentis/rights/Stampe/Server Stampa/Server Stampa",
+  "title": "Server Stampa",
+  "description": "Configurazione Stampe Xamarin WMS",
+  "source": "@site/docs/arm/fluentis/rights/Stampe/Server Stampa/Server Stampa.md",
+  "sourceDirName": "arm/fluentis/rights/Stampe/Server Stampa",
+  "slug": "/arm/fluentis/rights/Stampe/Server Stampa/",
+  "permalink": "/Arm/docs/arm/fluentis/rights/Stampe/Server Stampa/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Server Stampa",
+    "sidebar_position": 2
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Stampa Diritti",
+    "permalink": "/Arm/docs/arm/fluentis/rights/Stampe/Diritti Stampe/"
+  },
+  "next": {
+    "title": "Forms",
+    "permalink": "/Arm/docs/arm/fluentis/forms/forms/"
+  }
+}

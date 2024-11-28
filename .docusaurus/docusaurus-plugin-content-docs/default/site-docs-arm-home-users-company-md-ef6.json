@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/users/company",
+  "title": "Società",
+  "description": "Questa procedura permette la definizione delle società con relative divisioni che vengono gestite da ARM e dall’applicativo Fluentis.",
+  "source": "@site/docs/arm/home/users/company.md",
+  "sourceDirName": "arm/home/users",
+  "slug": "/arm/home/users/company",
+  "permalink": "/Arm/docs/arm/home/users/company",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Società",
+    "sidebar_position": 2
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Configurazione LDAP",
+    "permalink": "/Arm/docs/arm/home/users/users-details/LDAP-config"
+  },
+  "next": {
+    "title": "Tipi Restrizioni",
+    "permalink": "/Arm/docs/arm/home/users/restriction-type"
+  }
+}

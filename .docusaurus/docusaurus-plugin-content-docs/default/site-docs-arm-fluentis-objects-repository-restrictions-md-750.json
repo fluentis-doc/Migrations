@@ -1,0 +1,23 @@
+{
+  "id": "arm/fluentis/objects-repository/restrictions",
+  "title": "Restrizioni",
+  "description": "La form di gestione delle Restrizioni ci permette di filtrare e cercare la restrizione desiderata ma anche di modificarla o di crearne una nuova.",
+  "source": "@site/docs/arm/fluentis/objects-repository/restrictions.md",
+  "sourceDirName": "arm/fluentis/objects-repository",
+  "slug": "/arm/fluentis/objects-repository/restrictions",
+  "permalink": "/Arm/docs/arm/fluentis/objects-repository/restrictions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Restrizioni",
+    "sidebar_position": 4
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Unità di lavoro",
+    "permalink": "/Arm/docs/arm/fluentis/objects-repository/working-units"
+  }
+}

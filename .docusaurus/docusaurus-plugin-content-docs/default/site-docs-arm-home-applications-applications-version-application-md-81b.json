@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/applications/applications/version-application",
+  "title": "Versione applicazione",
+  "description": "La form permette di visualizzare e scaricare il contenuto dei pacchetti realizzati per le varie release dell'applicativo.",
+  "source": "@site/docs/arm/home/applications/applications/version-application.md",
+  "sourceDirName": "arm/home/applications/applications",
+  "slug": "/arm/home/applications/applications/version-application",
+  "permalink": "/Arm/docs/arm/home/applications/applications/version-application",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Versione applicazione",
+    "sidebar_position": 3
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Immagini",
+    "permalink": "/Arm/docs/arm/home/applications/applications/images"
+  },
+  "next": {
+    "title": "Nazioni",
+    "permalink": "/Arm/docs/arm/home/applications/applications/nations"
+  }
+}
