@@ -3,7 +3,8 @@ title: Licenza
 sidebar_position: 3
 ---
 
-La form contiene tutte le informazioni della licenza acquistata dal cliente.
+La licenza è rappresentata da un codice univoco che viene fornito alla Società cliente di Fluentis S.r.l.
+
 
 La form **Licenza** è costituita da un corpo centrale che mostra il numero seriale e una ribbon bar con le azione consentite all'utente.
 
@@ -21,3 +22,5 @@ La form **Licenza** è costituita da un corpo centrale che mostra il numero seri
 * **Visualizza licenza:** permette di visualizzare tutti i dettagli relativi alla licenza rilasciata al cliente.
 
 ![alt text](image.png)
+
+

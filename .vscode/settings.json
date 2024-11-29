@@ -1,0 +1,6 @@
+{
+    "pasteImage.path": "",
+    "pasteImage.basePath": "${projectRoot}/static/img",
+    "pasteImage.filePathConfirmInputBoxMode": "onlyName",
+    "pasteImage.insertPattern": "![${imageName}](./static/img/${imageFileName})"
+}

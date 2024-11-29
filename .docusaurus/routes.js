@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/Arm/docs',
-    component: ComponentCreator('/Arm/docs', '4f4'),
+    component: ComponentCreator('/Arm/docs', '1d7'),
     routes: [
       {
         path: '/Arm/docs',
-        component: ComponentCreator('/Arm/docs', '239'),
+        component: ComponentCreator('/Arm/docs', '4e2'),
         routes: [
           {
             path: '/Arm/docs',
-            component: ComponentCreator('/Arm/docs', '15b'),
+            component: ComponentCreator('/Arm/docs', 'b14'),
             routes: [
               {
                 path: '/Arm/docs/arm/fluentis/',
@@ -190,24 +190,6 @@ export default [
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/applications/applications/nations',
-                component: ComponentCreator('/Arm/docs/arm/home/applications/applications/nations', 'c8d'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/home/applications/applications/solutions',
-                component: ComponentCreator('/Arm/docs/arm/home/applications/applications/solutions', '8ec'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/home/applications/applications/version-application',
-                component: ComponentCreator('/Arm/docs/arm/home/applications/applications/version-application', 'a9e'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
                 path: '/Arm/docs/arm/home/applications/dictionary/',
                 component: ComponentCreator('/Arm/docs/arm/home/applications/dictionary/', 'a84'),
                 exact: true,
@@ -274,68 +256,68 @@ export default [
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/schema/database/',
-                component: ComponentCreator('/Arm/docs/arm/home/schema/database/', '083'),
+                path: '/Arm/docs/arm/home/Database Management/database/',
+                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database/', 'b98'),
                 exact: true,
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/schema/database/accelerators',
-                component: ComponentCreator('/Arm/docs/arm/home/schema/database/accelerators', '65d'),
+                path: '/Arm/docs/arm/home/Database Management/database/accelerators',
+                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database/accelerators', '0ad'),
                 exact: true,
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/schema/database/application-schema',
-                component: ComponentCreator('/Arm/docs/arm/home/schema/database/application-schema', '473'),
+                path: '/Arm/docs/arm/home/Database Management/database/application-schema',
+                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database/application-schema', 'b33'),
                 exact: true,
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/schema/database/context-panel-configuration',
-                component: ComponentCreator('/Arm/docs/arm/home/schema/database/context-panel-configuration', '44d'),
+                path: '/Arm/docs/arm/home/Database Management/database/context-panel-configuration',
+                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database/context-panel-configuration', 'c05'),
                 exact: true,
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/schema/database/custom-ribbons-recalculation',
-                component: ComponentCreator('/Arm/docs/arm/home/schema/database/custom-ribbons-recalculation', 'cdd'),
+                path: '/Arm/docs/arm/home/Database Management/database/custom-ribbons-recalculation',
+                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database/custom-ribbons-recalculation', '860'),
                 exact: true,
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/schema/database/database-schemas',
-                component: ComponentCreator('/Arm/docs/arm/home/schema/database/database-schemas', 'bd8'),
+                path: '/Arm/docs/arm/home/Database Management/database/database-schemas',
+                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database/database-schemas', '54d'),
                 exact: true,
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/schema/database/menuContestuale',
-                component: ComponentCreator('/Arm/docs/arm/home/schema/database/menuContestuale', '36a'),
+                path: '/Arm/docs/arm/home/Database Management/database/menuContestuale',
+                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database/menuContestuale', 'a1f'),
                 exact: true,
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/schema/database/rights',
-                component: ComponentCreator('/Arm/docs/arm/home/schema/database/rights', '86d'),
+                path: '/Arm/docs/arm/home/Database Management/database/rights',
+                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database/rights', 'fa2'),
                 exact: true,
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/schema/database/tabella',
-                component: ComponentCreator('/Arm/docs/arm/home/schema/database/tabella', '4e9'),
+                path: '/Arm/docs/arm/home/Database Management/database/tabella',
+                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database/tabella', '1fb'),
                 exact: true,
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/schema/forms/entrypoint-commands',
-                component: ComponentCreator('/Arm/docs/arm/home/schema/forms/entrypoint-commands', '24d'),
+                path: '/Arm/docs/arm/home/Database Management/forms/entrypoint-commands',
+                component: ComponentCreator('/Arm/docs/arm/home/Database Management/forms/entrypoint-commands', '244'),
                 exact: true,
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/schema/forms/intro',
-                component: ComponentCreator('/Arm/docs/arm/home/schema/forms/intro', '1c7'),
+                path: '/Arm/docs/arm/home/Database Management/forms/intro',
+                component: ComponentCreator('/Arm/docs/arm/home/Database Management/forms/intro', 'b9f'),
                 exact: true,
                 sidebar: "arm"
               },

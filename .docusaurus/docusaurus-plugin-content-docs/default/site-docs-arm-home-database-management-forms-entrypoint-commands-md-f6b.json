@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/Database Management/forms/entrypoint-commands",
+  "title": "Entrypoint Commands",
+  "description": "",
+  "source": "@site/docs/arm/home/Database Management/forms/entrypoint-commands.md",
+  "sourceDirName": "arm/home/Database Management/forms",
+  "slug": "/arm/home/Database Management/forms/entrypoint-commands",
+  "permalink": "/Arm/docs/arm/home/Database Management/forms/entrypoint-commands",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Entrypoint Commands",
+    "sidebar_position": 5
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Forms",
+    "permalink": "/Arm/docs/arm/home/Database Management/forms/intro"
+  },
+  "next": {
+    "title": "Snapshots",
+    "permalink": "/Arm/docs/arm/home/custom/snapshots"
+  }
+}

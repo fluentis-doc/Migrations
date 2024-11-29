@@ -106,21 +106,6 @@
               "sidebar": "arm"
             },
             {
-              "id": "arm/home/applications/applications/nations",
-              "path": "/Arm/docs/arm/home/applications/applications/nations",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/applications/applications/solutions",
-              "path": "/Arm/docs/arm/home/applications/applications/solutions",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/applications/applications/version-application",
-              "path": "/Arm/docs/arm/home/applications/applications/version-application",
-              "sidebar": "arm"
-            },
-            {
               "id": "arm/home/applications/dictionary/dictionary",
               "path": "/Arm/docs/arm/home/applications/dictionary/",
               "sidebar": "arm"
@@ -176,63 +161,63 @@
               "sidebar": "arm"
             },
             {
+              "id": "arm/home/Database Management/database/accelerators",
+              "path": "/Arm/docs/arm/home/Database Management/database/accelerators",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/home/Database Management/database/application-schema",
+              "path": "/Arm/docs/arm/home/Database Management/database/application-schema",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/home/Database Management/database/context-panel-configuration",
+              "path": "/Arm/docs/arm/home/Database Management/database/context-panel-configuration",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/home/Database Management/database/custom-ribbons-recalculation",
+              "path": "/Arm/docs/arm/home/Database Management/database/custom-ribbons-recalculation",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/home/Database Management/database/database",
+              "path": "/Arm/docs/arm/home/Database Management/database/",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/home/Database Management/database/database-schemas",
+              "path": "/Arm/docs/arm/home/Database Management/database/database-schemas",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/home/Database Management/database/menuContestuale",
+              "path": "/Arm/docs/arm/home/Database Management/database/menuContestuale",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/home/Database Management/database/rights",
+              "path": "/Arm/docs/arm/home/Database Management/database/rights",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/home/Database Management/database/tabella",
+              "path": "/Arm/docs/arm/home/Database Management/database/tabella",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/home/Database Management/forms/entrypoint-commands",
+              "path": "/Arm/docs/arm/home/Database Management/forms/entrypoint-commands",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/home/Database Management/forms/intro",
+              "path": "/Arm/docs/arm/home/Database Management/forms/intro",
+              "sidebar": "arm"
+            },
+            {
               "id": "arm/home/home",
               "path": "/Arm/docs/arm/home/",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/schema/database/accelerators",
-              "path": "/Arm/docs/arm/home/schema/database/accelerators",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/schema/database/application-schema",
-              "path": "/Arm/docs/arm/home/schema/database/application-schema",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/schema/database/context-panel-configuration",
-              "path": "/Arm/docs/arm/home/schema/database/context-panel-configuration",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/schema/database/custom-ribbons-recalculation",
-              "path": "/Arm/docs/arm/home/schema/database/custom-ribbons-recalculation",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/schema/database/database",
-              "path": "/Arm/docs/arm/home/schema/database/",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/schema/database/database-schemas",
-              "path": "/Arm/docs/arm/home/schema/database/database-schemas",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/schema/database/menuContestuale",
-              "path": "/Arm/docs/arm/home/schema/database/menuContestuale",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/schema/database/rights",
-              "path": "/Arm/docs/arm/home/schema/database/rights",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/schema/database/tabella",
-              "path": "/Arm/docs/arm/home/schema/database/tabella",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/schema/forms/entrypoint-commands",
-              "path": "/Arm/docs/arm/home/schema/forms/entrypoint-commands",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/schema/forms/intro",
-              "path": "/Arm/docs/arm/home/schema/forms/intro",
               "sidebar": "arm"
             },
             {

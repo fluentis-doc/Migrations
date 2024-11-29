@@ -27,3 +27,4 @@ La cosa importante è che il codice della società inserito in ARM corrisponda a
 * **Elimina:** per eliminare la società selezionata.
 
 ![alt text](image.png)
+

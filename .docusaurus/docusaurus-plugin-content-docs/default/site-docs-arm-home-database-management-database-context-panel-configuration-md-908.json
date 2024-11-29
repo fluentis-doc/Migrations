@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/Database Management/database/context-panel-configuration",
+  "title": "Configurazione Pannelli Contestuali",
+  "description": "La form Configurazione Pannelli Contestuali permette di gestire la parametrizzazione dei Context Panel visualizzabili nell'applicativo Fluentis. I Context Panel, accessibili dal tab sulla spalla destra di Fluentis (vedi immagine), sono delle form o delle dashboard che mostreranno informazioni aggiuntive rispetto all'oggetto selezionato.",
+  "source": "@site/docs/arm/home/Database Management/database/context-panel-configuration.md",
+  "sourceDirName": "arm/home/Database Management/database",
+  "slug": "/arm/home/Database Management/database/context-panel-configuration",
+  "permalink": "/Arm/docs/arm/home/Database Management/database/context-panel-configuration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Configurazione Pannelli Contestuali",
+    "sidebar_position": 6
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Ricalcolo ribbon personalizzati",
+    "permalink": "/Arm/docs/arm/home/Database Management/database/custom-ribbons-recalculation"
+  },
+  "next": {
+    "title": "Menu contestuale",
+    "permalink": "/Arm/docs/arm/home/Database Management/database/menuContestuale"
+  }
+}

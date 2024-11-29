@@ -2,6 +2,18 @@
 title: Database
 sidebar_position: 1
 ---
+Tramite il pulsante Database è possibile visualizzare la struttura logica della base dati di Fluentis.  
+Tale struttura è suddivisa per aree funzionali, e all'interno di ogni nodo è possibile visualizzare le tabelle che la compongono.  
+
+La form è composta da:
+* da un ribbon menu superiore che i pulsanti che permettono specifiche funzionalità tra cui:
+
+eseguire una ricerca delle tabelle disponibili a database.
+
+
+
+
+
 
 Il Database rappresenta la struttura delle tabelle in Fluentis.
 La form **Database** è costituita da una griglia dei risultati e una ribbon bar con le azioni consentite all'utente.

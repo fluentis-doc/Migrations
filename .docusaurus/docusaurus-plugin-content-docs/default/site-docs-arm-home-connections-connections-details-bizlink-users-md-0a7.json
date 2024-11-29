@@ -1,7 +1,7 @@
 {
   "id": "arm/home/connections/connections-details/bizlink-users",
   "title": "Utenti BizLink",
-  "description": "Richiama la procedura per inserire tutti gli utenti che potranno accedere all’applicazione BizLink.",
+  "description": "In questa form è possibile parametrizzare gli utenti che dovranno avere accesso all'applicativo BizLink.",
   "source": "@site/docs/arm/home/connections/connections-details/bizlink-users.md",
   "sourceDirName": "arm/home/connections/connections-details",
   "slug": "/arm/home/connections/connections-details/bizlink-users",

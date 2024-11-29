@@ -5,7 +5,7 @@ sidebar_position: 2
 
 Richiama la procedura per inserire tutti gli utenti che potranno accedere all’applicazione Application Resource Manager. Si potranno, tramite questa form, aggiungere sia utenti di dominio che utenti a livello database. A differenza degli utenti Fluentis, gli utenti ARM non si possono importare da active directory ma vanno sempre aggiunti manualmente.
 
-![](/img/home/connections/arm-users1.png)
+![alt text](image.png)
 
 La form Utenti Arm è una filter form costituita da un filtro, una griglia dei risultati e una ribbon bar con le azioni a disposizione degli utenti.
 

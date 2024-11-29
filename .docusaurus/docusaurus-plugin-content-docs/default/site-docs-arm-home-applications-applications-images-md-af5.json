@@ -1,7 +1,7 @@
 {
   "id": "arm/home/applications/applications/images",
-  "title": "Immagini",
-  "description": "Questa procedura consente all’utente di modificare, aggiungere, eliminare delle nuove immagini associando un codice ed una descrizione.",
+  "title": "Images",
+  "description": "Questa funzionalità di Fluentis consente all'utente di includere nel gestione delle nuove icone da poter associare ai comandi di Fluentis.",
   "source": "@site/docs/arm/home/applications/applications/images.md",
   "sourceDirName": "arm/home/applications/applications",
   "slug": "/arm/home/applications/applications/images",
@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
-    "title": "Immagini",
+    "title": "Images",
     "sidebar_position": 2
   },
   "sidebar": "arm",
@@ -21,7 +21,7 @@
     "permalink": "/Arm/docs/arm/home/applications/applications/"
   },
   "next": {
-    "title": "Versione applicazione",
-    "permalink": "/Arm/docs/arm/home/applications/applications/version-application"
+    "title": "Dizionario",
+    "permalink": "/Arm/docs/arm/home/applications/dictionary/"
   }
 }

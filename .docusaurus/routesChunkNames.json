@@ -80,17 +80,17 @@
     },
     "content": "content---arm-markdown-page-393-027"
   },
-  "/Arm/docs-4f4": {
+  "/Arm/docs-1d7": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---arm-docsaba-ff2"
     }
   },
-  "/Arm/docs-239": {
+  "/Arm/docs-4e2": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---arm-docs-86-a-9ed"
   },
-  "/Arm/docs-15b": {
+  "/Arm/docs-b14": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/Arm/docs/arm/fluentis/-a60": {
@@ -173,18 +173,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---arm-docs-arm-home-applications-applications-imagesaf-5-9e2"
   },
-  "/Arm/docs/arm/home/applications/applications/nations-c8d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-applications-applications-nations-118-389"
-  },
-  "/Arm/docs/arm/home/applications/applications/solutions-8ec": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-applications-applications-solutions-2-b-5-93c"
-  },
-  "/Arm/docs/arm/home/applications/applications/version-application-a9e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-applications-applications-version-application-81-b-ab4"
-  },
   "/Arm/docs/arm/home/applications/dictionary/-a84": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---arm-docs-arm-home-applications-dictionary-37-d-d1f"
@@ -229,49 +217,49 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---arm-docs-arm-home-custom-snapshotsff-8-86e"
   },
-  "/Arm/docs/arm/home/schema/database/-083": {
+  "/Arm/docs/arm/home/Database Management/database/-b98": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-schema-database-c-0-c-f32"
+    "content": "content---arm-docs-arm-home-database-management-database-0-ff-9a4"
   },
-  "/Arm/docs/arm/home/schema/database/accelerators-65d": {
+  "/Arm/docs/arm/home/Database Management/database/accelerators-0ad": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-schema-database-accelerators-623-ff7"
+    "content": "content---arm-docs-arm-home-database-management-database-acceleratorsad-6-a86"
   },
-  "/Arm/docs/arm/home/schema/database/application-schema-473": {
+  "/Arm/docs/arm/home/Database Management/database/application-schema-b33": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-schema-database-application-schemadc-5-790"
+    "content": "content---arm-docs-arm-home-database-management-database-application-schemabca-bf6"
   },
-  "/Arm/docs/arm/home/schema/database/context-panel-configuration-44d": {
+  "/Arm/docs/arm/home/Database Management/database/context-panel-configuration-c05": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-schema-database-context-panel-configuration-24-f-269"
+    "content": "content---arm-docs-arm-home-database-management-database-context-panel-configuration-908-e73"
   },
-  "/Arm/docs/arm/home/schema/database/custom-ribbons-recalculation-cdd": {
+  "/Arm/docs/arm/home/Database Management/database/custom-ribbons-recalculation-860": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-schema-database-custom-ribbons-recalculation-858-3ee"
+    "content": "content---arm-docs-arm-home-database-management-database-custom-ribbons-recalculation-87-e-321"
   },
-  "/Arm/docs/arm/home/schema/database/database-schemas-bd8": {
+  "/Arm/docs/arm/home/Database Management/database/database-schemas-54d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-schema-database-database-schemasc-79-524"
+    "content": "content---arm-docs-arm-home-database-management-database-database-schemas-518-152"
   },
-  "/Arm/docs/arm/home/schema/database/menuContestuale-36a": {
+  "/Arm/docs/arm/home/Database Management/database/menuContestuale-a1f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-schema-database-menu-contestuale-87-d-772"
+    "content": "content---arm-docs-arm-home-database-management-database-menu-contestuale-3-b-9-4b7"
   },
-  "/Arm/docs/arm/home/schema/database/rights-86d": {
+  "/Arm/docs/arm/home/Database Management/database/rights-fa2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-schema-database-rightsf-6-e-c38"
+    "content": "content---arm-docs-arm-home-database-management-database-rightsed-1-3f6"
   },
-  "/Arm/docs/arm/home/schema/database/tabella-4e9": {
+  "/Arm/docs/arm/home/Database Management/database/tabella-1fb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-schema-database-tabella-7-f-9-184"
+    "content": "content---arm-docs-arm-home-database-management-database-tabella-508-995"
   },
-  "/Arm/docs/arm/home/schema/forms/entrypoint-commands-24d": {
+  "/Arm/docs/arm/home/Database Management/forms/entrypoint-commands-244": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-schema-forms-entrypoint-commandsee-2-145"
+    "content": "content---arm-docs-arm-home-database-management-forms-entrypoint-commandsf-6-b-74e"
   },
-  "/Arm/docs/arm/home/schema/forms/intro-1c7": {
+  "/Arm/docs/arm/home/Database Management/forms/intro-b9f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-schema-forms-intro-1-c-9-e60"
+    "content": "content---arm-docs-arm-home-database-management-forms-intro-711-9dd"
   },
   "/Arm/docs/arm/home/users/company-435": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -1,7 +1,7 @@
 {
   "id": "arm/home/connections/connections-details/supervisor-users",
   "title": "Utenti Supervisor",
-  "description": "Richiama la procedura per inserire tutti gli utenti che potranno seguire i task schedulati di Supervisor.",
+  "description": "In questa form è possibile parametrizzare gli utenti che dovranno avere accesso all'applicativo Supervisor.",
   "source": "@site/docs/arm/home/connections/connections-details/supervisor-users.md",
   "sourceDirName": "arm/home/connections/connections-details",
   "slug": "/arm/home/connections/connections-details/supervisor-users",
