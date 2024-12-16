@@ -1,7 +1,7 @@
 {
   "id": "arm/home/connections/connections",
   "title": "Connessioni",
-  "description": "In questo gruppo vengono mostrati i parametri di connessione ai database di SQL Server. A tali database verranno poi definiti gli accessi alle varie applicazioni.",
+  "description": "In questo gruppo vengono mostrati i parametri di connessione ai database di SQL Server.",
   "source": "@site/docs/arm/home/connections/connections.md",
   "sourceDirName": "arm/home/connections",
   "slug": "/arm/home/connections/",

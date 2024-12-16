@@ -11,7 +11,7 @@ La form si compone di:
 * un filter result;
 * un tab di destra contente delle informazioni sulla tabella selezionata.
 
-![![](/img/home/databaseSchemas/database/database_form.png)](../../../../../static/images/20241202093459.png)
+![![](/img/home/databaseSchemas/database/database_form.png)](../../../../static/images/20241202093459.png)
 
 Per i dettagli delle operazioni possibili tramite click del tasto destro sui diversi elementi si rimanda all'apposita sezione [Menu contestuale](menuContestuale).
 
@@ -50,7 +50,7 @@ Dovranno essere inseriti i seguenti dati e un messaggio di conferma comunicherà
 * **Convertire script:** converte una query F2015 in F2021.
 Inserire la query nel riquadro di sinistra, successivamente premere il bottone evidenziato e la query risulterà nel riquadro di destra.
 
-![](../../../../../static/images/20241202103923.png)
+![](../../../../static/images/20241202103923.png)
 
 * **Convert script file:** converte un file sql F2015 o F2021 in un file F2023. 
 Selezionare il file da convertire ed attendere qualche secondo, successivamente scegliere la posizione di destinazione del disco per lo script convertito.

@@ -5,8 +5,11 @@ sidebar_position: 2
 
 ![](../../../../static/images/20241204101909.png)
 
+![](../../../../static/images/20241216164551.png)
 
-In questo gruppo vengono mostrati i parametri di connessione ai database di SQL Server. A tali database verranno poi definiti gli accessi alle varie applicazioni.
+
+In questo gruppo vengono mostrati i parametri di connessione ai database di SQL Server.   
+A tali database verranno poi definiti gli accessi alle varie applicazioni.
 
 La form **Connessioni** è costituita da un filtro, un corpo centrale con griglia dei risultati sulla destra e griglia di dettagli sulla destra e una serie di informazioni valide per ogni dettaglio selezionato, poste in un expander in coda alla form e una ribbon bar con le azione a disposizione dell'utente.
 

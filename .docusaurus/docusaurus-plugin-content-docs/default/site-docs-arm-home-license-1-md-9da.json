@@ -1,7 +1,7 @@
 {
   "id": "arm/home/license1",
   "title": "Licenza",
-  "description": "La licenza è rappresentata da un codice univoco che viene fornito alla Società cliente di Fluentis S.r.l.",
+  "description": "La licenza è rappresentata da un codice univoco alfanumerico che viene fornito al committente di Fluentis S.r.l.",
   "source": "@site/docs/arm/home/license1.md",
   "sourceDirName": "arm/home",
   "slug": "/arm/home/license1",

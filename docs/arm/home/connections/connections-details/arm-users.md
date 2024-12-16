@@ -2,13 +2,17 @@
 title: Utenti ARM
 sidebar_position: 2
 ---
-![](../../../../../static/images/20241204111334.png)
+![](../../../../../static/images/20241216164839.png)
 
-Richiama la procedura per inserire tutti gli utenti che potranno accedere all’applicazione Application Resource Manager. Si potranno, tramite questa form, aggiungere sia utenti di dominio che utenti a livello database. A differenza degli utenti Fluentis, gli utenti ARM non si possono importare da active directory ma vanno sempre aggiunti manualmente.
 
-![alt text](image.png)
+![](../../../../../static/images/20241216165140.png)
 
-La form Utenti Arm è una filter form costituita da un filtro, una griglia dei risultati e una ribbon bar con le azioni a disposizione degli utenti.
+La form Utenti Arm permette di parametrizzare gli utenti che avranno accesso all'Application Resource Manager, ed eventualmente attribuire all'utente i diritti di Super User.  
+Le informazioni relative al nome utente e password vengono salvate nel Database di ARM come in figura sottostante (con la password cifrata).
+
+![](../../../../../static/images/20241216165813.png)
+
+La form si compone di un filtro, una griglia dei risultati e una ribbon bar con le azioni a disposizione degli utenti.
 
 **Filtro**
 * **Nome**

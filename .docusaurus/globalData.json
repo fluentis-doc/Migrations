@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/Arm/docs",
-          "mainDocId": "arm/intro",
+          "mainDocId": "arm/home/home",
           "docs": [
             {
               "id": "arm/fluentis/fluentis",
@@ -166,11 +166,6 @@
               "sidebar": "arm"
             },
             {
-              "id": "arm/home/connections/connections-details/idap-config",
-              "path": "/Arm/docs/arm/home/connections/connections-details/idap-config",
-              "sidebar": "arm"
-            },
-            {
               "id": "arm/home/connections/connections-details/supervisor-users",
               "path": "/Arm/docs/arm/home/connections/connections-details/supervisor-users",
               "sidebar": "arm"
@@ -196,13 +191,13 @@
               "sidebar": "arm"
             },
             {
-              "id": "arm/home/Database Management/database/database",
-              "path": "/Arm/docs/arm/home/Database Management/database/",
+              "id": "arm/home/Database Management/database",
+              "path": "/Arm/docs/arm/home/Database Management/database",
               "sidebar": "arm"
             },
             {
-              "id": "arm/home/Database Management/database/database-schemas",
-              "path": "/Arm/docs/arm/home/Database Management/database/database-schemas",
+              "id": "arm/home/Database Management/database-schemas",
+              "path": "/Arm/docs/arm/home/Database Management/database-schemas",
               "sidebar": "arm"
             },
             {
@@ -221,11 +216,6 @@
               "sidebar": "arm"
             },
             {
-              "id": "arm/intro",
-              "path": "/Arm/docs/arm/intro",
-              "sidebar": "arm"
-            },
-            {
               "id": "intro",
               "path": "/Arm/docs/intro"
             },
@@ -238,14 +228,14 @@
           "sidebars": {
             "flu": {
               "link": {
-                "path": "/Arm/docs/arm/intro",
-                "label": "arm/intro"
+                "path": "/Arm/docs/arm/home/",
+                "label": "Home"
               }
             },
             "arm": {
               "link": {
-                "path": "/Arm/docs/arm/intro",
-                "label": "arm/intro"
+                "path": "/Arm/docs/arm/home/",
+                "label": "Home"
               }
             }
           }

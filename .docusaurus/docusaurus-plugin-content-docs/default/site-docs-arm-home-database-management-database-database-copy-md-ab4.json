@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/Database Management/database/database copy",
+  "title": "Database",
+  "description": "Tramite il pulsante Database è possibile visualizzare la struttura logica della base dati Fluentis.",
+  "source": "@site/docs/arm/home/Database Management/database/database copy.md",
+  "sourceDirName": "arm/home/Database Management/database",
+  "slug": "/arm/home/Database Management/database/database copy",
+  "permalink": "/Arm/docs/arm/home/Database Management/database/database copy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Database",
+    "sidebar_position": 1
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Database",
+    "permalink": "/Arm/docs/arm/home/Database Management/database/"
+  },
+  "next": {
+    "title": "Database Schemas",
+    "permalink": "/Arm/docs/arm/home/Database Management/database/database-schemas"
+  }
+}

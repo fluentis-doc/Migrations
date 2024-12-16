@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/Arm/docs',
-    component: ComponentCreator('/Arm/docs', '173'),
+    component: ComponentCreator('/Arm/docs', 'f48'),
     routes: [
       {
         path: '/Arm/docs',
-        component: ComponentCreator('/Arm/docs', '2d8'),
+        component: ComponentCreator('/Arm/docs', 'd1d'),
         routes: [
           {
             path: '/Arm/docs',
-            component: ComponentCreator('/Arm/docs', '9c0'),
+            component: ComponentCreator('/Arm/docs', '9a6'),
             routes: [
               {
                 path: '/Arm/docs/arm/fluentis/',
@@ -262,12 +262,6 @@ export default [
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/connections/connections-details/idap-config',
-                component: ComponentCreator('/Arm/docs/arm/home/connections/connections-details/idap-config', '50c'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
                 path: '/Arm/docs/arm/home/connections/connections-details/supervisor-users',
                 component: ComponentCreator('/Arm/docs/arm/home/connections/connections-details/supervisor-users', '8b2'),
                 exact: true,
@@ -298,14 +292,14 @@ export default [
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/Database Management/database/',
-                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database/', 'b98'),
+                path: '/Arm/docs/arm/home/Database Management/database',
+                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database', 'f11'),
                 exact: true,
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/Database Management/database/database-schemas',
-                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database/database-schemas', '54d'),
+                path: '/Arm/docs/arm/home/Database Management/database-schemas',
+                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database-schemas', 'cc2'),
                 exact: true,
                 sidebar: "arm"
               },
@@ -318,12 +312,6 @@ export default [
               {
                 path: '/Arm/docs/arm/home/Themes/',
                 component: ComponentCreator('/Arm/docs/arm/home/Themes/', '444'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/intro',
-                component: ComponentCreator('/Arm/docs/arm/intro', '094'),
                 exact: true,
                 sidebar: "arm"
               },

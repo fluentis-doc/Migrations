@@ -1,19 +1,16 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
-
 import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Fluentis ARM Documentation',
-  tagline: 'La guida progettata per supportarti nella parametrizzazione e nell’uso dell’Application Resource Manager',
+  tagline: 'La guida progettata per supportarti nell’uso dell’Application Resource Manager',
   url: 'https://docs.fluentis.com',
   baseUrl: '/Arm/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/fluentis-32x32px.png',
-  organizationName: 'Fluentis srl', // Usually your GitHub org/user name.
-  projectName: 'ARM', // Usually your repo name.
+  organizationName: 'Fluentis srl', 
+  projectName: 'ARM', 
   i18n: {
     defaultLocale: 'it-IT',
     locales: ['en-US', 'it-IT'],
@@ -41,12 +38,12 @@ const config = {
           items: [
             { label: 'License', to: 'docs/arm/home/license1' },
             { label: 'Company', to: 'docs/arm/home/company' },
-            { label: 'Connections', to: 'docs/arm/home/connections/connections-details/connections' },
-            { label: 'Appplications', to: 'docs/specifications/FluentisMobile/specification' },
-            { label: 'Database Management', to: 'docs/specifications/FluentisMobile/specification' },
-            { label: 'Custom Data Management', to: 'docs/specifications/FluentisMobile/specification' },
-            { label: 'Context', to: 'docs/specifications/FluentisMobile/specification' },
-            { label: 'Themes', to: 'docs/specifications/FluentisMobile/specification' },
+            { label: 'Connections', to: 'docs/arm/home/connections'},
+            { label: 'Applications', to: 'docs/arm/home/Applications/dictionary' },
+            { label: 'Database Management', to: 'docs/arm/home/Database Management/database'},
+            { label: 'Custom Data Management', to: 'docs/arm/home/custom/snapshots' },
+            { label: 'Context', to: 'docs/arm/home/context' },
+            { label: 'Themes', to: 'docs/arm/home/Themes/Themes' },
           ]
         },
         {

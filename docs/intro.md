@@ -11,7 +11,7 @@ L'applicativo Arm è composto da:
 
 * un database 'Arm' dedicato e caricata sull'istanza MSSQL dedicata alla suite Fluentis.  
 * una cartella di pubblicazione (cartella di deploy) contenente tutte le dll.
-* un Applicationn Pool dedicato con relativa app sul Web server IIS. (Nel caso di installazioni su Linux con Docker un container dedicato).
+* un Application Pool dedicato con relativa app sul Web server IIS. (Nel caso di installazioni su Linux con Docker un container dedicato).
 * un Client per poter accedere ad Arm.
 
 ![alt text](image.png)

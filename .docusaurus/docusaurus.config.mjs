@@ -5,7 +5,7 @@
  */
 export default {
   "title": "Fluentis ARM Documentation",
-  "tagline": "La guida progettata per supportarti nella parametrizzazione e nell’uso dell’Application Resource Manager",
+  "tagline": "La guida progettata per supportarti nell’uso dell’Application Resource Manager",
   "url": "https://docs.fluentis.com",
   "baseUrl": "/Arm/",
   "onBrokenLinks": "throw",
@@ -54,27 +54,27 @@ export default {
             },
             {
               "label": "Connections",
-              "to": "docs/arm/home/connections/connections-details/connections"
+              "to": "docs/arm/home/connections"
             },
             {
-              "label": "Appplications",
-              "to": "docs/specifications/FluentisMobile/specification"
+              "label": "Applications",
+              "to": "docs/arm/home/Applications/dictionary"
             },
             {
               "label": "Database Management",
-              "to": "docs/specifications/FluentisMobile/specification"
+              "to": "docs/arm/home/Database Management/database"
             },
             {
               "label": "Custom Data Management",
-              "to": "docs/specifications/FluentisMobile/specification"
+              "to": "docs/arm/home/custom/snapshots"
             },
             {
               "label": "Context",
-              "to": "docs/specifications/FluentisMobile/specification"
+              "to": "docs/arm/home/context"
             },
             {
               "label": "Themes",
-              "to": "docs/specifications/FluentisMobile/specification"
+              "to": "docs/arm/home/Themes/Themes"
             }
           ]
         },

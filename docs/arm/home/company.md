@@ -5,8 +5,11 @@ sidebar_position: 1
 
 ![alt text](../../../static/images/20241204101732.png)
 
+
+![](../../../static/images/20241216163803.png)
+
 Il medesimo sistema gestionale Fluentis ERP permette di lavorare con più Società, ognuna del quale avrà n. divisioni.  
-In questa form è possibile definire le società con le relative dvivisioni cio cui opera. La form si compone così come segue:  
+In questa form è possibile definire le società con le relative divisioni con cui opera. La form si compone così come segue:  
 
 **Filtro**
 * **Nome**
@@ -17,8 +20,8 @@ In questa form è possibile definire le società con le relative dvivisioni cio 
 * **Descrizione:** Ragione Sociale della società. 
 * **Predefinito:** Checkbox che identifica la società di default.
 
-Le informazioni rappresentate in griglia relativamente ad ogni società, sono ulteriormente dettagliate attraverso la griglia inferiore che visualizza l’elenco delle divisioni per società.
-La cosa importante è che il codice della società inserito in ARM corrisponda a quello della tabella della società.
+Le informazioni rappresentate in griglia relativamente ad ogni società, sono ulteriormente dettagliate attraverso la griglia inferiore che visualizza l’elenco delle divisioni per società.  
+è fondamentale che il codice della società inserito in ARM corrisponda a quello della tabella della società.
 
 * **Nome:** Codice numerico identificativo della divisione.
 * **Descrizione:** Descrizione della divisione.

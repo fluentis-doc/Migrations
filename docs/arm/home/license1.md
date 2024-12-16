@@ -3,9 +3,9 @@ title: Licenza
 sidebar_position: 0
 ---
 
-![](../../../static/images/20241204112048.png)
+La licenza è rappresentata da un codice univoco alfanumerico che viene fornito al committente di Fluentis S.r.l.
 
-La licenza è rappresentata da un codice univoco che viene fornito alla Società cliente di Fluentis S.r.l.
+![](../../../static/images/20241204112048.png)
 
 ![](../../../static/images/20241216141938.png)
 
@@ -25,6 +25,5 @@ La form **Licenza** è costituita da un corpo centrale che mostra il numero seri
 * **Riattivare la licenza:** <!--modifiche alla struttura hardware del server invalidano la licenza che blocca l'esecuzione dell'applicativo. Per poter riattivare la licenza è necessario inserire un codice fornito da Fluentis.-->
 * **Richiesta licenza demo:** procedura per richiedere una licenza demo a scopi commerciali. Questa richiesta può essere fatta aprendo un ticket direttamente a Fluentis.
 * **Visualizza licenza:** permette di visualizzare tutti i dettagli relativi alla licenza rilasciata al cliente.
-
 
 

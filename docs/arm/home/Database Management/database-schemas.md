@@ -1,13 +1,13 @@
 ---
 title: Database Schemas
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-![](../../../../../static/images/20241204112202.png)
+![](../../../../static/images/20241204112202.png)
 
 Lo schema di database definisce in che modo i dati vengono organizzati all'interno di un database relazionale; questo include vincoli logici quali nomi di tabelle, campi, tipi di dati e le relazioni tra queste entità.
 
-![](../../../../../static/images/20241202105114.png)
+![]../../../../static/images/20241202105114.png)
 
 La form **Database Schemas** è costituita da una griglia dei risultati e una ribbon bar con le azioni consentite all'utente.
 
