@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/Applications/images",
+  "title": "Images",
+  "description": "Questa funzionalità di Fluentis consente all'utente di includere nel gestione delle nuove icone da poter associare ai comandi di Fluentis.",
+  "source": "@site/docs/arm/home/Applications/images.md",
+  "sourceDirName": "arm/home/Applications",
+  "slug": "/arm/home/Applications/images",
+  "permalink": "/Arm/docs/arm/home/Applications/images",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Images",
+    "sidebar_position": 2
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Lingue",
+    "permalink": "/Arm/docs/arm/home/Applications/dictionary/languages"
+  },
+  "next": {
+    "title": "Database",
+    "permalink": "/Arm/docs/arm/home/Database Management/database/"
+  }
+}

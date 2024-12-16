@@ -3,18 +3,16 @@ title: Database Schemas
 sidebar_position: 1
 ---
 
-Il Database Schema rappresenta lo schema del Database al quale si riferiscono una o più applicazioni.
+![](../../../../../static/images/20241204112202.png)
+
+Lo schema di database definisce in che modo i dati vengono organizzati all'interno di un database relazionale; questo include vincoli logici quali nomi di tabelle, campi, tipi di dati e le relazioni tra queste entità.
+
+![](../../../../../static/images/20241202105114.png)
 
 La form **Database Schemas** è costituita da una griglia dei risultati e una ribbon bar con le azioni consentite all'utente.
 
 **Griglia dei risultati**
-* **Codice:** codice alfanumerico rappresentativo dello schema database.
-* **Descrizione:** descrizione dello schema database.
-* **Abilitato:** checkbox che identifica se il database schema è abilitato o meno.
-* **Natura:** identifica la natura dello Schema. La selezione a tendina ha possibili scelte tra: 
-    - **Standard:** riga o valore creato a standard e non modificabile. 
-    - **Partner:** riga generata da un partner e modificabile solo da questa tipologia di utenti. 
-    - **Customer:** riga generata da un utente customer e modificabile da partner e customer.
+* **Name:** codice che rappresenta lo schema del database.  
 
 **Azioni**
 * **Ricerca:** per ricercare secondo i filtri impostati la lista degli schemi disponibili.
@@ -22,3 +20,7 @@ La form **Database Schemas** è costituita da una griglia dei risultati e una ri
 * **Cancella:** per cancellare lo schema selezionato.
 * **Schema di applicazioni:** apre la form **Schema di applicazioni**.
 * **Stampa:** insieme standard delle funzioni di stampa con combobox di selezione, anteprima e stampa.
+
+E' possibile inoltre creare degli schemi di database custom, che verranno evidenziati in rosso.  
+Questa operazione è necessaria qualora si decida di creare oggetti custom (ad esempio basati su estensione di oggetti già presenti) il quale devono essere necessariamente mappati su uno schema database custom.  
+

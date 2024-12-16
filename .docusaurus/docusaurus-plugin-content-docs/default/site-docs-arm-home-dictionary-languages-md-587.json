@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/dictionary/languages",
+  "title": "Lingue",
+  "description": "Questa procedura prevede una lista delle Lingue che possono essere associate agli utenti ed alle applicazioni. Le lingue verranno inoltre considerate nelle traduzioni presenti nel dizionario.",
+  "source": "@site/docs/arm/home/dictionary/languages.md",
+  "sourceDirName": "arm/home/dictionary",
+  "slug": "/arm/home/dictionary/languages",
+  "permalink": "/Arm/docs/arm/home/dictionary/languages",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Lingue",
+    "sidebar_position": 2
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Dizionario",
+    "permalink": "/Arm/docs/arm/home/dictionary/"
+  },
+  "next": {
+    "title": "Applicazioni",
+    "permalink": "/Arm/docs/arm/home/applications/applications/"
+  }
+}

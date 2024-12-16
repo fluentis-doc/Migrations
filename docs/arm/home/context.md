@@ -1,13 +1,8 @@
 ---
-title: Contesto
+title: Context
 sidebar_position: 6
 ---
 
-Nel gruppo Contesto vengono visualizzati gli elementi relativi alla sessione di lavoro in Application Resource Manager.
-Sono presenti la selezione a tendina relativamente alla lingua dell’applicazione ARM e il pulsante per l’uscita dall’applicazione e ritorno alla form di login.
+Nel gruppo ***Contesto*** viene visualizzata la cartella di compile impostata per l'area di lavoro.  
+![](../../../static/images/20241216105237.png)
 
-![snapshot](/img/home/context/contesto.PNG)
-
-:::info
-Impostando il contesto si abiliteranno i pulsanti **Importazione da unità di lavoro predefinita** e **Build predefinito** nella ribbon Fluentis>Progetti.
-:::

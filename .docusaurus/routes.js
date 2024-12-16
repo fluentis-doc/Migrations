@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/Arm/docs',
-    component: ComponentCreator('/Arm/docs', '1d7'),
+    component: ComponentCreator('/Arm/docs', '173'),
     routes: [
       {
         path: '/Arm/docs',
-        component: ComponentCreator('/Arm/docs', '4e2'),
+        component: ComponentCreator('/Arm/docs', '2d8'),
         routes: [
           {
             path: '/Arm/docs',
-            component: ComponentCreator('/Arm/docs', 'b14'),
+            component: ComponentCreator('/Arm/docs', '9c0'),
             routes: [
               {
                 path: '/Arm/docs/arm/fluentis/',
@@ -172,38 +172,80 @@ export default [
                 sidebar: "arm"
               },
               {
+                path: '/Arm/docs/arm/fluentis/users/restriction-type',
+                component: ComponentCreator('/Arm/docs/arm/fluentis/users/restriction-type', '798'),
+                exact: true,
+                sidebar: "arm"
+              },
+              {
+                path: '/Arm/docs/arm/fluentis/users/users-details/email-dir-scheme',
+                component: ComponentCreator('/Arm/docs/arm/fluentis/users/users-details/email-dir-scheme', '1ef'),
+                exact: true,
+                sidebar: "arm"
+              },
+              {
+                path: '/Arm/docs/arm/fluentis/users/users-details/email-dir-type',
+                component: ComponentCreator('/Arm/docs/arm/fluentis/users/users-details/email-dir-type', '06b'),
+                exact: true,
+                sidebar: "arm"
+              },
+              {
+                path: '/Arm/docs/arm/fluentis/users/users-details/import-ad',
+                component: ComponentCreator('/Arm/docs/arm/fluentis/users/users-details/import-ad', 'ca3'),
+                exact: true,
+                sidebar: "arm"
+              },
+              {
+                path: '/Arm/docs/arm/fluentis/users/users-details/LDAP-config',
+                component: ComponentCreator('/Arm/docs/arm/fluentis/users/users-details/LDAP-config', '2df'),
+                exact: true,
+                sidebar: "arm"
+              },
+              {
+                path: '/Arm/docs/arm/fluentis/users/users-details/user-print',
+                component: ComponentCreator('/Arm/docs/arm/fluentis/users/users-details/user-print', '3fc'),
+                exact: true,
+                sidebar: "arm"
+              },
+              {
+                path: '/Arm/docs/arm/fluentis/users/users-details/users',
+                component: ComponentCreator('/Arm/docs/arm/fluentis/users/users-details/users', 'e25'),
+                exact: true,
+                sidebar: "arm"
+              },
+              {
                 path: '/Arm/docs/arm/home/',
                 component: ComponentCreator('/Arm/docs/arm/home/', '328'),
                 exact: true,
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/applications/applications/',
-                component: ComponentCreator('/Arm/docs/arm/home/applications/applications/', '21d'),
+                path: '/Arm/docs/arm/home/Applications/dictionary/',
+                component: ComponentCreator('/Arm/docs/arm/home/Applications/dictionary/', 'e13'),
                 exact: true,
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/applications/applications/images',
-                component: ComponentCreator('/Arm/docs/arm/home/applications/applications/images', '658'),
+                path: '/Arm/docs/arm/home/Applications/dictionary/languages',
+                component: ComponentCreator('/Arm/docs/arm/home/Applications/dictionary/languages', '867'),
                 exact: true,
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/applications/dictionary/',
-                component: ComponentCreator('/Arm/docs/arm/home/applications/dictionary/', 'a84'),
+                path: '/Arm/docs/arm/home/Applications/images',
+                component: ComponentCreator('/Arm/docs/arm/home/Applications/images', 'cde'),
                 exact: true,
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/applications/dictionary/languages',
-                component: ComponentCreator('/Arm/docs/arm/home/applications/dictionary/languages', 'c35'),
+                path: '/Arm/docs/arm/home/company',
+                component: ComponentCreator('/Arm/docs/arm/home/company', '424'),
                 exact: true,
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/applications/license1',
-                component: ComponentCreator('/Arm/docs/arm/home/applications/license1', '86f'),
+                path: '/Arm/docs/arm/home/connections/',
+                component: ComponentCreator('/Arm/docs/arm/home/connections/', '145'),
                 exact: true,
                 sidebar: "arm"
               },
@@ -216,12 +258,6 @@ export default [
               {
                 path: '/Arm/docs/arm/home/connections/connections-details/bizlink-users',
                 component: ComponentCreator('/Arm/docs/arm/home/connections/connections-details/bizlink-users', '2ea'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/home/connections/connections-details/connections',
-                component: ComponentCreator('/Arm/docs/arm/home/connections/connections-details/connections', '207'),
                 exact: true,
                 sidebar: "arm"
               },
@@ -244,6 +280,12 @@ export default [
                 sidebar: "arm"
               },
               {
+                path: '/Arm/docs/arm/home/custom/browser',
+                component: ComponentCreator('/Arm/docs/arm/home/custom/browser', '408'),
+                exact: true,
+                sidebar: "arm"
+              },
+              {
                 path: '/Arm/docs/arm/home/custom/merge',
                 component: ComponentCreator('/Arm/docs/arm/home/custom/merge', 'a7b'),
                 exact: true,
@@ -262,110 +304,20 @@ export default [
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/Database Management/database/accelerators',
-                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database/accelerators', '0ad'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/home/Database Management/database/application-schema',
-                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database/application-schema', 'b33'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/home/Database Management/database/context-panel-configuration',
-                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database/context-panel-configuration', 'c05'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/home/Database Management/database/custom-ribbons-recalculation',
-                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database/custom-ribbons-recalculation', '860'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
                 path: '/Arm/docs/arm/home/Database Management/database/database-schemas',
                 component: ComponentCreator('/Arm/docs/arm/home/Database Management/database/database-schemas', '54d'),
                 exact: true,
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/Database Management/database/menuContestuale',
-                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database/menuContestuale', 'a1f'),
+                path: '/Arm/docs/arm/home/license1',
+                component: ComponentCreator('/Arm/docs/arm/home/license1', '9df'),
                 exact: true,
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/home/Database Management/database/rights',
-                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database/rights', 'fa2'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/home/Database Management/database/tabella',
-                component: ComponentCreator('/Arm/docs/arm/home/Database Management/database/tabella', '1fb'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/home/Database Management/forms/entrypoint-commands',
-                component: ComponentCreator('/Arm/docs/arm/home/Database Management/forms/entrypoint-commands', '244'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/home/Database Management/forms/intro',
-                component: ComponentCreator('/Arm/docs/arm/home/Database Management/forms/intro', 'b9f'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/home/users/company',
-                component: ComponentCreator('/Arm/docs/arm/home/users/company', '435'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/home/users/restriction-type',
-                component: ComponentCreator('/Arm/docs/arm/home/users/restriction-type', '815'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/home/users/users-details/email-dir-scheme',
-                component: ComponentCreator('/Arm/docs/arm/home/users/users-details/email-dir-scheme', '51c'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/home/users/users-details/email-dir-type',
-                component: ComponentCreator('/Arm/docs/arm/home/users/users-details/email-dir-type', '26e'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/home/users/users-details/import-ad',
-                component: ComponentCreator('/Arm/docs/arm/home/users/users-details/import-ad', '209'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/home/users/users-details/LDAP-config',
-                component: ComponentCreator('/Arm/docs/arm/home/users/users-details/LDAP-config', 'a38'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/home/users/users-details/user-print',
-                component: ComponentCreator('/Arm/docs/arm/home/users/users-details/user-print', '1a8'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/home/users/users-details/users',
-                component: ComponentCreator('/Arm/docs/arm/home/users/users-details/users', 'a6f'),
+                path: '/Arm/docs/arm/home/Themes/',
+                component: ComponentCreator('/Arm/docs/arm/home/Themes/', '444'),
                 exact: true,
                 sidebar: "arm"
               },

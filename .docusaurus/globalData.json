@@ -96,28 +96,63 @@
               "sidebar": "arm"
             },
             {
-              "id": "arm/home/applications/applications/applications",
-              "path": "/Arm/docs/arm/home/applications/applications/",
+              "id": "arm/fluentis/users/restriction-type",
+              "path": "/Arm/docs/arm/fluentis/users/restriction-type",
               "sidebar": "arm"
             },
             {
-              "id": "arm/home/applications/applications/images",
-              "path": "/Arm/docs/arm/home/applications/applications/images",
+              "id": "arm/fluentis/users/users-details/email-dir-scheme",
+              "path": "/Arm/docs/arm/fluentis/users/users-details/email-dir-scheme",
               "sidebar": "arm"
             },
             {
-              "id": "arm/home/applications/dictionary/dictionary",
-              "path": "/Arm/docs/arm/home/applications/dictionary/",
+              "id": "arm/fluentis/users/users-details/email-dir-type",
+              "path": "/Arm/docs/arm/fluentis/users/users-details/email-dir-type",
               "sidebar": "arm"
             },
             {
-              "id": "arm/home/applications/dictionary/languages",
-              "path": "/Arm/docs/arm/home/applications/dictionary/languages",
+              "id": "arm/fluentis/users/users-details/import-ad",
+              "path": "/Arm/docs/arm/fluentis/users/users-details/import-ad",
               "sidebar": "arm"
             },
             {
-              "id": "arm/home/applications/license1",
-              "path": "/Arm/docs/arm/home/applications/license1",
+              "id": "arm/fluentis/users/users-details/LDAP-config",
+              "path": "/Arm/docs/arm/fluentis/users/users-details/LDAP-config",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/fluentis/users/users-details/user-print",
+              "path": "/Arm/docs/arm/fluentis/users/users-details/user-print",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/fluentis/users/users-details/users",
+              "path": "/Arm/docs/arm/fluentis/users/users-details/users",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/home/Applications/dictionary/dictionary",
+              "path": "/Arm/docs/arm/home/Applications/dictionary/",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/home/Applications/dictionary/languages",
+              "path": "/Arm/docs/arm/home/Applications/dictionary/languages",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/home/Applications/images",
+              "path": "/Arm/docs/arm/home/Applications/images",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/home/company",
+              "path": "/Arm/docs/arm/home/company",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/home/connections/connections",
+              "path": "/Arm/docs/arm/home/connections/",
               "sidebar": "arm"
             },
             {
@@ -128,11 +163,6 @@
             {
               "id": "arm/home/connections/connections-details/bizlink-users",
               "path": "/Arm/docs/arm/home/connections/connections-details/bizlink-users",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/connections/connections-details/connections",
-              "path": "/Arm/docs/arm/home/connections/connections-details/connections",
               "sidebar": "arm"
             },
             {
@@ -151,6 +181,11 @@
               "sidebar": "arm"
             },
             {
+              "id": "arm/home/custom/browser",
+              "path": "/Arm/docs/arm/home/custom/browser",
+              "sidebar": "arm"
+            },
+            {
               "id": "arm/home/custom/merge",
               "path": "/Arm/docs/arm/home/custom/merge",
               "sidebar": "arm"
@@ -158,26 +193,6 @@
             {
               "id": "arm/home/custom/snapshots",
               "path": "/Arm/docs/arm/home/custom/snapshots",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/Database Management/database/accelerators",
-              "path": "/Arm/docs/arm/home/Database Management/database/accelerators",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/Database Management/database/application-schema",
-              "path": "/Arm/docs/arm/home/Database Management/database/application-schema",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/Database Management/database/context-panel-configuration",
-              "path": "/Arm/docs/arm/home/Database Management/database/context-panel-configuration",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/Database Management/database/custom-ribbons-recalculation",
-              "path": "/Arm/docs/arm/home/Database Management/database/custom-ribbons-recalculation",
               "sidebar": "arm"
             },
             {
@@ -191,73 +206,18 @@
               "sidebar": "arm"
             },
             {
-              "id": "arm/home/Database Management/database/menuContestuale",
-              "path": "/Arm/docs/arm/home/Database Management/database/menuContestuale",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/Database Management/database/rights",
-              "path": "/Arm/docs/arm/home/Database Management/database/rights",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/Database Management/database/tabella",
-              "path": "/Arm/docs/arm/home/Database Management/database/tabella",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/Database Management/forms/entrypoint-commands",
-              "path": "/Arm/docs/arm/home/Database Management/forms/entrypoint-commands",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/Database Management/forms/intro",
-              "path": "/Arm/docs/arm/home/Database Management/forms/intro",
-              "sidebar": "arm"
-            },
-            {
               "id": "arm/home/home",
               "path": "/Arm/docs/arm/home/",
               "sidebar": "arm"
             },
             {
-              "id": "arm/home/users/company",
-              "path": "/Arm/docs/arm/home/users/company",
+              "id": "arm/home/license1",
+              "path": "/Arm/docs/arm/home/license1",
               "sidebar": "arm"
             },
             {
-              "id": "arm/home/users/restriction-type",
-              "path": "/Arm/docs/arm/home/users/restriction-type",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/users/users-details/email-dir-scheme",
-              "path": "/Arm/docs/arm/home/users/users-details/email-dir-scheme",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/users/users-details/email-dir-type",
-              "path": "/Arm/docs/arm/home/users/users-details/email-dir-type",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/users/users-details/import-ad",
-              "path": "/Arm/docs/arm/home/users/users-details/import-ad",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/users/users-details/LDAP-config",
-              "path": "/Arm/docs/arm/home/users/users-details/LDAP-config",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/users/users-details/user-print",
-              "path": "/Arm/docs/arm/home/users/users-details/user-print",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/home/users/users-details/users",
-              "path": "/Arm/docs/arm/home/users/users-details/users",
+              "id": "arm/home/Themes/Themes",
+              "path": "/Arm/docs/arm/home/Themes/",
               "sidebar": "arm"
             },
             {

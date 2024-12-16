@@ -46,11 +46,11 @@ export default {
           "items": [
             {
               "label": "License",
-              "to": "docs/arm/home/applications/license1"
+              "to": "docs/arm/home/license1"
             },
             {
               "label": "Company",
-              "to": "docs/arm/home/users/company"
+              "to": "docs/arm/home/company"
             },
             {
               "label": "Connections",

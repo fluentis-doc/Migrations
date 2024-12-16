@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/company",
+  "title": "Società",
+  "description": "alt text",
+  "source": "@site/docs/arm/home/company.md",
+  "sourceDirName": "arm/home",
+  "slug": "/arm/home/company",
+  "permalink": "/Arm/docs/arm/home/company",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Società",
+    "sidebar_position": 1
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Licenza",
+    "permalink": "/Arm/docs/arm/home/license1"
+  },
+  "next": {
+    "title": "Connessioni",
+    "permalink": "/Arm/docs/arm/home/connections/"
+  }
+}

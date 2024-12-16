@@ -17,11 +17,11 @@
   },
   "sidebar": "arm",
   "previous": {
-    "title": "Configurazione Pannelli Contestuali",
-    "permalink": "/Arm/docs/arm/home/Database Management/database/context-panel-configuration"
+    "title": "Database Schemas",
+    "permalink": "/Arm/docs/arm/home/Database Management/database/database-schemas"
   },
   "next": {
-    "title": "Tabella",
-    "permalink": "/Arm/docs/arm/home/Database Management/database/tabella"
+    "title": "Snapshots",
+    "permalink": "/Arm/docs/arm/home/custom/snapshots"
   }
 }

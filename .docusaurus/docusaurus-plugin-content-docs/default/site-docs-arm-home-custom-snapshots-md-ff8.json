@@ -1,7 +1,7 @@
 {
   "id": "arm/home/custom/snapshots",
   "title": "Snapshots",
-  "description": "In questo gruppo abbiamo tutte le operazione necessarie alla realizzazione di una fotografia del DB con tutte le informazioni in esso contenute, al fine di generare un pacchetto con le differenze e spostare così le modifiche da un ambiente di sviluppo a uno di test/prod.",
+  "description": "Introduzione",
   "source": "@site/docs/arm/home/custom/snapshots.md",
   "sourceDirName": "arm/home/custom",
   "slug": "/arm/home/custom/snapshots",
@@ -17,11 +17,11 @@
   },
   "sidebar": "arm",
   "previous": {
-    "title": "Entrypoint Commands",
-    "permalink": "/Arm/docs/arm/home/Database Management/forms/entrypoint-commands"
+    "title": "Database Schemas",
+    "permalink": "/Arm/docs/arm/home/Database Management/database/database-schemas"
   },
   "next": {
-    "title": "Merge",
-    "permalink": "/Arm/docs/arm/home/custom/merge"
+    "title": "Documentation Browser",
+    "permalink": "/Arm/docs/arm/home/custom/browser"
   }
 }

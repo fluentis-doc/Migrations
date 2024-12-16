@@ -17,11 +17,11 @@
   },
   "sidebar": "arm",
   "previous": {
-    "title": "Società",
-    "permalink": "/Arm/docs/arm/home/users/company"
+    "title": "Configurazione LDAP",
+    "permalink": "/Arm/docs/arm/home/users/users-details/LDAP-config"
   },
   "next": {
-    "title": "Connessioni",
-    "permalink": "/Arm/docs/arm/home/connections/connections-details/connections"
+    "title": "Utenti ARM",
+    "permalink": "/Arm/docs/arm/home/connections/connections-details/arm-users"
   }
 }

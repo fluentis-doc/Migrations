@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/license1",
+  "title": "Licenza",
+  "description": "La licenza è rappresentata da un codice univoco che viene fornito alla Società cliente di Fluentis S.r.l.",
+  "source": "@site/docs/arm/home/license1.md",
+  "sourceDirName": "arm/home",
+  "slug": "/arm/home/license1",
+  "permalink": "/Arm/docs/arm/home/license1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Licenza",
+    "sidebar_position": 0
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Home",
+    "permalink": "/Arm/docs/arm/home/"
+  },
+  "next": {
+    "title": "Società",
+    "permalink": "/Arm/docs/arm/home/company"
+  }
+}

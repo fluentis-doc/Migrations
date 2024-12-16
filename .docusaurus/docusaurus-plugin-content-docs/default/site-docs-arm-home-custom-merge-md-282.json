@@ -1,7 +1,7 @@
 {
   "id": "arm/home/custom/merge",
   "title": "Merge",
-  "description": "Questa form contiene la lista di tutti i merge fatti e permette di eseguire un nuovo merge, ovvero caricare il file delle differenze creato tramite la funzione degli snapshot e visualizzare i risultati generati dalla sua applicazione. La form permette di visualizzare eventuali conflitti, errori o record duplicati che si andrebbero a generare eseguendo tutti gli script di migrazione. Permette inoltre di gestire in modo manuale tutte le modifiche, scegliendo se applicare o saltare ogni insert/update/delete.",
+  "description": "Il Merge è il processo di combinare più insiemi di dati in uno solo ed è fondamentale al fine di integrare gli sviluppi preservando coerenza ed ordine.",
   "source": "@site/docs/arm/home/custom/merge.md",
   "sourceDirName": "arm/home/custom",
   "slug": "/arm/home/custom/merge",
@@ -17,11 +17,11 @@
   },
   "sidebar": "arm",
   "previous": {
-    "title": "Snapshots",
-    "permalink": "/Arm/docs/arm/home/custom/snapshots"
+    "title": "Documentation Browser",
+    "permalink": "/Arm/docs/arm/home/custom/browser"
   },
   "next": {
-    "title": "Contesto",
+    "title": "Context",
     "permalink": "/Arm/docs/arm/home/context"
   }
 }

@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/custom/browser",
+  "title": "Documentation Browser",
+  "description": "La funzionalità Documentation Browser messa a disposizone su Arm, permette all'utente di archiviare al'interno di Fluentis una documentazione composta da parti scritte ed allegati, utile per l'utente che ha così un punto di riferimento nell'utilizzo del gestionale.",
+  "source": "@site/docs/arm/home/custom/browser.md",
+  "sourceDirName": "arm/home/custom",
+  "slug": "/arm/home/custom/browser",
+  "permalink": "/Arm/docs/arm/home/custom/browser",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Documentation Browser",
+    "sidebar_position": 2
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Snapshots",
+    "permalink": "/Arm/docs/arm/home/custom/snapshots"
+  },
+  "next": {
+    "title": "Merge",
+    "permalink": "/Arm/docs/arm/home/custom/merge"
+  }
+}

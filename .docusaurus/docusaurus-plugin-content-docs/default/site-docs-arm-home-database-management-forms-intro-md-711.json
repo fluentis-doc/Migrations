@@ -17,8 +17,8 @@
   },
   "sidebar": "arm",
   "previous": {
-    "title": "Tabella",
-    "permalink": "/Arm/docs/arm/home/Database Management/database/tabella"
+    "title": "Menu contestuale",
+    "permalink": "/Arm/docs/arm/home/Database Management/database/menuContestuale"
   },
   "next": {
     "title": "Entrypoint Commands",

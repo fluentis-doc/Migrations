@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/Applications/dictionary/dictionary",
+  "title": "Dizionario",
+  "description": "Filter Form",
+  "source": "@site/docs/arm/home/Applications/dictionary/dictionary.md",
+  "sourceDirName": "arm/home/Applications/dictionary",
+  "slug": "/arm/home/Applications/dictionary/",
+  "permalink": "/Arm/docs/arm/home/Applications/dictionary/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Dizionario",
+    "sidebar_position": 1
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Configurazione globale LDAP",
+    "permalink": "/Arm/docs/arm/home/connections/connections-details/idap-config"
+  },
+  "next": {
+    "title": "Lingue",
+    "permalink": "/Arm/docs/arm/home/Applications/dictionary/languages"
+  }
+}

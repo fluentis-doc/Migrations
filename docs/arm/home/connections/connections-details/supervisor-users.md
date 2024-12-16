@@ -2,6 +2,8 @@
 title: Utenti Supervisor
 sidebar_position: 4
 ---
+![](../../../../../static/images/20241204111613.png)
+
 
 ![](../../../../../static/images/20241129103209.png)
 

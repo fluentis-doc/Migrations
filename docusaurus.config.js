@@ -39,8 +39,8 @@ const config = {
           label: 'Home',
           position: 'left',
           items: [
-            { label: 'License', to: 'docs/arm/home/applications/license1' },
-            { label: 'Company', to: 'docs/arm/home/users/company' },
+            { label: 'License', to: 'docs/arm/home/license1' },
+            { label: 'Company', to: 'docs/arm/home/company' },
             { label: 'Connections', to: 'docs/arm/home/connections/connections-details/connections' },
             { label: 'Appplications', to: 'docs/specifications/FluentisMobile/specification' },
             { label: 'Database Management', to: 'docs/specifications/FluentisMobile/specification' },

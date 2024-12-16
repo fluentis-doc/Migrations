@@ -1,7 +1,7 @@
 {
   "id": "arm/home/context",
-  "title": "Contesto",
-  "description": "Nel gruppo Contesto vengono visualizzati gli elementi relativi alla sessione di lavoro in Application Resource Manager.",
+  "title": "Context",
+  "description": "Nel gruppo Contesto viene visualizzata la cartella di compile impostata per l'area di lavoro.",
   "source": "@site/docs/arm/home/context.md",
   "sourceDirName": "arm/home",
   "slug": "/arm/home/context",
@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 6,
   "frontMatter": {
-    "title": "Contesto",
+    "title": "Context",
     "sidebar_position": 6
   },
   "sidebar": "arm",
@@ -21,7 +21,7 @@
     "permalink": "/Arm/docs/arm/home/custom/merge"
   },
   "next": {
-    "title": "Fluentis",
-    "permalink": "/Arm/docs/arm/fluentis/"
+    "title": "Themes",
+    "permalink": "/Arm/docs/arm/home/Themes/"
   }
 }

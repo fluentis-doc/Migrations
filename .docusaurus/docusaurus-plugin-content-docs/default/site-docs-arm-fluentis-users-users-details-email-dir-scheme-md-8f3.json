@@ -1,0 +1,27 @@
+{
+  "id": "arm/fluentis/users/users-details/email-dir-scheme",
+  "title": "Schema directory posta elettronica",
+  "description": "La form Schema directory posta elettronica permette di modificare o creare un nuovo Schema directory. Uno Schema directory è l'insieme delle cartelle di posta elettronica che si vogliono visualizzare dentro l'applicativo Fluentis una volta configurata la mail utente.",
+  "source": "@site/docs/arm/fluentis/users/users-details/email-dir-scheme.md",
+  "sourceDirName": "arm/fluentis/users/users-details",
+  "slug": "/arm/fluentis/users/users-details/email-dir-scheme",
+  "permalink": "/Arm/docs/arm/fluentis/users/users-details/email-dir-scheme",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Schema directory posta elettronica",
+    "sidebar_position": 4
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Stampa utenti",
+    "permalink": "/Arm/docs/arm/fluentis/users/users-details/user-print"
+  },
+  "next": {
+    "title": "Tipo directory e-mail",
+    "permalink": "/Arm/docs/arm/fluentis/users/users-details/email-dir-type"
+  }
+}

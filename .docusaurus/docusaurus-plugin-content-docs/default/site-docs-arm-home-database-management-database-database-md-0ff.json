@@ -1,7 +1,7 @@
 {
   "id": "arm/home/Database Management/database/database",
   "title": "Database",
-  "description": "Tramite il pulsante Database è possibile visualizzare la struttura logica della base dati di Fluentis.",
+  "description": "Tramite il pulsante Database è possibile visualizzare la struttura logica della base dati Fluentis.",
   "source": "@site/docs/arm/home/Database Management/database/database.md",
   "sourceDirName": "arm/home/Database Management/database",
   "slug": "/arm/home/Database Management/database/",
@@ -17,8 +17,8 @@
   },
   "sidebar": "arm",
   "previous": {
-    "title": "Licenza",
-    "permalink": "/Arm/docs/arm/home/applications/license1"
+    "title": "Images",
+    "permalink": "/Arm/docs/arm/home/Applications/images"
   },
   "next": {
     "title": "Database Schemas",

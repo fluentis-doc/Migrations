@@ -1,7 +1,7 @@
 {
   "id": "arm/home/Database Management/database/database-schemas",
   "title": "Database Schemas",
-  "description": "Il Database Schema rappresenta lo schema del Database al quale si riferiscono una o più applicazioni.",
+  "description": "Lo schema di database definisce in che modo i dati vengono organizzati all'interno di un database relazionale; questo include vincoli logici quali nomi di tabelle, campi, tipi di dati e le relazioni tra queste entità.",
   "source": "@site/docs/arm/home/Database Management/database/database-schemas.md",
   "sourceDirName": "arm/home/Database Management/database",
   "slug": "/arm/home/Database Management/database/database-schemas",
@@ -21,7 +21,7 @@
     "permalink": "/Arm/docs/arm/home/Database Management/database/"
   },
   "next": {
-    "title": "Schema applicazioni",
-    "permalink": "/Arm/docs/arm/home/Database Management/database/application-schema"
+    "title": "Snapshots",
+    "permalink": "/Arm/docs/arm/home/custom/snapshots"
   }
 }
