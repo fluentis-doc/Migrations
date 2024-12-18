@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/Arm/docs',
-    component: ComponentCreator('/Arm/docs', 'f48'),
+    component: ComponentCreator('/Arm/docs', '817'),
     routes: [
       {
         path: '/Arm/docs',
-        component: ComponentCreator('/Arm/docs', 'd1d'),
+        component: ComponentCreator('/Arm/docs', '872'),
         routes: [
           {
             path: '/Arm/docs',
-            component: ComponentCreator('/Arm/docs', '9a6'),
+            component: ComponentCreator('/Arm/docs', 'e37'),
             routes: [
               {
                 path: '/Arm/docs/arm/fluentis/',
@@ -222,12 +222,6 @@ export default [
               {
                 path: '/Arm/docs/arm/home/Applications/dictionary/',
                 component: ComponentCreator('/Arm/docs/arm/home/Applications/dictionary/', 'e13'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/home/Applications/dictionary/languages',
-                component: ComponentCreator('/Arm/docs/arm/home/Applications/dictionary/languages', '867'),
                 exact: true,
                 sidebar: "arm"
               },

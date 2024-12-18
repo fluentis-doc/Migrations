@@ -136,11 +136,6 @@
               "sidebar": "arm"
             },
             {
-              "id": "arm/home/Applications/dictionary/languages",
-              "path": "/Arm/docs/arm/home/Applications/dictionary/languages",
-              "sidebar": "arm"
-            },
-            {
               "id": "arm/home/Applications/images",
               "path": "/Arm/docs/arm/home/Applications/images",
               "sidebar": "arm"

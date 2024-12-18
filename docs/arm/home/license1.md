@@ -3,15 +3,16 @@ title: Licenza
 sidebar_position: 0
 ---
 
-La licenza è rappresentata da un codice univoco alfanumerico che viene fornito al committente di Fluentis S.r.l.
+La licenza è rappresentata da un codice univoco alfanumerico che viene fornito al committente di Fluentis S.r.l. e che da diritto all'utilizzatore di poter utilizzare il gestionale a seconda dei moduli acquistati in fase di trattativa commerciale.
 
 ![](../../../static/images/20241204112048.png)
 
 ![](../../../static/images/20241216141938.png)
 
+La form **Licenza** è costituita da un corpo centrale che mostra il numero seriale e una ribbon bar con le azione consentite all'utente.
+
 ![](../../../static/images/20241216142334.png)
 
-La form **Licenza** è costituita da un corpo centrale che mostra il numero seriale e una ribbon bar con le azione consentite all'utente.
 
 **Corpo centrale**
 * **Numero seriale:** è il numero seriale della licenza che è stata associata al cliente, ed è univoco.

@@ -8,7 +8,7 @@ sidebar_position: 1
 
 ![](../../../static/images/20241216163803.png)
 
-Il medesimo sistema gestionale Fluentis ERP permette di lavorare con più Società, ognuna del quale avrà n. divisioni.  
+Il medesimo sistema gestionale Fluentis ERP permette di lavorare con più Società, ognuna del quale avrà un determinato numero di divisioni.  
 In questa form è possibile definire le società con le relative divisioni con cui opera. La form si compone così come segue:  
 
 **Filtro**
