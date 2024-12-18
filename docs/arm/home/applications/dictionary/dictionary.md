@@ -2,6 +2,10 @@
 title: Dizionario
 sidebar_position: 1
 ---
+
+![](../../../../../static/images/20241217112554.png)
+
+
 ## Filter Form
 In questa procedura sono state definite tutte le voci, etichette, testi fissi, utilizzati nelle form delle applicazioni. Per ogni voce, è stata definita la relativa traduzione in tutte le lingue abilitate all’interno della form Lingue di ARM. La procedura permette inoltre una ricerca tra le voci già inserite.
 

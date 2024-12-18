@@ -16,4 +16,3 @@ L'applicativo Arm è composto da:
 
 ![alt text](image.png)
 
-
