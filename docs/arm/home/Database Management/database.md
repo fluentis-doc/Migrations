@@ -14,7 +14,7 @@ La form si compone di:
 * un filter result;
 * un tab di destra contente delle informazioni sulla tabella selezionata.
 
-![![](/img/home/databaseSchemas/database/database_form.png)](../../../../static/images/20241202093459.png)
+![](../../../../static/images/20241218114819.png)
 
 Per i dettagli delle operazioni possibili tramite click del tasto destro sui diversi elementi si rimanda all'apposita sezione [Menu contestuale](menuContestuale).
 
@@ -27,6 +27,7 @@ Per i dettagli delle operazioni possibili tramite click del tasto destro sui div
 ### Filter Result
 * **Codice:** nome della tabella;
 * **Documentazione:** descrizione semplificata del contenuto della tabella.
+Espandendo il contenuto delle cartelle si possono visualizzare le tabelle MSSQL che compongono quella determinata area.  
 
 Sulla destra, il tab **Informazioni** visualizza informazioni relative alla tabella selezionata.
 
@@ -55,7 +56,6 @@ Dovranno essere inseriti i seguenti dati e un messaggio di conferma comunicherà
 Nel tab (Destination Database) i dati da inserire sono speculari al tab di cui al punto che precede, con 
 
 
-
 ![Migrazione](/img/home/databaseSchemas/database/migrazionedatabase.png)
 * **Importa dati Arm:** Consente di importare dati in Arm direttamente da un'altro database. Sempre disabilitato per l'utente.
 
@@ -67,4 +67,4 @@ Inserire la query nel riquadro di sinistra, successivamente premere il bottone e
 * **Convert script file:** converte un file sql F2015 o F2021 in un file F2023. 
 Selezionare il file da convertire ed attendere qualche secondo, successivamente scegliere la posizione di destinazione del disco per lo script convertito.
 
-
+Per quanto concerne la procedura di migrazione si rimanda ad appositi documentazione e training dedicati.   

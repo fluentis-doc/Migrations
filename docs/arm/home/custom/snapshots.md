@@ -4,11 +4,11 @@ sidebar_position: 1
 ---
 ### Introduzione
 
-![](../../../../static/images/20241203154708.png)
-
-In questo sottogruppo si trovano tutti i comandi necessari per eseguire uno snapshot della base di dati.  
-Lo snapshot è una *fotografia* della base dati in un determinato istante temporale, e confrontando due snapshot ottenuti in due epoche diverse è possibile generare uno script Sql
+In questo sottogruppo si trovano tutti i comandi necessari per eseguire uno snapshot della base di dati Fluentis.  
+Lo snapshot è una **fotografia** del DB in un determinato istante temporale. Confrontando- due snapshot ottenuti in due epoche diverse è possibile generare uno script Sql
 che per differenza, una volta applicato sulla base dati di destinazione, consentirà di spostare le personalizzazioni dall'ambiente di sviluppo a quello di produzione.  
+
+![](../../../../static/images/20241203154708.png)
 
 ![](../../../../static/images/20241202144355.png)
 
@@ -35,10 +35,11 @@ La form **Snapshots** è una filter form con un filtro, una griglia dei risultat
 
 ### Ribbon menu
 
+![](../../../../static/images/20241202145706.png)
+
 Il pulsante **Nuovo** apre un popup che permette di inserire la descrizione dello snapshot che si sta andando a creare, le restanti informazioni verranno inserite in automatico.  
 
 Il pulsante **Differenza** apre un popup che permettere di selezionare lo snapshot inziale e lo snapshot finale, ovvero i 2 intervalli temporali che devono essere contenute nel file delle differenze. Il file delle differenze è un file zip autogenerato che contiene tutti gli script necessari a migrare le modifiche fatte tra i 2 snapshot selezionati.  
 
-E' possibile anche selezionare gli snapshot al contrario per ripristinare una situazione precedente che è stata alterata in modo errato.
+E' possibile anche selezionare gli snapshot al contrario per ripristinare una situazione precedente che è stata alterata in modo errato / accidentale.
 
-![](../../../../static/images/20241202145706.png)

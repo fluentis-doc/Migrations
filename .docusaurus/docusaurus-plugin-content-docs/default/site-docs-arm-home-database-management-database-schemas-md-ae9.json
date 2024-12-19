@@ -1,7 +1,7 @@
 {
   "id": "arm/home/Database Management/database-schemas",
   "title": "Database Schemas",
-  "description": "Lo schema di database definisce in che modo i dati vengono organizzati all'interno di un database relazionale; questo include vincoli logici quali nomi di tabelle, campi, tipi di dati e le relazioni tra queste entità.",
+  "description": "Lo schema di database definisce in che modo i dati vengono organizzati all'interno di un database relazionale; questo include vincoli logici quali nomi di tabelle, campi, tipi di dati e le relazioni tra le diverse entità.",
   "source": "@site/docs/arm/home/Database Management/database-schemas.md",
   "sourceDirName": "arm/home/Database Management",
   "slug": "/arm/home/Database Management/database-schemas",
