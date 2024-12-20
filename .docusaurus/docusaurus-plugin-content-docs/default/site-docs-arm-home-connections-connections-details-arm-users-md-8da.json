@@ -1,7 +1,7 @@
 {
   "id": "arm/home/connections/connections-details/arm-users",
   "title": "Utenti ARM",
-  "description": "La form Utenti Arm permette di parametrizzare gli utenti che avranno accesso all'Application Resource Manager, ed eventualmente attribuire all'utente i diritti di Super User.",
+  "description": "La form Utenti Arm permette di parametrizzare gli utenti che avranno accesso all'Application Resource Manager, ed eventualmente attribuire all'utente i diritti di SuperUser.",
   "source": "@site/docs/arm/home/connections/connections-details/arm-users.md",
   "sourceDirName": "arm/home/connections/connections-details",
   "slug": "/arm/home/connections/connections-details/arm-users",

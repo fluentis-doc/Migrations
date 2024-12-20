@@ -1,7 +1,7 @@
 {
   "id": "arm/home/license1",
   "title": "Licenza",
-  "description": "La licenza è rappresentata da un codice univoco alfanumerico che viene fornito al committente di Fluentis S.r.l. e che da diritto all'utilizzatore di poter utilizzare il gestionale in funzione dei moduli acquistati in fase di trattativa commerciale.",
+  "description": "La licenza è un codice univoco che viene fornito al committente di Fluentis S.r.l. e che da diritto ad esso ad utilizzare il gestionale in funzione dei moduli acquistati in fase di trattativa commerciale.",
   "source": "@site/docs/arm/home/license1.md",
   "sourceDirName": "arm/home",
   "slug": "/arm/home/license1",

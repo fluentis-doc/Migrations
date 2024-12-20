@@ -1,7 +1,7 @@
 {
   "id": "arm/home/Applications/images",
   "title": "Images",
-  "description": "Questa funzionalità di Fluentis consente all'utente di includere nel gestione delle nuove icone da poter associare ai comandi di Fluentis.",
+  "description": "Questa funzionalità di Fluentis consente all'utente di includere nel gestionale delle nuove icone da poter associare ai pulsanti / bottoni di Fluentis.",
   "source": "@site/docs/arm/home/Applications/images.md",
   "sourceDirName": "arm/home/Applications",
   "slug": "/arm/home/Applications/images",

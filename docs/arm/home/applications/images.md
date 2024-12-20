@@ -5,14 +5,14 @@ sidebar_position: 2
 
 ![](/images/20241204111806.png)
 
-Questa funzionalità di Fluentis consente all'utente di includere nel gestione delle nuove icone da poter associare ai comandi di Fluentis.  
+Questa funzionalità di Fluentis consente all'utente di includere nel gestionale delle nuove icone da poter associare ai pulsanti / bottoni di Fluentis.  
 Per il caricamento delle nuove icone i formati supportati sono: svg e png.  
 La form presenta:
 
 * un filter form che permette di eseguire la ricerca per **codice** e **descrizione**.  
 * un filter result suddiviso per piattaforma (**Wpf**, **Blazor**, **Xamarin**) e per dimensione dell'icona (Small, Medium, Large).
 
-Per poter aggiungere una nuova icona custom è necessario popolare:
+Per poter aggiungere una nuova icona custom è necessario inserire:
 * codice;
 * descrizione;
 * in corrispondenza di un cella, fare doppio click e importare l'immagine desiderata.

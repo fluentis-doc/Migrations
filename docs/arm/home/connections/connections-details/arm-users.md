@@ -7,8 +7,8 @@ sidebar_position: 2
 
 ![](../../../../../static/images/20241216165140.png)
 
-La form Utenti Arm permette di parametrizzare gli utenti che avranno accesso all'Application Resource Manager, ed eventualmente attribuire all'utente i diritti di Super User.  
-Le informazioni relative al nome utente e password vengono salvate nel Database di ARM come in figura sottostante (con la password cifrata).
+La form Utenti Arm permette di parametrizzare gli utenti che avranno accesso all'Application Resource Manager, ed eventualmente attribuire all'utente i diritti di SuperUser.  
+Le informazioni relative al nome utente e password vengono salvate nel Database di ARM come in figura sottostante (con password cifrata).
 
 ![](../../../../../static/images/20241216165813.png)
 
@@ -32,3 +32,4 @@ La form si compone di un filtro, una griglia dei risultati e una ribbon bar con 
 **Azioni**
 * **Ricerca:** per applicare le regole di filtro e caricare la lista degli utenti Arm disponibili.
 * **Nuovo:** per inserire un nuovo utente.
+

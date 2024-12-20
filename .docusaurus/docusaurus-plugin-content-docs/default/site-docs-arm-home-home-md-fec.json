@@ -1,7 +1,7 @@
 {
   "id": "arm/home/home",
   "title": "Home",
-  "description": "Menu Home.",
+  "description": "Il menu Home di Arm si compone delle seguenti voci:",
   "source": "@site/docs/arm/home/home.md",
   "sourceDirName": "arm/home",
   "slug": "/arm/home/",
