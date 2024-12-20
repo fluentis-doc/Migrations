@@ -131,6 +131,11 @@
               "sidebar": "arm"
             },
             {
+              "id": "arm/home/Applications/accelerators",
+              "path": "/Arm/docs/arm/home/Applications/accelerators",
+              "sidebar": "arm"
+            },
+            {
               "id": "arm/home/Applications/dictionary/dictionary",
               "path": "/Arm/docs/arm/home/Applications/dictionary/",
               "sidebar": "arm"

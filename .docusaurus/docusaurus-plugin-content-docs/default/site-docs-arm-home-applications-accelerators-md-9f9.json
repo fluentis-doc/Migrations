@@ -1,0 +1,27 @@
+{
+  "id": "arm/home/Applications/accelerators",
+  "title": "Acceleratos",
+  "description": "Accelerators",
+  "source": "@site/docs/arm/home/Applications/accelerators.md",
+  "sourceDirName": "arm/home/Applications",
+  "slug": "/arm/home/Applications/accelerators",
+  "permalink": "/Arm/docs/arm/home/Applications/accelerators",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Acceleratos",
+    "sidebar_position": 3
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Images",
+    "permalink": "/Arm/docs/arm/home/Applications/images"
+  },
+  "next": {
+    "title": "Database",
+    "permalink": "/Arm/docs/arm/home/Database Management/database"
+  }
+}

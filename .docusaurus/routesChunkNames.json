@@ -80,17 +80,17 @@
     },
     "content": "content---arm-markdown-page-393-027"
   },
-  "/Arm/docs-817": {
+  "/Arm/docs-2fb": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---arm-docsaba-ff2"
     }
   },
-  "/Arm/docs-872": {
+  "/Arm/docs-d3e": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---arm-docs-86-a-9ed"
   },
-  "/Arm/docs-e37": {
+  "/Arm/docs-0a3": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/Arm/docs/arm/fluentis/-a60": {
@@ -192,6 +192,10 @@
   "/Arm/docs/arm/home/-328": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---arm-docs-arm-home-fec-c20"
+  },
+  "/Arm/docs/arm/home/Applications/accelerators-9f9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---arm-docs-arm-home-applications-accelerators-9-f-9-2ae"
   },
   "/Arm/docs/arm/home/Applications/dictionary/-e13": {
     "__comp": "__comp---theme-doc-item-178-a40",

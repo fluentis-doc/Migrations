@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/Arm/docs',
-    component: ComponentCreator('/Arm/docs', '817'),
+    component: ComponentCreator('/Arm/docs', '2fb'),
     routes: [
       {
         path: '/Arm/docs',
-        component: ComponentCreator('/Arm/docs', '872'),
+        component: ComponentCreator('/Arm/docs', 'd3e'),
         routes: [
           {
             path: '/Arm/docs',
-            component: ComponentCreator('/Arm/docs', 'e37'),
+            component: ComponentCreator('/Arm/docs', '0a3'),
             routes: [
               {
                 path: '/Arm/docs/arm/fluentis/',
@@ -216,6 +216,12 @@ export default [
               {
                 path: '/Arm/docs/arm/home/',
                 component: ComponentCreator('/Arm/docs/arm/home/', '328'),
+                exact: true,
+                sidebar: "arm"
+              },
+              {
+                path: '/Arm/docs/arm/home/Applications/accelerators',
+                component: ComponentCreator('/Arm/docs/arm/home/Applications/accelerators', '9f9'),
                 exact: true,
                 sidebar: "arm"
               },
