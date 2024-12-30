@@ -7,7 +7,7 @@ sidebar_position: 3
 
 ![](../../../../static/images/20241220175013.png)
 
-Gli **Accelleratori** sono una funzionalità che permette di settare delle scorciatoie da tastiera per eseguire alcune azioni comune, come ad esempio la ricerca dei record su una form.   
+Gli **Accelleratori** sono una funzionalità che permette di settare delle scorciatoie da tastiera (shortcut) per eseguire alcune azioni comuni, come per esempio la ricerca dei record su una form.   
 
 La form si compone di:
 
@@ -17,6 +17,8 @@ La form si compone di:
 
 * un **corpo centrale** composto da:
 * Name: Nome del comando.
-* Keyboard shortcut: si tratta delle combinazioni di tasti associata al comando.
+* Keyboard shortcut: si tratta della combinazione di tasti associata al comando.
+
+Per esempio aprendo una form e premendo la combinazione di tasti CTRL + R eseguiamo la ricerca dei record della form.
 
 ![](../../../../static/images/20241220175535.png)

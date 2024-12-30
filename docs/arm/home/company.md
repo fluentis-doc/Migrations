@@ -6,11 +6,9 @@ sidebar_position: 1
 ![alt text](../../../static/images/20241204101732.png)
 
 
-
-
-Il medesimo sistema gestionale Fluentis ERP permette di lavorare con più **Società**, ognuna del quale avrà un certo numero di **Divisioni**.
-La tabella a DB dove vengono salvate le società è denominata Fluentis.SH_Companies ed è presente sul DB Fluentis.  
-Di default Società e Divisione sono già impostate durante la fase d'installazione tramite il Fluentis Live Update.  
+Il medesimo sistema gestionale Fluentis permette di lavorare con più **Società**, ognuna della quale avrà un n **Divisioni**.
+La tabella a database dove vengono salvate le società è denominata Fluentis.SH_Companies ed è presente sul DB Fluentis caricato sull'istanza MSSQL dedicata alla suite.  
+Di default Società e Divisione sono vengono impostate con quanto specificato in sede d'installazione di Fluentis Live Update.
 
 ![](../../../static/images/20241216163803.png)
 
@@ -22,8 +20,8 @@ La form si compone così come segue.
 
 **Griglia dei risultati**
 * **Nome:** Codice numerico identificativo della Società.
-* **Descrizione:** Ragione Sociale della Società. 
-* **Predefinito:** Checkbox che identifica che verrà caricata di default all'avvio di fluentis.
+* **Descrizione:** Denominazione / Ragione Sociale.
+* **Predefinito:** Checkbox che identifica il caricamento di default di tale Società all'avvio di Fluentis.
 
 Le informazioni rappresentate in griglia relativamente ad ogni società, sono ulteriormente dettagliate attraverso la griglia inferiore che visualizza l’elenco delle divisioni per ciascuna Società.  
 

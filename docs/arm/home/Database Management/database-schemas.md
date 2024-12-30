@@ -10,10 +10,10 @@ Lo schema di database definisce in che modo i dati vengono organizzati all'inter
 
 ![](../../../../static/images/20241202105114.png)
 
-La form **Database Schemas** è costituita da una griglia dei risultati e una ribbon bar con le azioni consentite all'utente.
+La form **Database Schemas** è costituita da una griglia dei risultati e un ribbon menu con le azioni contestuali consentite all'utente di Fluentis.
 
 **Filtro**
-* **Name:** Indica il nome dello schema.
+* **Name:** Indica il nome dello schema del database.
 * **Nature:** Indica se lo schema è custom o presente a standard.
 
 **Griglia dei risultati**
@@ -27,5 +27,6 @@ La form **Database Schemas** è costituita da una griglia dei risultati e una ri
 * **Stampa:** insieme standard delle funzioni di stampa con combobox di selezione, anteprima e stampa.
 
 E' possibile inoltre creare degli schemi di database custom, che verranno evidenziati in rosso.  
-Questa operazione è necessaria qualora si decida di creare oggetti custom (ad esempio basati su estensione di oggetti già presenti) il quale devono essere necessariamente mappati su uno schema database custom.  
+Questa operazione è necessaria qualora si decida di creare oggetti custom (ad esempio basati su estensione di oggetti standard) il quale devono essere necessariamente mappati su uno schema database custom.
+
 

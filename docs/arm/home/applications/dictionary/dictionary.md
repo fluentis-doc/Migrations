@@ -7,7 +7,7 @@ sidebar_position: 1
 
 
 ## Filter Form
-In questa procedura sono state definite tutte le voci, etichette, testi fissi, utilizzati nelle form delle applicazioni. Per ogni voce, è stata definita la relativa traduzione in tutte le lingue abilitate all’interno della form Lingue di ARM. La procedura permette inoltre una ricerca tra le voci già inserite.
+In questa sezione sono state definite tutte le voci, etichette, testi fissi, utilizzati nelle form delle applicazioni. Per ogni voce, è stata definita la relativa traduzione in tutte le lingue compatibili con Fluentis.
 
 La form **Dizionario** è una filter form con filtro, griglia dei risultati e ribbon bar con le azioni consentite all'utente.
 
