@@ -14,6 +14,11 @@ La form principale si presenta con:
 * Un filtro standard, che permette di filtrare per **Solution**.
 * Una griglia dei risultati.
 
+Nella griglia dei risultati, tramite il pulsante **New**, è possibile aggiungere degli elementi **custom**.  
+
+![](../../../../static/images/20241231165912.png)
+
+Premendo invece sul dropdown, si abilita la funzione di ricalcolo del **Ribbon menu** che permette di rendere effettive le modidiche circa .  
 
 
 
