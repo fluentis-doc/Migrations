@@ -1,0 +1,27 @@
+{
+  "id": "arm/platform/users/restriction-type",
+  "title": "Tipi Restrizioni",
+  "description": "Il Tipo di restrizione viene utilizzato per propagare una condizione di filtro su più oggetti. Più precisamente permette di specificare il modo nel quale un Tipo di restrizione per un Oggetto Business si propaga su altri oggetti (inseriti nella sezione Dettagli).",
+  "source": "@site/docs/arm/platform/users/restriction-type.md",
+  "sourceDirName": "arm/platform/users",
+  "slug": "/arm/platform/users/restriction-type",
+  "permalink": "/Arm/docs/arm/platform/users/restriction-type",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Tipi Restrizioni",
+    "sidebar_position": 3
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Importazione da Active Directory",
+    "permalink": "/Arm/docs/arm/platform/users/import-ad"
+  },
+  "next": {
+    "title": "Stampa utenti",
+    "permalink": "/Arm/docs/arm/platform/users/user-print"
+  }
+}

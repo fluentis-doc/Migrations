@@ -15,9 +15,13 @@
     "title": "Home",
     "sidebar_position": 1
   },
-  "sidebar": "arm",
+  "sidebar": "flu",
+  "previous": {
+    "title": "Società",
+    "permalink": "/Arm/docs/arm/home/company"
+  },
   "next": {
-    "title": "Licenza",
-    "permalink": "/Arm/docs/arm/home/license1"
+    "title": "Connessioni",
+    "permalink": "/Arm/docs/arm/home/connections/"
   }
 }

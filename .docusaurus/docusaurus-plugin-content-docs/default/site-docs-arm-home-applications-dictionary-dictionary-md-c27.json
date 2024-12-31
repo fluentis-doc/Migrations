@@ -15,7 +15,7 @@
     "title": "Dizionario",
     "sidebar_position": 1
   },
-  "sidebar": "arm",
+  "sidebar": "flu",
   "previous": {
     "title": "Utenti Supervisor",
     "permalink": "/Arm/docs/arm/home/connections/connections-details/supervisor-users"

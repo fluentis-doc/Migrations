@@ -15,7 +15,7 @@
     "title": "Utenti Supervisor",
     "sidebar_position": 4
   },
-  "sidebar": "arm",
+  "sidebar": "flu",
   "previous": {
     "title": "Utenti BizLink",
     "permalink": "/Arm/docs/arm/home/connections/connections-details/bizlink-users"

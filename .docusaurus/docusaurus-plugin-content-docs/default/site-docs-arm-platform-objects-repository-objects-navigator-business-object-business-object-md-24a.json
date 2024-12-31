@@ -1,0 +1,27 @@
+{
+  "id": "arm/platform/objects-repository/objects-navigator/business-object/business-object",
+  "title": "Oggetto Business",
+  "description": "Il Business Object è l'ingranaggio principale di Fluentis, esso assume un ruolo fondamentale perché qualsiasi documento esistente è associato a un business object di diverso tipo.",
+  "source": "@site/docs/arm/platform/objects-repository/objects-navigator/business-object/business-object.md",
+  "sourceDirName": "arm/platform/objects-repository/objects-navigator/business-object",
+  "slug": "/arm/platform/objects-repository/objects-navigator/business-object/",
+  "permalink": "/Arm/docs/arm/platform/objects-repository/objects-navigator/business-object/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Oggetto Business",
+    "sidebar_position": 1
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Navigatore Oggetti",
+    "permalink": "/Arm/docs/arm/platform/objects-repository/objects-navigator/"
+  },
+  "next": {
+    "title": "Subclasses",
+    "permalink": "/Arm/docs/arm/platform/objects-repository/objects-navigator/business-object/subclasses"
+  }
+}

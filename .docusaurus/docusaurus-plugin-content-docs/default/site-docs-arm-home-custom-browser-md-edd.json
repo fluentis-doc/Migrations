@@ -15,7 +15,7 @@
     "title": "Documentation Browser",
     "sidebar_position": 2
   },
-  "sidebar": "arm",
+  "sidebar": "flu",
   "previous": {
     "title": "Snapshots",
     "permalink": "/Arm/docs/arm/home/custom/snapshots"

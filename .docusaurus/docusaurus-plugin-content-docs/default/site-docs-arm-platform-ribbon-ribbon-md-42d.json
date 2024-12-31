@@ -1,0 +1,27 @@
+{
+  "id": "arm/platform/ribbon/ribbon",
+  "title": "Ribbon menu",
+  "description": "Come già detto in precedenza il Ribbon menu è il menu contestuale presente in testata in ciascuna form Fluentis.",
+  "source": "@site/docs/arm/platform/ribbon/ribbon.md",
+  "sourceDirName": "arm/platform/ribbon",
+  "slug": "/arm/platform/ribbon/",
+  "permalink": "/Arm/docs/arm/platform/ribbon/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Ribbon menu",
+    "sidebar_position": 1
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Platform",
+    "permalink": "/Arm/docs/arm/platform/"
+  },
+  "next": {
+    "title": "Utenti",
+    "permalink": "/Arm/docs/arm/platform/users/"
+  }
+}

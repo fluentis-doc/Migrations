@@ -1,0 +1,27 @@
+{
+  "id": "arm/platform/rights/rights-details/operations",
+  "title": "Operazioni",
+  "description": "La form Operazioni permette di inserire, modificare o eliminare un'Operazione e i suoi Valori. Si può accedere alla form, oltre che da Fluentis>Diritti>Operazioni, da Home>Utenti, tab Sicurezza e cliccando col tasto destro nella colonna Operazione.",
+  "source": "@site/docs/arm/platform/rights/rights-details/operations.md",
+  "sourceDirName": "arm/platform/rights/rights-details",
+  "slug": "/arm/platform/rights/rights-details/operations",
+  "permalink": "/Arm/docs/arm/platform/rights/rights-details/operations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Operazioni",
+    "sidebar_position": 1
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Configurazione LDAP",
+    "permalink": "/Arm/docs/arm/platform/users/LDAP-config"
+  },
+  "next": {
+    "title": "Ruoli",
+    "permalink": "/Arm/docs/arm/platform/rights/roles"
+  }
+}

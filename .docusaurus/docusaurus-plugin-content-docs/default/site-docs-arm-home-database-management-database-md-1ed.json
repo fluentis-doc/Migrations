@@ -15,7 +15,7 @@
     "title": "Database",
     "sidebar_position": 1
   },
-  "sidebar": "arm",
+  "sidebar": "flu",
   "previous": {
     "title": "Acceleratos",
     "permalink": "/Arm/docs/arm/home/Applications/accelerators"

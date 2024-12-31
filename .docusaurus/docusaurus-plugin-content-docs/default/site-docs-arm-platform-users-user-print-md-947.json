@@ -1,0 +1,27 @@
+{
+  "id": "arm/platform/users/user-print",
+  "title": "Stampa utenti",
+  "description": "La form permette di parametrizzare la stampa di un report con la lista degli utenti configurati.",
+  "source": "@site/docs/arm/platform/users/user-print.md",
+  "sourceDirName": "arm/platform/users",
+  "slug": "/arm/platform/users/user-print",
+  "permalink": "/Arm/docs/arm/platform/users/user-print",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Stampa utenti",
+    "sidebar_position": 3
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Tipi Restrizioni",
+    "permalink": "/Arm/docs/arm/platform/users/restriction-type"
+  },
+  "next": {
+    "title": "Schema directory posta elettronica",
+    "permalink": "/Arm/docs/arm/platform/users/email-dir-scheme"
+  }
+}

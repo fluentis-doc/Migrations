@@ -15,7 +15,7 @@
     "title": "Database Schemas",
     "sidebar_position": 2
   },
-  "sidebar": "arm",
+  "sidebar": "flu",
   "previous": {
     "title": "Database",
     "permalink": "/Arm/docs/arm/home/Database Management/database"

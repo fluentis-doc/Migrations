@@ -8,211 +8,206 @@
           "label": "Next",
           "isLast": true,
           "path": "/Arm/docs",
-          "mainDocId": "arm/home/home",
+          "mainDocId": "arm/home/license1",
           "docs": [
-            {
-              "id": "arm/fluentis/fluentis",
-              "path": "/Arm/docs/arm/fluentis/",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/forms/forms/entrypoint-commands",
-              "path": "/Arm/docs/arm/fluentis/forms/forms/entrypoint-commands",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/forms/forms/forms",
-              "path": "/Arm/docs/arm/fluentis/forms/forms/",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/menu-area/ribbon-menu/ribbon",
-              "path": "/Arm/docs/arm/fluentis/menu-area/ribbon-menu/ribbon",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/menu-area/ribbon-menu/ribbon-menu",
-              "path": "/Arm/docs/arm/fluentis/menu-area/ribbon-menu/",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/objects-repository/objects-navigator/business-object/business-object",
-              "path": "/Arm/docs/arm/fluentis/objects-repository/objects-navigator/business-object/",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/objects-repository/objects-navigator/business-object/business-property",
-              "path": "/Arm/docs/arm/fluentis/objects-repository/objects-navigator/business-object/business-property",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/objects-repository/objects-navigator/business-object/load-request",
-              "path": "/Arm/docs/arm/fluentis/objects-repository/objects-navigator/business-object/load-request",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/objects-repository/objects-navigator/business-object/subclasses",
-              "path": "/Arm/docs/arm/fluentis/objects-repository/objects-navigator/business-object/subclasses",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/objects-repository/objects-navigator/business-object/workflow",
-              "path": "/Arm/docs/arm/fluentis/objects-repository/objects-navigator/business-object/workflow",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/objects-repository/objects-navigator/objects-navigator",
-              "path": "/Arm/docs/arm/fluentis/objects-repository/objects-navigator/",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/objects-repository/restrictions",
-              "path": "/Arm/docs/arm/fluentis/objects-repository/restrictions",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/objects-repository/working-units",
-              "path": "/Arm/docs/arm/fluentis/objects-repository/working-units",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/rights/rights-details/operations",
-              "path": "/Arm/docs/arm/fluentis/rights/rights-details/operations",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/rights/roles",
-              "path": "/Arm/docs/arm/fluentis/rights/roles",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/rights/Stampe/Diritti Stampe/Diritti Stampe",
-              "path": "/Arm/docs/arm/fluentis/rights/Stampe/Diritti Stampe/",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/rights/Stampe/Server Stampa/Server Stampa",
-              "path": "/Arm/docs/arm/fluentis/rights/Stampe/Server Stampa/",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/users/restriction-type",
-              "path": "/Arm/docs/arm/fluentis/users/restriction-type",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/users/users-details/email-dir-scheme",
-              "path": "/Arm/docs/arm/fluentis/users/users-details/email-dir-scheme",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/users/users-details/email-dir-type",
-              "path": "/Arm/docs/arm/fluentis/users/users-details/email-dir-type",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/users/users-details/import-ad",
-              "path": "/Arm/docs/arm/fluentis/users/users-details/import-ad",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/users/users-details/LDAP-config",
-              "path": "/Arm/docs/arm/fluentis/users/users-details/LDAP-config",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/users/users-details/user-print",
-              "path": "/Arm/docs/arm/fluentis/users/users-details/user-print",
-              "sidebar": "arm"
-            },
-            {
-              "id": "arm/fluentis/users/users-details/users",
-              "path": "/Arm/docs/arm/fluentis/users/users-details/users",
-              "sidebar": "arm"
-            },
             {
               "id": "arm/home/Applications/accelerators",
               "path": "/Arm/docs/arm/home/Applications/accelerators",
-              "sidebar": "arm"
+              "sidebar": "flu"
             },
             {
               "id": "arm/home/Applications/dictionary/dictionary",
               "path": "/Arm/docs/arm/home/Applications/dictionary/",
-              "sidebar": "arm"
+              "sidebar": "flu"
             },
             {
               "id": "arm/home/Applications/images",
               "path": "/Arm/docs/arm/home/Applications/images",
-              "sidebar": "arm"
+              "sidebar": "flu"
             },
             {
               "id": "arm/home/company",
               "path": "/Arm/docs/arm/home/company",
-              "sidebar": "arm"
+              "sidebar": "flu"
             },
             {
               "id": "arm/home/connections/connections",
               "path": "/Arm/docs/arm/home/connections/",
-              "sidebar": "arm"
+              "sidebar": "flu"
             },
             {
               "id": "arm/home/connections/connections-details/arm-users",
               "path": "/Arm/docs/arm/home/connections/connections-details/arm-users",
-              "sidebar": "arm"
+              "sidebar": "flu"
             },
             {
               "id": "arm/home/connections/connections-details/bizlink-users",
               "path": "/Arm/docs/arm/home/connections/connections-details/bizlink-users",
-              "sidebar": "arm"
+              "sidebar": "flu"
             },
             {
               "id": "arm/home/connections/connections-details/supervisor-users",
               "path": "/Arm/docs/arm/home/connections/connections-details/supervisor-users",
-              "sidebar": "arm"
+              "sidebar": "flu"
             },
             {
               "id": "arm/home/context",
               "path": "/Arm/docs/arm/home/context",
-              "sidebar": "arm"
+              "sidebar": "flu"
             },
             {
               "id": "arm/home/custom/browser",
               "path": "/Arm/docs/arm/home/custom/browser",
-              "sidebar": "arm"
+              "sidebar": "flu"
             },
             {
               "id": "arm/home/custom/merge",
               "path": "/Arm/docs/arm/home/custom/merge",
-              "sidebar": "arm"
+              "sidebar": "flu"
             },
             {
               "id": "arm/home/custom/snapshots",
               "path": "/Arm/docs/arm/home/custom/snapshots",
-              "sidebar": "arm"
+              "sidebar": "flu"
             },
             {
               "id": "arm/home/Database Management/database",
               "path": "/Arm/docs/arm/home/Database Management/database",
-              "sidebar": "arm"
+              "sidebar": "flu"
             },
             {
               "id": "arm/home/Database Management/database-schemas",
               "path": "/Arm/docs/arm/home/Database Management/database-schemas",
-              "sidebar": "arm"
+              "sidebar": "flu"
             },
             {
               "id": "arm/home/home",
               "path": "/Arm/docs/arm/home/",
-              "sidebar": "arm"
+              "sidebar": "flu"
             },
             {
               "id": "arm/home/license1",
               "path": "/Arm/docs/arm/home/license1",
-              "sidebar": "arm"
+              "sidebar": "flu"
             },
             {
               "id": "arm/home/Themes/Themes",
               "path": "/Arm/docs/arm/home/Themes/",
+              "sidebar": "flu"
+            },
+            {
+              "id": "arm/platform/forms/forms/entrypoint-commands",
+              "path": "/Arm/docs/arm/platform/forms/forms/entrypoint-commands",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/forms/forms/forms",
+              "path": "/Arm/docs/arm/platform/forms/forms/",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/objects-repository/objects-navigator/business-object/business-object",
+              "path": "/Arm/docs/arm/platform/objects-repository/objects-navigator/business-object/",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/objects-repository/objects-navigator/business-object/business-property",
+              "path": "/Arm/docs/arm/platform/objects-repository/objects-navigator/business-object/business-property",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/objects-repository/objects-navigator/business-object/load-request",
+              "path": "/Arm/docs/arm/platform/objects-repository/objects-navigator/business-object/load-request",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/objects-repository/objects-navigator/business-object/subclasses",
+              "path": "/Arm/docs/arm/platform/objects-repository/objects-navigator/business-object/subclasses",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/objects-repository/objects-navigator/business-object/workflow",
+              "path": "/Arm/docs/arm/platform/objects-repository/objects-navigator/business-object/workflow",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/objects-repository/objects-navigator/objects-navigator",
+              "path": "/Arm/docs/arm/platform/objects-repository/objects-navigator/",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/objects-repository/restrictions",
+              "path": "/Arm/docs/arm/platform/objects-repository/restrictions",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/objects-repository/working-units",
+              "path": "/Arm/docs/arm/platform/objects-repository/working-units",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/platform",
+              "path": "/Arm/docs/arm/platform/",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/ribbon/ribbon",
+              "path": "/Arm/docs/arm/platform/ribbon/",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/rights/rights-details/operations",
+              "path": "/Arm/docs/arm/platform/rights/rights-details/operations",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/rights/roles",
+              "path": "/Arm/docs/arm/platform/rights/roles",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/rights/Stampe/Diritti Stampe/Diritti Stampe",
+              "path": "/Arm/docs/arm/platform/rights/Stampe/Diritti Stampe/",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/rights/Stampe/Server Stampa/Server Stampa",
+              "path": "/Arm/docs/arm/platform/rights/Stampe/Server Stampa/",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/users/email-dir-scheme",
+              "path": "/Arm/docs/arm/platform/users/email-dir-scheme",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/users/email-dir-type",
+              "path": "/Arm/docs/arm/platform/users/email-dir-type",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/users/import-ad",
+              "path": "/Arm/docs/arm/platform/users/import-ad",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/users/LDAP-config",
+              "path": "/Arm/docs/arm/platform/users/LDAP-config",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/users/restriction-type",
+              "path": "/Arm/docs/arm/platform/users/restriction-type",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/users/user-print",
+              "path": "/Arm/docs/arm/platform/users/user-print",
+              "sidebar": "arm"
+            },
+            {
+              "id": "arm/platform/users/users",
+              "path": "/Arm/docs/arm/platform/users/",
               "sidebar": "arm"
             },
             {
@@ -228,14 +223,14 @@
           "sidebars": {
             "flu": {
               "link": {
-                "path": "/Arm/docs/arm/home/",
-                "label": "Home"
+                "path": "/Arm/docs/arm/home/license1",
+                "label": "arm/home/license1"
               }
             },
             "arm": {
               "link": {
-                "path": "/Arm/docs/arm/home/",
-                "label": "Home"
+                "path": "/Arm/docs/arm/platform/",
+                "label": "arm/platform/platform"
               }
             }
           }

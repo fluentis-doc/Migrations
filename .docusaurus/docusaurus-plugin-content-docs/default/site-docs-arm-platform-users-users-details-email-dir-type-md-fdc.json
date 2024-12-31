@@ -1,0 +1,27 @@
+{
+  "id": "arm/platform/users/users-details/email-dir-type",
+  "title": "Tipo directory e-mail",
+  "description": "Nel caso si sia scelto di abilitare l'email degli utenti in Fluentis (Utenti>Altre-caratteristiche), nella form Tipo directory e-mail sarà possibile definire le singole directory di posta elettronica che verranno utilizzate all'interno dell'applicativo.",
+  "source": "@site/docs/arm/platform/users/users-details/email-dir-type.md",
+  "sourceDirName": "arm/platform/users/users-details",
+  "slug": "/arm/platform/users/users-details/email-dir-type",
+  "permalink": "/Arm/docs/arm/platform/users/users-details/email-dir-type",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Tipo directory e-mail",
+    "sidebar_position": 5
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Schema directory posta elettronica",
+    "permalink": "/Arm/docs/arm/platform/users/users-details/email-dir-scheme"
+  },
+  "next": {
+    "title": "Configurazione LDAP",
+    "permalink": "/Arm/docs/arm/platform/users/users-details/LDAP-config"
+  }
+}

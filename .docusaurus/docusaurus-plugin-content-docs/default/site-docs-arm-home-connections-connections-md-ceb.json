@@ -15,10 +15,10 @@
     "title": "Connessioni",
     "sidebar_position": 2
   },
-  "sidebar": "arm",
+  "sidebar": "flu",
   "previous": {
-    "title": "Società",
-    "permalink": "/Arm/docs/arm/home/company"
+    "title": "Home",
+    "permalink": "/Arm/docs/arm/home/"
   },
   "next": {
     "title": "Utenti ARM",

@@ -74,7 +74,7 @@ export default {
             },
             {
               "label": "Themes",
-              "to": "docs/arm/home/Themes/Themes"
+              "to": "docs/arm/home/Themes"
             }
           ]
         },
@@ -84,15 +84,11 @@ export default {
           "items": [
             {
               "label": "Users",
-              "to": "docs/specifications/getting-started"
+              "to": "docs/arm/platform/users/"
             },
             {
-              "label": "Ribbon Menu",
-              "to": "docs/specifications/server/linux-specifications"
-            },
-            {
-              "label": "Forms",
-              "to": "docs/specifications/server/windows-specifications"
+              "label": "Ribbon",
+              "to": "docs/arm/platform/ribbon"
             },
             {
               "label": "Wizards",

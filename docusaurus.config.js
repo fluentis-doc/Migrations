@@ -43,16 +43,15 @@ const config = {
             { label: 'Database Management', to: 'docs/arm/home/Database Management/database'},
             { label: 'Custom Data Management', to: 'docs/arm/home/custom/snapshots' },
             { label: 'Context', to: 'docs/arm/home/context' },
-            { label: 'Themes', to: 'docs/arm/home/Themes/Themes' },
+            { label: 'Themes', to: 'docs/arm/home/Themes' },
           ]
         },
         {
           label: 'Platform',
           position: 'left',
           items: [
-            { label: 'Users', to: 'docs/specifications/getting-started' },
-            { label: 'Ribbon Menu', to: 'docs/specifications/server/linux-specifications' },
-            { label: 'Forms', to: 'docs/specifications/server/windows-specifications' },
+            { label: 'Users', to: 'docs/arm/platform/users/' },
+            { label: 'Ribbon', to: 'docs/arm/platform/ribbon' },
             { label: 'Wizards', to: 'docs/specifications/Fluentis%20Web/specifications' },
             { label: 'WebApi', to: 'docs/specifications/FluentisMobile/specification' },
             { label: 'Objects Repository', to: 'docs/specifications/FluentisMobile/specification' },

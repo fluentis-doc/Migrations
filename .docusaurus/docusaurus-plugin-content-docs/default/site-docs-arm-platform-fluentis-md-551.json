@@ -1,0 +1,27 @@
+{
+  "id": "arm/platform/fluentis",
+  "title": "Platform",
+  "description": "Menu Platform.",
+  "source": "@site/docs/arm/platform/fluentis.md",
+  "sourceDirName": "arm/platform",
+  "slug": "/arm/platform/fluentis",
+  "permalink": "/Arm/docs/arm/platform/fluentis",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Platform",
+    "sidebar_position": 1
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Themes",
+    "permalink": "/Arm/docs/arm/home/Themes/"
+  },
+  "next": {
+    "title": "Ribbon",
+    "permalink": "/Arm/docs/arm/platform/menu-area/ribbon-menu/"
+  }
+}

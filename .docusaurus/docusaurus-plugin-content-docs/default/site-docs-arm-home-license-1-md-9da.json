@@ -15,11 +15,7 @@
     "title": "Licenza",
     "sidebar_position": 0
   },
-  "sidebar": "arm",
-  "previous": {
-    "title": "Home",
-    "permalink": "/Arm/docs/arm/home/"
-  },
+  "sidebar": "flu",
   "next": {
     "title": "Società",
     "permalink": "/Arm/docs/arm/home/company"

@@ -15,13 +15,9 @@
     "title": "Themes",
     "sidebar_position": 1
   },
-  "sidebar": "arm",
+  "sidebar": "flu",
   "previous": {
     "title": "Context",
     "permalink": "/Arm/docs/arm/home/context"
-  },
-  "next": {
-    "title": "Fluentis",
-    "permalink": "/Arm/docs/arm/fluentis/"
   }
 }
