@@ -17,11 +17,11 @@
   },
   "sidebar": "arm",
   "previous": {
-    "title": "Platform",
-    "permalink": "/Arm/docs/arm/platform/"
+    "title": "Configurazione LDAP",
+    "permalink": "/Arm/docs/arm/platform/users/LDAP-config"
   },
   "next": {
-    "title": "Utenti",
-    "permalink": "/Arm/docs/arm/platform/users/"
+    "title": "Operazioni",
+    "permalink": "/Arm/docs/arm/platform/rights/rights-details/operations"
   }
 }

@@ -17,8 +17,8 @@
   },
   "sidebar": "arm",
   "previous": {
-    "title": "Configurazione LDAP",
-    "permalink": "/Arm/docs/arm/platform/users/LDAP-config"
+    "title": "Ribbon",
+    "permalink": "/Arm/docs/arm/platform/ribbon/"
   },
   "next": {
     "title": "Ruoli",

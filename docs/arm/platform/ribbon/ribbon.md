@@ -18,8 +18,11 @@ Nella griglia dei risultati, tramite il pulsante **New**, è possibile aggiunger
 
 ![](../../../../static/images/20241231165912.png)
 
-Premendo invece sul dropdown, si abilita la funzione di ricalcolo del **Ribbon menu** che permette di rendere effettive le modidiche circa .  
+Premendo invece sul dropdown, si abilita la funzione di ricalcolo del **Ribbon menu** che permette di rendere effettive le modidiche circa gli elementi custom aggiuntivi.  
 
+![](../../../../static/images/20241231173937.png)
+
+Tramite il pulsante evidenziato in arancione si ricalcola i **Ribbon Menu**.  
 
 
 

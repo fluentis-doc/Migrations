@@ -17,8 +17,8 @@
   },
   "sidebar": "arm",
   "previous": {
-    "title": "Ribbon menu",
-    "permalink": "/Arm/docs/arm/platform/ribbon/"
+    "title": "Platform",
+    "permalink": "/Arm/docs/arm/platform/"
   },
   "next": {
     "title": "Importazione da Active Directory",
