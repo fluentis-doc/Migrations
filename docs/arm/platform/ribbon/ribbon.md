@@ -22,7 +22,15 @@ Premendo invece sul dropdown, si abilita la funzione di ricalcolo del **Ribbon m
 
 ![](../../../../static/images/20241231173937.png)
 
-Tramite il pulsante evidenziato in arancione si ricalcola i **Ribbon Menu**.  
+Tramite il pulsante evidenziato in arancione è possibile  ricalcolare il **Ribbon Menu**. per includere elementi custom.  
+E' consigliabile eseguire questa operazione ogni qualvolta si includano uno o più elementi custom all'interno del **Ribon menu**, per esempio l'aggiunta di un nuovo pulsante.   
+
+
+
+
+
+
+
 
 
 

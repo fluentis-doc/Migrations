@@ -156,23 +156,23 @@
               "sidebar": "arm"
             },
             {
-              "id": "arm/platform/rights/rights-details/operations",
-              "path": "/Arm/docs/arm/platform/rights/rights-details/operations",
+              "id": "arm/platform/users/Diritti/Diritti Stampe",
+              "path": "/Arm/docs/arm/platform/users/Diritti/Diritti Stampe",
               "sidebar": "arm"
             },
             {
-              "id": "arm/platform/rights/roles",
-              "path": "/Arm/docs/arm/platform/rights/roles",
+              "id": "arm/platform/users/Diritti/operations",
+              "path": "/Arm/docs/arm/platform/users/Diritti/operations",
               "sidebar": "arm"
             },
             {
-              "id": "arm/platform/rights/Stampe/Diritti Stampe/Diritti Stampe",
-              "path": "/Arm/docs/arm/platform/rights/Stampe/Diritti Stampe/",
+              "id": "arm/platform/users/Diritti/rights",
+              "path": "/Arm/docs/arm/platform/users/Diritti/rights",
               "sidebar": "arm"
             },
             {
-              "id": "arm/platform/rights/Stampe/Server Stampa/Server Stampa",
-              "path": "/Arm/docs/arm/platform/rights/Stampe/Server Stampa/",
+              "id": "arm/platform/users/Diritti/roles",
+              "path": "/Arm/docs/arm/platform/users/Diritti/roles",
               "sidebar": "arm"
             },
             {

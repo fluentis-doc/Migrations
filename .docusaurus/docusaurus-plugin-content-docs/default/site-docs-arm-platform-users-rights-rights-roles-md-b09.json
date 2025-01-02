@@ -1,0 +1,27 @@
+{
+  "id": "arm/platform/users/rights/rights/roles",
+  "title": "Ruoli",
+  "description": "Generale",
+  "source": "@site/docs/arm/platform/users/rights/rights/roles.md",
+  "sourceDirName": "arm/platform/users/rights/rights",
+  "slug": "/arm/platform/users/rights/rights/roles",
+  "permalink": "/Arm/docs/arm/platform/users/rights/rights/roles",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Ruoli",
+    "sidebar_position": 2
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Operazioni",
+    "permalink": "/Arm/docs/arm/platform/users/rights/rights/operations"
+  },
+  "next": {
+    "title": "Ribbon",
+    "permalink": "/Arm/docs/arm/platform/ribbon/"
+  }
+}

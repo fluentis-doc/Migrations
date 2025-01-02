@@ -80,17 +80,17 @@
     },
     "content": "content---arm-markdown-page-393-027"
   },
-  "/Arm/docs-00b": {
+  "/Arm/docs-fda": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---arm-docsaba-ff2"
     }
   },
-  "/Arm/docs-e3f": {
+  "/Arm/docs-2ff": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---arm-docs-86-a-9ed"
   },
-  "/Arm/docs-ae4": {
+  "/Arm/docs-ffe": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/Arm/docs/arm/home/-f46": {
@@ -209,25 +209,25 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---arm-docs-arm-platform-ribbon-42-d-2f8"
   },
-  "/Arm/docs/arm/platform/rights/rights-details/operations-49d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-rights-rights-details-operationsbad-522"
-  },
-  "/Arm/docs/arm/platform/rights/roles-aa7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-rights-roles-794-427"
-  },
-  "/Arm/docs/arm/platform/rights/Stampe/Diritti Stampe/-22f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-rights-stampe-diritti-stampe-56-d-e47"
-  },
-  "/Arm/docs/arm/platform/rights/Stampe/Server Stampa/-bff": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-rights-stampe-server-stampa-5-f-4-919"
-  },
   "/Arm/docs/arm/platform/users/-7fa": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---arm-docs-arm-platform-users-636-b00"
+  },
+  "/Arm/docs/arm/platform/users/Diritti/Diritti Stampe-127": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---arm-docs-arm-platform-users-diritti-diritti-stampefb-1-ddf"
+  },
+  "/Arm/docs/arm/platform/users/Diritti/operations-fe1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---arm-docs-arm-platform-users-diritti-operationsb-19-952"
+  },
+  "/Arm/docs/arm/platform/users/Diritti/rights-bff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---arm-docs-arm-platform-users-diritti-rightsa-87-0f5"
+  },
+  "/Arm/docs/arm/platform/users/Diritti/roles-50f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---arm-docs-arm-platform-users-diritti-rolesa-62-61d"
   },
   "/Arm/docs/arm/platform/users/email-dir-scheme-d7d": {
     "__comp": "__comp---theme-doc-item-178-a40",

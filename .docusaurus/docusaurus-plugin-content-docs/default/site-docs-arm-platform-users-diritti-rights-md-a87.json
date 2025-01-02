@@ -1,0 +1,27 @@
+{
+  "id": "arm/platform/users/Diritti/rights",
+  "title": "Diritti",
+  "description": "Nell'Gestione Fluentis ERP i diritti fanno riferimento alla possibilità per l'utente di compiere una determinata azione definita in uno specifico ruolo.",
+  "source": "@site/docs/arm/platform/users/Diritti/rights.md",
+  "sourceDirName": "arm/platform/users/Diritti",
+  "slug": "/arm/platform/users/Diritti/rights",
+  "permalink": "/Arm/docs/arm/platform/users/Diritti/rights",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Diritti",
+    "sidebar_position": 1
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Utenti",
+    "permalink": "/Arm/docs/arm/platform/users/"
+  },
+  "next": {
+    "title": "Operazioni",
+    "permalink": "/Arm/docs/arm/platform/users/Diritti/operations"
+  }
+}

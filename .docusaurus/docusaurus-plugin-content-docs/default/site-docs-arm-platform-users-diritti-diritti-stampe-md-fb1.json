@@ -1,0 +1,27 @@
+{
+  "id": "arm/platform/users/Diritti/Diritti Stampe",
+  "title": "Stampa Diritti",
+  "description": "",
+  "source": "@site/docs/arm/platform/users/Diritti/Diritti Stampe.md",
+  "sourceDirName": "arm/platform/users/Diritti",
+  "slug": "/arm/platform/users/Diritti/Diritti Stampe",
+  "permalink": "/Arm/docs/arm/platform/users/Diritti/Diritti Stampe",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Stampa Diritti",
+    "sidebar_position": 3
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Ruoli",
+    "permalink": "/Arm/docs/arm/platform/users/Diritti/roles"
+  },
+  "next": {
+    "title": "Importazione da Active Directory",
+    "permalink": "/Arm/docs/arm/platform/users/import-ad"
+  }
+}

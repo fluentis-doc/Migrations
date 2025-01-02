@@ -1,0 +1,27 @@
+{
+  "id": "arm/platform/users/Diritti/roles",
+  "title": "Ruoli",
+  "description": "Generale",
+  "source": "@site/docs/arm/platform/users/Diritti/roles.md",
+  "sourceDirName": "arm/platform/users/Diritti",
+  "slug": "/arm/platform/users/Diritti/roles",
+  "permalink": "/Arm/docs/arm/platform/users/Diritti/roles",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Ruoli",
+    "sidebar_position": 2
+  },
+  "sidebar": "arm",
+  "previous": {
+    "title": "Operazioni",
+    "permalink": "/Arm/docs/arm/platform/users/Diritti/operations"
+  },
+  "next": {
+    "title": "Stampa Diritti",
+    "permalink": "/Arm/docs/arm/platform/users/Diritti/Diritti Stampe"
+  }
+}

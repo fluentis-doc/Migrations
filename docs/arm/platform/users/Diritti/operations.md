@@ -1,6 +1,6 @@
 ---
 title: Operazioni
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 La form **Operazioni** permette di inserire, modificare o eliminare un'Operazione e i suoi Valori. Si può accedere alla form, oltre che da Fluentis>Diritti>Operazioni, da Home>Utenti, tab Sicurezza e cliccando col tasto destro nella colonna Operazione.

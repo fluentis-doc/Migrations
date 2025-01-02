@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/Arm/docs',
-    component: ComponentCreator('/Arm/docs', '00b'),
+    component: ComponentCreator('/Arm/docs', 'fda'),
     routes: [
       {
         path: '/Arm/docs',
-        component: ComponentCreator('/Arm/docs', 'e3f'),
+        component: ComponentCreator('/Arm/docs', '2ff'),
         routes: [
           {
             path: '/Arm/docs',
-            component: ComponentCreator('/Arm/docs', 'ae4'),
+            component: ComponentCreator('/Arm/docs', 'ffe'),
             routes: [
               {
                 path: '/Arm/docs/arm/home/',
@@ -244,32 +244,32 @@ export default [
                 sidebar: "arm"
               },
               {
-                path: '/Arm/docs/arm/platform/rights/rights-details/operations',
-                component: ComponentCreator('/Arm/docs/arm/platform/rights/rights-details/operations', '49d'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/platform/rights/roles',
-                component: ComponentCreator('/Arm/docs/arm/platform/rights/roles', 'aa7'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/platform/rights/Stampe/Diritti Stampe/',
-                component: ComponentCreator('/Arm/docs/arm/platform/rights/Stampe/Diritti Stampe/', '22f'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
-                path: '/Arm/docs/arm/platform/rights/Stampe/Server Stampa/',
-                component: ComponentCreator('/Arm/docs/arm/platform/rights/Stampe/Server Stampa/', 'bff'),
-                exact: true,
-                sidebar: "arm"
-              },
-              {
                 path: '/Arm/docs/arm/platform/users/',
                 component: ComponentCreator('/Arm/docs/arm/platform/users/', '7fa'),
+                exact: true,
+                sidebar: "arm"
+              },
+              {
+                path: '/Arm/docs/arm/platform/users/Diritti/Diritti Stampe',
+                component: ComponentCreator('/Arm/docs/arm/platform/users/Diritti/Diritti Stampe', '127'),
+                exact: true,
+                sidebar: "arm"
+              },
+              {
+                path: '/Arm/docs/arm/platform/users/Diritti/operations',
+                component: ComponentCreator('/Arm/docs/arm/platform/users/Diritti/operations', 'fe1'),
+                exact: true,
+                sidebar: "arm"
+              },
+              {
+                path: '/Arm/docs/arm/platform/users/Diritti/rights',
+                component: ComponentCreator('/Arm/docs/arm/platform/users/Diritti/rights', 'bff'),
+                exact: true,
+                sidebar: "arm"
+              },
+              {
+                path: '/Arm/docs/arm/platform/users/Diritti/roles',
+                component: ComponentCreator('/Arm/docs/arm/platform/users/Diritti/roles', '50f'),
                 exact: true,
                 sidebar: "arm"
               },
