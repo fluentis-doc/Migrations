@@ -81,6 +81,11 @@
               "sidebar": "flu"
             },
             {
+              "id": "arm/home/Database Management/newtables",
+              "path": "/Arm/docs/arm/home/Database Management/newtables",
+              "sidebar": "flu"
+            },
+            {
               "id": "arm/home/home",
               "path": "/Arm/docs/arm/home/",
               "sidebar": "flu"

@@ -68,3 +68,4 @@ Inserire la query nel riquadro di sinistra, successivamente premere il bottone e
 Selezionare il file da convertire ed attendere qualche secondo, successivamente scegliere la posizione di destinazione del disco per lo script convertito.
 
 Per quanto concerne la procedura di migrazione si rimanda ad appositi documentazione e training dedicati.   
+

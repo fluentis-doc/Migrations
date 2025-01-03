@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/Arm/docs',
-    component: ComponentCreator('/Arm/docs', 'fda'),
+    component: ComponentCreator('/Arm/docs', 'efc'),
     routes: [
       {
         path: '/Arm/docs',
-        component: ComponentCreator('/Arm/docs', '2ff'),
+        component: ComponentCreator('/Arm/docs', '6ab'),
         routes: [
           {
             path: '/Arm/docs',
-            component: ComponentCreator('/Arm/docs', 'ffe'),
+            component: ComponentCreator('/Arm/docs', '95e'),
             routes: [
               {
                 path: '/Arm/docs/arm/home/',
@@ -156,6 +156,12 @@ export default [
               {
                 path: '/Arm/docs/arm/home/Database Management/database-schemas',
                 component: ComponentCreator('/Arm/docs/arm/home/Database Management/database-schemas', 'e1a'),
+                exact: true,
+                sidebar: "flu"
+              },
+              {
+                path: '/Arm/docs/arm/home/Database Management/newtables',
+                component: ComponentCreator('/Arm/docs/arm/home/Database Management/newtables', '514'),
                 exact: true,
                 sidebar: "flu"
               },

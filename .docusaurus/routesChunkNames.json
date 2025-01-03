@@ -80,17 +80,17 @@
     },
     "content": "content---arm-markdown-page-393-027"
   },
-  "/Arm/docs-fda": {
+  "/Arm/docs-efc": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---arm-docsaba-ff2"
     }
   },
-  "/Arm/docs-2ff": {
+  "/Arm/docs-6ab": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---arm-docs-86-a-9ed"
   },
-  "/Arm/docs-ffe": {
+  "/Arm/docs-95e": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/Arm/docs/arm/home/-f46": {
@@ -152,6 +152,10 @@
   "/Arm/docs/arm/home/Database Management/database-schemas-e1a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---arm-docs-arm-home-database-management-database-schemasae-9-cf4"
+  },
+  "/Arm/docs/arm/home/Database Management/newtables-514": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---arm-docs-arm-home-database-management-newtablesa-94-346"
   },
   "/Arm/docs/arm/home/license1-926": {
     "__comp": "__comp---theme-doc-item-178-a40",
