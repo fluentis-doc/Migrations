@@ -1,6 +1,6 @@
 ---
 title: Società
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 ![alt text](../../../static/images/20241204101732.png)

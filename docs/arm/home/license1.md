@@ -1,6 +1,6 @@
 ---
 title: Licenza
-sidebar_position: 0
+sidebar_position: 1
 ---
 
 La licenza è un codice alfanumerico univoco fornito al committente di Fluentis S.r.l. che da diritto ad esso di utilizzare il gestionale in funzione dei moduli acquistati in fase di trattativa commerciale. (Es. ERP, CRM, WMS...).

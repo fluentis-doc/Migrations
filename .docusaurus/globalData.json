@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/Arm/docs",
-          "mainDocId": "arm/home/license1",
+          "mainDocId": "arm/home/home",
           "docs": [
             {
               "id": "arm/home/Applications/accelerators",
@@ -223,8 +223,8 @@
           "sidebars": {
             "flu": {
               "link": {
-                "path": "/Arm/docs/arm/home/license1",
-                "label": "arm/home/license1"
+                "path": "/Arm/docs/arm/home/",
+                "label": "arm/home/home"
               }
             },
             "arm": {

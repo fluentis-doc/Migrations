@@ -10,12 +10,16 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 0,
+  "sidebarPosition": 1,
   "frontMatter": {
     "title": "Licenza",
-    "sidebar_position": 0
+    "sidebar_position": 1
   },
   "sidebar": "flu",
+  "previous": {
+    "title": "Home",
+    "permalink": "/Arm/docs/arm/home/"
+  },
   "next": {
     "title": "Società",
     "permalink": "/Arm/docs/arm/home/company"

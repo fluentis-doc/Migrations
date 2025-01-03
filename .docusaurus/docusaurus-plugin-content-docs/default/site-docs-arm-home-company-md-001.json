@@ -10,10 +10,10 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
     "title": "Società",
-    "sidebar_position": 1
+    "sidebar_position": 2
   },
   "sidebar": "flu",
   "previous": {
@@ -21,7 +21,7 @@
     "permalink": "/Arm/docs/arm/home/license1"
   },
   "next": {
-    "title": "Home",
-    "permalink": "/Arm/docs/arm/home/"
+    "title": "Connessioni",
+    "permalink": "/Arm/docs/arm/home/connections/"
   }
 }
