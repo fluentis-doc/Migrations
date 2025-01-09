@@ -1,6 +1,6 @@
 {
   "id": "arm/home/Database Management/newtables",
-  "title": "Database",
+  "title": "Database Table",
   "description": "Sempre nella form principale Database, premendo il tasto dx del mouse, è possibile creare delle nuove tabelle nel database di Fluentis.",
   "source": "@site/docs/arm/home/Database Management/newtables.md",
   "sourceDirName": "arm/home/Database Management",
@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
-    "title": "Database",
+    "title": "Database Table",
     "sidebar_position": 3
   },
   "sidebar": "flu",
