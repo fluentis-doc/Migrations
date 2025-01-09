@@ -10,18 +10,18 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 2,
+  "sidebarPosition": 3,
   "frontMatter": {
     "title": "Documentation Browser",
-    "sidebar_position": 2
+    "sidebar_position": 3
   },
   "sidebar": "flu",
   "previous": {
-    "title": "Snapshots",
-    "permalink": "/Arm/docs/arm/home/custom/snapshots"
-  },
-  "next": {
     "title": "Merge",
     "permalink": "/Arm/docs/arm/home/custom/merge"
+  },
+  "next": {
+    "title": "Context",
+    "permalink": "/Arm/docs/arm/home/context"
   }
 }

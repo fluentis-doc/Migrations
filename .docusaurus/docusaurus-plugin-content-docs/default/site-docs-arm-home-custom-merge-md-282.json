@@ -17,11 +17,11 @@
   },
   "sidebar": "flu",
   "previous": {
-    "title": "Documentation Browser",
-    "permalink": "/Arm/docs/arm/home/custom/browser"
+    "title": "Snapshots",
+    "permalink": "/Arm/docs/arm/home/custom/snapshots"
   },
   "next": {
-    "title": "Context",
-    "permalink": "/Arm/docs/arm/home/context"
+    "title": "Documentation Browser",
+    "permalink": "/Arm/docs/arm/home/custom/browser"
   }
 }

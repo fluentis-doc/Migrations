@@ -1,6 +1,6 @@
 ---
 title: Documentation Browser
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 ![](../../../../static/images/20241203121416.png)
