@@ -6,9 +6,9 @@ sidebar_position: 2
 ![alt text](../../../static/images/20241204101732.png)
 
 
-Il medesimo sistema gestionale Fluentis permette di lavorare con più **Società**, ognuna della quale avrà un n **Divisioni**.
+Il medesimo sistema gestionale Fluentis permette di lavorare con più **Società**, ognuna della quale avrà n. **Divisioni**.
 La tabella a database dove vengono salvate le società è denominata Fluentis.SH_Companies ed è presente sul DB Fluentis caricato sull'istanza MSSQL dedicata alla suite.  
-Di default Società e Divisione sono vengono impostate con quanto specificato in sede d'installazione di Fluentis Live Update.
+Di default Società e Divisione sono impostate con quanto specificato in sede d'installazione di Fluentis Live Update.
 
 ![](../../../static/images/20241216163803.png)
 

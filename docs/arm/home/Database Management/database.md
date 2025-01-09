@@ -48,10 +48,10 @@ Dovranno essere inseriti i seguenti dati e un messaggio di conferma comunicherà
 * **Migrazione database a Fluentis2023:** consente l'effettiva migrazione di database da versione 2021 a 2023.
 Dovranno essere inseriti i seguenti dati e un messaggio di conferma comunicherà che il database ha superato il test, quindi potrà essere migrato a F2023.
 
-* Server: Istanza del Server MSSQL dove è presente il DB da migrare (DB di origine).
-* Database: Nome del database presente nell'istanza MSSQL di cui al punto che precede.  
-* Operatore: Si tratta dell'utente che accede all'instanza MSSQL (utente sa - SuperAdmin).
-* Password : Si tratta della password dell'utente sa - SuperAdmin.
+* **Server**: Istanza del Server MSSQL dove è presente il DB da migrare (DB di origine).
+* **Database**: Nome del database presente nell'istanza MSSQL di cui al punto che precede.  
+* **Operatore**: Si tratta dell'utente che accede all'instanza MSSQL (utente sa - SuperAdmin).
+* **Password** : Si tratta della password dell'utente sa - SuperAdmin.
 
 Nel tab (Destination Database) i dati da inserire sono speculari al tab di cui al punto che precede, con 
 

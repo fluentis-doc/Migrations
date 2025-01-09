@@ -22,8 +22,8 @@ La form **Licenza** è costituita da un corpo centrale che mostra il numero seri
     - un cambio del codice licenza;
     - un cambio del numero di utenti collegato alla licenza;
     - chiusura di un ticket lato Fluentis in seguito a una aggiunta di una nuova Società.
-* **Riattivare la licenza:**
-* **Richiesta licenza demo:** procedura per richiedere una licenza demo a scopi commerciali. Questa richiesta può essere fatta aprendo un ticket direttamente a Fluentis.
+* **Riattivare la licenza:** Attualmente la voce non è attiva.  
+* **Richiesta licenza demo:** Attualmente la voce non è attiva.  
 * **Visualizza licenza:** permette di visualizzare tutti i dettagli relativi alla licenza rilasciata al cliente. Questi dettagli fanno riferimento a:
     -   Dati societari.
     -   Moduli che compongono il sistema gestionale (CRM, ERP, WMS, MES,...).

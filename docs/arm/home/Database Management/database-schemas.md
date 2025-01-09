@@ -12,14 +12,14 @@ Lo schema di database definisce in che modo i dati vengono organizzati all'inter
 
 La form **Database Schemas** è costituita da una griglia dei risultati e un ribbon menu con le azioni contestuali consentite all'utente di Fluentis.
 
-**Filtro**
-* **Name:** Indica il nome dello schema del database.
-* **Nature:** Indica se lo schema è custom o presente a standard.
+### Filtro
+* **Name**: Indica il nome dello schema del database.
+* **Nature: Indica se lo schema è custom o presente a standard.
 
-**Griglia dei risultati**
+### Griglia dei risultati
 * **Name:** codice che rappresenta lo schema del database.  
 
-**Azioni**
+### Azioni
 * **Ricerca:** per ricercare secondo i filtri impostati la lista degli schemi disponibili.
 * **Nuovo:** per creare un nuovo schema.
 * **Cancella:** per cancellare lo schema selezionato.
