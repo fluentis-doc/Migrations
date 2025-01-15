@@ -1,275 +1,123 @@
 {
-  "/Arm/__docusaurus/debug-3c7": {
+  "/Migrations/__docusaurus/debug-de2": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---arm-docusaurus-debugb-38-423"
+      "plugin": "plugin---migrations-docusaurus-debugb-38-510"
     }
   },
-  "/Arm/__docusaurus/debug/config-fae": {
+  "/Migrations/__docusaurus/debug/config-ab3": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---arm-docusaurus-debugb-38-423"
+      "plugin": "plugin---migrations-docusaurus-debugb-38-510"
     }
   },
-  "/Arm/__docusaurus/debug/content-cef": {
+  "/Migrations/__docusaurus/debug/content-359": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---arm-docusaurus-debugb-38-423"
+      "plugin": "plugin---migrations-docusaurus-debugb-38-510"
     },
-    "__props": "__props---arm-docusaurus-debug-contentc-93-b6b"
+    "__props": "__props---migrations-docusaurus-debug-contentb-47-5a1"
   },
-  "/Arm/__docusaurus/debug/globalData-0d8": {
+  "/Migrations/__docusaurus/debug/globalData-709": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---arm-docusaurus-debugb-38-423"
+      "plugin": "plugin---migrations-docusaurus-debugb-38-510"
     }
   },
-  "/Arm/__docusaurus/debug/metadata-d7d": {
+  "/Migrations/__docusaurus/debug/metadata-9ef": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---arm-docusaurus-debugb-38-423"
+      "plugin": "plugin---migrations-docusaurus-debugb-38-510"
     }
   },
-  "/Arm/__docusaurus/debug/registry-61b": {
+  "/Migrations/__docusaurus/debug/registry-eeb": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---arm-docusaurus-debugb-38-423"
+      "plugin": "plugin---migrations-docusaurus-debugb-38-510"
     }
   },
-  "/Arm/__docusaurus/debug/routes-1f7": {
+  "/Migrations/__docusaurus/debug/routes-dc7": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---arm-docusaurus-debugb-38-423"
+      "plugin": "plugin---migrations-docusaurus-debugb-38-510"
     }
   },
-  "/Arm/blog-5fd": {
+  "/Migrations/blog-72d": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---arm-blog-369-b56"
+      "plugin": "plugin---migrations-blog-369-150"
     },
-    "sidebar": "sidebar---arm-blog-814-b0e",
+    "sidebar": "sidebar---migrations-blog-814-7da",
     "items": [
       {
-        "content": "content---arm-blog-8-e-9-3a6"
+        "content": "content---migrations-blog-8-e-9-8d0"
       }
     ],
-    "__props": "__props---arm-blog-9-a-9-de4"
+    "__props": "__props---migrations-bloga-31-3b1"
   },
-  "/Arm/blog/2019/05/28/hola-ba1": {
+  "/Migrations/blog/2019/05/28/hola-ce4": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---arm-blog-2019-05-28-holaace-867"
+        "blogMetadata": "blogMetadata---migrations-blog-2019-05-28-holaace-8c7"
       },
-      "plugin": "plugin---arm-blog-369-b56"
+      "plugin": "plugin---migrations-blog-369-150"
     },
-    "sidebar": "sidebar---arm-blog-814-b0e",
-    "content": "content---arm-blog-2019-05-28-holabdd-721"
+    "sidebar": "sidebar---migrations-blog-814-7da",
+    "content": "content---migrations-blog-2019-05-28-holabdd-74b"
   },
-  "/Arm/blog/archive-df6": {
+  "/Migrations/blog/archive-164": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---arm-blog-369-b56"
+      "plugin": "plugin---migrations-blog-369-150"
     },
-    "__props": "__props---arm-blog-archive-621-ce2"
+    "__props": "__props---migrations-blog-archive-6-d-0-e9e"
   },
-  "/Arm/markdown-page-04b": {
+  "/Migrations/markdown-page-937": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---arm-markdown-pagea-74-aea"
+      "plugin": "plugin---migrations-markdown-pagea-74-13e"
     },
-    "content": "content---arm-markdown-page-393-027"
+    "content": "content---migrations-markdown-page-393-0f9"
   },
-  "/Arm/docs-efc": {
+  "/Migrations/docs-f87": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---arm-docsaba-ff2"
+      "plugin": "plugin---migrations-docsaba-67f"
     }
   },
-  "/Arm/docs-6ab": {
+  "/Migrations/docs-77f": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---arm-docs-86-a-9ed"
+    "__props": "__props---migrations-docs-5-ab-3f6"
   },
-  "/Arm/docs-95e": {
+  "/Migrations/docs-f01": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/Arm/docs/arm/home/-f46": {
+  "/Migrations/docs/2021/home/CustomEnvironmentMigrationFrom2021To2023-72f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-fec-c20"
+    "content": "content---migrations-docs-2021-home-custom-environment-migration-from-2021-to-2023-b-0-a-3cb"
   },
-  "/Arm/docs/arm/home/Applications/accelerators-30a": {
+  "/Migrations/docs/2021/home/Personalizzazioni-f95": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-applications-accelerators-9-f-9-2ae"
+    "content": "content---migrations-docs-2021-home-personalizzazioni-35-b-884"
   },
-  "/Arm/docs/arm/home/Applications/dictionary/-77c": {
+  "/Migrations/docs/2021/home/Standard2021-161": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-applications-dictionary-c-27-9d3"
+    "content": "content---migrations-docs-2021-home-standard-2021-b-07-af4"
   },
-  "/Arm/docs/arm/home/Applications/images-5b3": {
+  "/Migrations/docs/intro-4fa": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-applications-imagesd-8-e-1e5"
+    "content": "content---migrations-docs-intro-0-e-3-86e"
   },
-  "/Arm/docs/arm/home/company-300": {
+  "/Migrations/docs/release-notes/intro-c78": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-company-001-515"
+    "content": "content---migrations-docs-release-notes-intro-29-c-7c4"
   },
-  "/Arm/docs/arm/home/connections/-730": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-connections-ceb-250"
-  },
-  "/Arm/docs/arm/home/connections/connections-details/arm-users-90b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-connections-connections-details-arm-users-8-da-e9c"
-  },
-  "/Arm/docs/arm/home/connections/connections-details/bizlink-users-fc7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-connections-connections-details-bizlink-users-0-a-7-078"
-  },
-  "/Arm/docs/arm/home/connections/connections-details/supervisor-users-2f9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-connections-connections-details-supervisor-users-8-c-4-ddf"
-  },
-  "/Arm/docs/arm/home/context-053": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-contextc-8-e-135"
-  },
-  "/Arm/docs/arm/home/custom/browser-29a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-custom-browseredd-a4d"
-  },
-  "/Arm/docs/arm/home/custom/merge-9a5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-custom-merge-282-4a7"
-  },
-  "/Arm/docs/arm/home/custom/snapshots-5ea": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-custom-snapshotsff-8-86e"
-  },
-  "/Arm/docs/arm/home/Database Management/database-fc8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-database-management-database-1-ed-d19"
-  },
-  "/Arm/docs/arm/home/Database Management/database-schemas-e1a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-database-management-database-schemasae-9-cf4"
-  },
-  "/Arm/docs/arm/home/Database Management/newtables-514": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-database-management-newtablesa-94-346"
-  },
-  "/Arm/docs/arm/home/license1-926": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-license-19-da-858"
-  },
-  "/Arm/docs/arm/home/Themes/-4c6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-home-themes-132-bd6"
-  },
-  "/Arm/docs/arm/platform/-053": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-c-5-a-d86"
-  },
-  "/Arm/docs/arm/platform/forms/forms/-e05": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-forms-forms-aec-253"
-  },
-  "/Arm/docs/arm/platform/forms/forms/entrypoint-commands-6db": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-forms-forms-entrypoint-commandsfb-3-072"
-  },
-  "/Arm/docs/arm/platform/objects-repository/objects-navigator/-80f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-objects-repository-objects-navigator-a-23-2f2"
-  },
-  "/Arm/docs/arm/platform/objects-repository/objects-navigator/business-object/-896": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-objects-repository-objects-navigator-business-object-24-a-631"
-  },
-  "/Arm/docs/arm/platform/objects-repository/objects-navigator/business-object/business-property-a1c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-objects-repository-objects-navigator-business-object-business-property-842-bfc"
-  },
-  "/Arm/docs/arm/platform/objects-repository/objects-navigator/business-object/load-request-ed1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-objects-repository-objects-navigator-business-object-load-requestbb-3-4aa"
-  },
-  "/Arm/docs/arm/platform/objects-repository/objects-navigator/business-object/subclasses-11b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-objects-repository-objects-navigator-business-object-subclasses-295-6d5"
-  },
-  "/Arm/docs/arm/platform/objects-repository/objects-navigator/business-object/workflow-53e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-objects-repository-objects-navigator-business-object-workflow-97-b-0d6"
-  },
-  "/Arm/docs/arm/platform/objects-repository/restrictions-2ac": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-objects-repository-restrictions-262-55b"
-  },
-  "/Arm/docs/arm/platform/objects-repository/working-units-f6e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-objects-repository-working-units-50-d-6fa"
-  },
-  "/Arm/docs/arm/platform/ribbon/-1ac": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-ribbon-42-d-2f8"
-  },
-  "/Arm/docs/arm/platform/users/-7fa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-users-636-b00"
-  },
-  "/Arm/docs/arm/platform/users/Diritti/Diritti Stampe-127": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-users-diritti-diritti-stampefb-1-ddf"
-  },
-  "/Arm/docs/arm/platform/users/Diritti/operations-fe1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-users-diritti-operationsb-19-952"
-  },
-  "/Arm/docs/arm/platform/users/Diritti/rights-bff": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-users-diritti-rightsa-87-0f5"
-  },
-  "/Arm/docs/arm/platform/users/Diritti/roles-50f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-users-diritti-rolesa-62-61d"
-  },
-  "/Arm/docs/arm/platform/users/email-dir-scheme-d7d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-users-email-dir-scheme-679-740"
-  },
-  "/Arm/docs/arm/platform/users/email-dir-type-bc2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-users-email-dir-typec-63-c79"
-  },
-  "/Arm/docs/arm/platform/users/import-ad-716": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-users-import-ad-969-228"
-  },
-  "/Arm/docs/arm/platform/users/LDAP-config-eeb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-users-ldap-config-82-a-080"
-  },
-  "/Arm/docs/arm/platform/users/restriction-type-6f3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-users-restriction-typedf-2-e86"
-  },
-  "/Arm/docs/arm/platform/users/user-print-1e0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-arm-platform-users-user-print-947-bb8"
-  },
-  "/Arm/docs/intro-17f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-intro-0-e-3-f2a"
-  },
-  "/Arm/docs/release-notes/intro-323": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---arm-docs-release-notes-intro-29-c-4cd"
-  },
-  "/Arm/-3fc": {
+  "/Migrations/-2a0": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---arm-markdown-pagea-74-aea"
+      "plugin": "plugin---migrations-markdown-pagea-74-13e"
     },
-    "config": "config---arm-5-e-9-377"
+    "config": "config---migrations-5-e-9-1ac"
   }
 }

@@ -12,7 +12,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title"> Application Resource Manager </h1>
+        <h1 className="hero__title"> Fluentis Migrations Environment </h1>
 
         <a className="button button--primary bottoneCustom bi bi-arrow-up-right-circle-fill" href="docs/intro"> Overview
         </a>

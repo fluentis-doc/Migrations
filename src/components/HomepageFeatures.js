@@ -4,30 +4,22 @@ import '/src/css/custom.css';
 
 const NavbarLinks = [
   {
-    title: 'Home',
+    title: 'Migration from 2021 to 2023',
     items: [
-      { label: 'License', to: 'docs/arm/home/license1' },
-      { label: 'Company', to: 'docs/arm/home/company' },
-      { label: 'Connections', to: 'docs/arm/home/connections' },
-      { label: 'Applications', to: 'docs/arm/home/Applications/dictionary' },
-      { label: 'Database Management', to: 'docs/arm/home/Database Management/database' },
-      { label: 'Custom Data Management', to: 'docs/arm/home/custom/snapshots' },
-      { label: 'Context', to: 'docs/arm/home/context' },
-      { label: 'Themes', to: 'docs/arm/home/Themes' },
+      { label: 'Standard Environment Migration from 2021 to 2023', to: 'docs/2021/home/Standard2021' },
+      { label: 'Custom Environment Migration from 2021 to 2023', to: 'docs/arm/home/company' },
+      { label: 'Test Migrated Custom from 2021 to 2023​', to: 'docs/arm/home/connections' },
+      { label: 'Personalizzazioni​', to: 'docs/arm/home/connections' },
+
     ],
   },
   {
-    title: 'Platform',
+    title: 'Migration from 2015 to 2023',
     items: [
-      { label: 'Users', to: 'docs/arm/platform/users/' },
-      { label: 'Ribbon Menu', to: 'docs/arm/platform/ribbon' },
-      { label: 'Forms', to: 'docs/specifications/server/windows-specifications' },
-      { label: 'Wizards', to: 'docs/specifications/Fluentis%20Web/specifications' },
-      { label: 'WebApi', to: 'docs/specifications/FluentisMobile/specification' },
-      { label: 'Objects Repository', to: 'docs/specifications/FluentisMobile/specification' },
-      { label: 'Business Processes', to: 'docs/specifications/FluentisMobile/specification' },
-      { label: 'Audit Trail', to: 'docs/specifications/FluentisMobile/specification' },
-      { label: 'Chat Bot Options', to: 'docs/specifications/FluentisMobile/specification' },
+      { label: 'Standard Environment Migration from 2015 to 2023', to: 'docs/arm/platform/users/' },
+      { label: 'Custom Environment Migration from 2015 to 2023', to: 'docs/arm/platform/ribbon' },
+      { label: 'Report', to: 'docs/specifications/server/windows-specifications' },
+ 
     ],
   },
 ]

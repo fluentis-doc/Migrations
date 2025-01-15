@@ -2,5 +2,10 @@
     "pasteImage.path": "",
     "pasteImage.basePath": "${projectRoot}/static/img",
     "pasteImage.filePathConfirmInputBoxMode": "onlyName",
-    "pasteImage.insertPattern": "![${imageName}](./static/img/${imageFileName})"
+    "pasteImage.insertPattern": "![${imageName}](./static/img/${imageFileName})",
+    "cSpell.words": [
+        "cmfcmf",
+        "Fluentis",
+        "WINDOWSFAQ"
+    ]
 }

@@ -4,15 +4,15 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Fluentis ARM Documentation",
-  "tagline": "La guida progettata per supportarti nell’uso dell’Application Resource Manager",
+  "title": "Fluentis Migrations",
+  "tagline": "Migrations",
   "url": "https://docs.fluentis.com",
-  "baseUrl": "/Arm/",
+  "baseUrl": "/Migrations/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/fluentis-32x32px.png",
   "organizationName": "Fluentis srl",
-  "projectName": "ARM",
+  "projectName": "Migrations",
   "i18n": {
     "defaultLocale": "it-IT",
     "locales": [
@@ -33,7 +33,7 @@ export default {
   },
   "themeConfig": {
     "navbar": {
-      "title": "Arm",
+      "title": "Migrations",
       "logo": {
         "alt": "Logo",
         "src": "img/fluentis.svg",
@@ -41,78 +41,42 @@ export default {
       },
       "items": [
         {
-          "label": "Home",
+          "label": "Migration from 2021 to 2023",
           "position": "left",
           "items": [
             {
-              "label": "License",
-              "to": "docs/arm/home/license1"
+              "label": "Standard Environment Migration from 2021 to 2023",
+              "to": "docs/2021/home/Standard2021"
             },
             {
-              "label": "Company",
+              "label": "Custom Environment Migration from 2021 to 2023​",
               "to": "docs/arm/home/company"
             },
             {
-              "label": "Connections",
+              "label": "Test Migrated Custom from 2021 to 2023​",
               "to": "docs/arm/home/connections"
             },
             {
-              "label": "Applications",
+              "label": "Personalizzazioni",
               "to": "docs/arm/home/Applications/dictionary"
-            },
-            {
-              "label": "Database Management",
-              "to": "docs/arm/home/Database Management/database"
-            },
-            {
-              "label": "Custom Data Management",
-              "to": "docs/arm/home/custom/snapshots"
-            },
-            {
-              "label": "Context",
-              "to": "docs/arm/home/context"
-            },
-            {
-              "label": "Themes",
-              "to": "docs/arm/home/Themes"
             }
           ]
         },
         {
-          "label": "Platform",
+          "label": "Migration from 2015 to 2023",
           "position": "left",
           "items": [
             {
-              "label": "Users",
+              "label": "Standard Environment Migration from 2015 to 2023​",
               "to": "docs/arm/platform/users/"
             },
             {
-              "label": "Ribbon",
+              "label": "Custom Environment Migration from 2015 to 2023​",
               "to": "docs/arm/platform/ribbon"
             },
             {
-              "label": "Wizards",
+              "label": "Report",
               "to": "docs/specifications/Fluentis%20Web/specifications"
-            },
-            {
-              "label": "WebApi",
-              "to": "docs/specifications/FluentisMobile/specification"
-            },
-            {
-              "label": "Objects Repository",
-              "to": "docs/specifications/FluentisMobile/specification"
-            },
-            {
-              "label": "Business Processes",
-              "to": "docs/specifications/FluentisMobile/specification"
-            },
-            {
-              "label": "Auti Trail",
-              "to": "docs/specifications/FluentisMobile/specification"
-            },
-            {
-              "label": "Chat Bot Options",
-              "to": "docs/specifications/FluentisMobile/specification"
             }
           ]
         },
@@ -125,16 +89,7 @@ export default {
           "to": "#",
           "label": "Release Notes",
           "position": "right",
-          "items": [
-            {
-              "label": "1.2.71",
-              "href": "#"
-            },
-            {
-              "label": "1.2.70",
-              "href": "#"
-            }
-          ]
+          "items": []
         }
       ],
       "hideOnScroll": false
@@ -165,6 +120,10 @@ export default {
             {
               "label": "Integration",
               "href": "https://docs.fluentis.com/Integration/"
+            },
+            {
+              "label": "Migrations",
+              "href": "#"
             }
           ]
         },
@@ -375,18 +334,18 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\dario.belluz\\Desktop\\Arm\\sidebars.js",
+          "sidebarPath": "C:\\Users\\dario.belluz\\Desktop\\Migrations\\sidebars.js",
           "showLastUpdateTime": false
         },
         "theme": {
-          "customCss": "C:\\Users\\dario.belluz\\Desktop\\Arm\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\dario.belluz\\Desktop\\Migrations\\src\\css\\custom.css"
         }
       }
     ]
   ],
   "plugins": [
     [
-      "C:\\Users\\dario.belluz\\Desktop\\Arm\\node_modules\\@cmfcmf\\docusaurus-search-local\\lib\\server\\index.js",
+      "C:\\Users\\dario.belluz\\Desktop\\Migrations\\node_modules\\@cmfcmf\\docusaurus-search-local\\lib\\server\\index.js",
       {
         "indexDocs": true,
         "indexDocSidebarParentCategories": 0,

@@ -1,16 +1,16 @@
 {
   "id": "intro",
-  "title": "Application Resource Manager - Overview",
-  "description": "L'Application Resource Manager, di seguito anche 'Arm', è un'applicativo che fa parte della Suite Fluentis, e si tratta del principale strumento amministrativo di Fluentis ERP.",
+  "title": "Fluentis Migrations Overview",
+  "description": "Overview",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/Arm/docs/intro",
+  "permalink": "/Migrations/docs/intro",
   "draft": false,
   "unlisted": false,
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Application Resource Manager - Overview"
+    "title": "Fluentis Migrations Overview"
   }
 }

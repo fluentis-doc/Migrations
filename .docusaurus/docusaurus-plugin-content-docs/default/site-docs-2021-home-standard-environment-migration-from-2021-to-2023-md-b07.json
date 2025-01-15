@@ -1,0 +1,18 @@
+{
+  "id": "2021/home/Standard2021",
+  "title": "Standard Environment Migration From 2021 to 2023",
+  "description": "How It Works",
+  "source": "@site/docs/2021/home/StandardEnvironmentMigrationFrom2021to2023.md",
+  "sourceDirName": "2021/home",
+  "slug": "/2021/home/Standard2021",
+  "permalink": "/Migrations/docs/2021/home/Standard2021",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "Standard2021",
+    "sidebar_position": 0
+  }
+}
