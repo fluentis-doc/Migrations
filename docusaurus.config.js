@@ -2,15 +2,15 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Fluentis Migrations',
-  tagline: 'Migrations',
+  title: 'Fluentis Migration',
+  tagline: 'Migration',
   url: 'https://docs.fluentis.com',
-  baseUrl: '/Migrations/',
+  baseUrl: '/Migration/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/fluentis-32x32px.png',
+  favicon: '/img/fluentis-32x32px.png',
   organizationName: 'Fluentis srl', 
-  projectName: 'Migrations', 
+  projectName: 'Migration', 
   i18n: {
     defaultLocale: 'it-IT',
     locales: ['en-US', 'it-IT'],
@@ -25,10 +25,10 @@ const config = {
   },
   themeConfig: {
     navbar: {
-      title: 'Migrations',
+      title: 'Migration',
       logo: {
         alt: 'Logo',
-        src: 'img/fluentis.svg',
+        src: '/img/fluentis.svg',
         className: 'logo'
       },
       items: [
@@ -37,7 +37,7 @@ const config = {
           position: 'left',
           items: [
             { label: 'Standard Environment Migration from 2021 to 2023', to: 'docs/2021/home/Standard2021' },
-            { label: 'Custom Environment Migration from 2021 to 2023​', to: 'docs/arm/home/company' },
+            { label: 'Custom Environment Migration from 2021 to 2023​', to: 'docs/2021/home/Custom2021' },
             { label: 'Test Migrated Custom from 2021 to 2023​', to: 'docs/arm/home/connections'},
             { label: 'Personalizzazioni', to: 'docs/arm/home/Applications/dictionary' },
 

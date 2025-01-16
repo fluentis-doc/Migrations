@@ -14,7 +14,6 @@ Come già accennato in precedenza nell'**[Overview](/docs/intro)**, della presen
 Accediamo ad **Arm 2023**, e dal menu **Home** selezioniamo la voce **Database** così come mostrato in figura.  
 
 
-
 Una volta entrati dentro, la **Form** si presenta così come segue:   
 ## Ribbon Menu
 ![](../../../static/images/20250115155614.png)  

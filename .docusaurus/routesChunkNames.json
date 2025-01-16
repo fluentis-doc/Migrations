@@ -1,123 +1,123 @@
 {
-  "/Migrations/__docusaurus/debug-de2": {
+  "/Migration/__docusaurus/debug-da2": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---migrations-docusaurus-debugb-38-510"
+      "plugin": "plugin---migration-docusaurus-debugb-38-f57"
     }
   },
-  "/Migrations/__docusaurus/debug/config-ab3": {
+  "/Migration/__docusaurus/debug/config-27f": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---migrations-docusaurus-debugb-38-510"
+      "plugin": "plugin---migration-docusaurus-debugb-38-f57"
     }
   },
-  "/Migrations/__docusaurus/debug/content-359": {
+  "/Migration/__docusaurus/debug/content-cfa": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---migrations-docusaurus-debugb-38-510"
+      "plugin": "plugin---migration-docusaurus-debugb-38-f57"
     },
-    "__props": "__props---migrations-docusaurus-debug-contentb-47-5a1"
+    "__props": "__props---migration-docusaurus-debug-content-731-ecd"
   },
-  "/Migrations/__docusaurus/debug/globalData-709": {
+  "/Migration/__docusaurus/debug/globalData-8ab": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---migrations-docusaurus-debugb-38-510"
+      "plugin": "plugin---migration-docusaurus-debugb-38-f57"
     }
   },
-  "/Migrations/__docusaurus/debug/metadata-9ef": {
+  "/Migration/__docusaurus/debug/metadata-c53": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---migrations-docusaurus-debugb-38-510"
+      "plugin": "plugin---migration-docusaurus-debugb-38-f57"
     }
   },
-  "/Migrations/__docusaurus/debug/registry-eeb": {
+  "/Migration/__docusaurus/debug/registry-b9f": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---migrations-docusaurus-debugb-38-510"
+      "plugin": "plugin---migration-docusaurus-debugb-38-f57"
     }
   },
-  "/Migrations/__docusaurus/debug/routes-dc7": {
+  "/Migration/__docusaurus/debug/routes-960": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---migrations-docusaurus-debugb-38-510"
+      "plugin": "plugin---migration-docusaurus-debugb-38-f57"
     }
   },
-  "/Migrations/blog-72d": {
+  "/Migration/blog-aea": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---migrations-blog-369-150"
+      "plugin": "plugin---migration-blog-369-277"
     },
-    "sidebar": "sidebar---migrations-blog-814-7da",
+    "sidebar": "sidebar---migration-blog-814-a51",
     "items": [
       {
-        "content": "content---migrations-blog-8-e-9-8d0"
+        "content": "content---migration-blog-8-e-9-a3a"
       }
     ],
-    "__props": "__props---migrations-bloga-31-3b1"
+    "__props": "__props---migration-blog-80-f-6e4"
   },
-  "/Migrations/blog/2019/05/28/hola-ce4": {
+  "/Migration/blog/2019/05/28/hola-8c7": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---migrations-blog-2019-05-28-holaace-8c7"
+        "blogMetadata": "blogMetadata---migration-blog-2019-05-28-holaace-475"
       },
-      "plugin": "plugin---migrations-blog-369-150"
+      "plugin": "plugin---migration-blog-369-277"
     },
-    "sidebar": "sidebar---migrations-blog-814-7da",
-    "content": "content---migrations-blog-2019-05-28-holabdd-74b"
+    "sidebar": "sidebar---migration-blog-814-a51",
+    "content": "content---migration-blog-2019-05-28-holabdd-d28"
   },
-  "/Migrations/blog/archive-164": {
+  "/Migration/blog/archive-7f3": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---migrations-blog-369-150"
+      "plugin": "plugin---migration-blog-369-277"
     },
-    "__props": "__props---migrations-blog-archive-6-d-0-e9e"
+    "__props": "__props---migration-blog-archiveaa-5-d01"
   },
-  "/Migrations/markdown-page-937": {
+  "/Migration/markdown-page-cfa": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---migrations-markdown-pagea-74-13e"
+      "plugin": "plugin---migration-markdown-pagea-74-b92"
     },
-    "content": "content---migrations-markdown-page-393-0f9"
+    "content": "content---migration-markdown-page-393-515"
   },
-  "/Migrations/docs-f87": {
+  "/Migration/docs-7f9": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---migrations-docsaba-67f"
+      "plugin": "plugin---migration-docsaba-17d"
     }
   },
-  "/Migrations/docs-77f": {
+  "/Migration/docs-032": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---migrations-docs-5-ab-3f6"
+    "__props": "__props---migration-docsfe-1-85a"
   },
-  "/Migrations/docs-f01": {
+  "/Migration/docs-473": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/Migrations/docs/2021/home/CustomEnvironmentMigrationFrom2021To2023-72f": {
+  "/Migration/docs/2021/home/Custom2021-2be": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---migrations-docs-2021-home-custom-environment-migration-from-2021-to-2023-b-0-a-3cb"
+    "content": "content---migration-docs-2021-home-custom-2021-b-0-a-fc6"
   },
-  "/Migrations/docs/2021/home/Personalizzazioni-f95": {
+  "/Migration/docs/2021/home/Personalizzazioni-c3e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---migrations-docs-2021-home-personalizzazioni-35-b-884"
+    "content": "content---migration-docs-2021-home-personalizzazioni-35-b-559"
   },
-  "/Migrations/docs/2021/home/Standard2021-161": {
+  "/Migration/docs/2021/home/Standard2021-ae1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---migrations-docs-2021-home-standard-2021-b-07-af4"
+    "content": "content---migration-docs-2021-home-standard-2021-b-07-635"
   },
-  "/Migrations/docs/intro-4fa": {
+  "/Migration/docs/intro-608": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---migrations-docs-intro-0-e-3-86e"
+    "content": "content---migration-docs-intro-0-e-3-cff"
   },
-  "/Migrations/docs/release-notes/intro-c78": {
+  "/Migration/docs/release-notes/intro-a85": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---migrations-docs-release-notes-intro-29-c-7c4"
+    "content": "content---migration-docs-release-notes-intro-29-c-f84"
   },
-  "/Migrations/-2a0": {
+  "/Migration/-8eb": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---migrations-markdown-pagea-74-13e"
+      "plugin": "plugin---migration-markdown-pagea-74-b92"
     },
-    "config": "config---migrations-5-e-9-1ac"
+    "config": "config---migration-5-e-9-071"
   }
 }

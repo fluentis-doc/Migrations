@@ -1,5 +1,5 @@
 {
-  "blogBasePath": "/Migrations/blog",
+  "blogBasePath": "/Migration/blog",
   "blogTitle": "Blog",
-  "authorsListPath": "/Migrations/blog/authors"
+  "authorsListPath": "/Migration/blog/authors"
 }

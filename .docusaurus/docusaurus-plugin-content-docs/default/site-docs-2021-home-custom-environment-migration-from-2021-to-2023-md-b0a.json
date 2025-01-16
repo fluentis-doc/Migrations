@@ -1,14 +1,18 @@
 {
-  "id": "2021/home/CustomEnvironmentMigrationFrom2021To2023",
-  "title": "CustomEnvironmentMigrationFrom2021To2023",
-  "description": "",
+  "id": "2021/home/Custom2021",
+  "title": "Custom Environment Migration From 2021 to 2023",
+  "description": "How does it Work?",
   "source": "@site/docs/2021/home/CustomEnvironmentMigrationFrom2021To2023.md",
   "sourceDirName": "2021/home",
-  "slug": "/2021/home/CustomEnvironmentMigrationFrom2021To2023",
-  "permalink": "/Migrations/docs/2021/home/CustomEnvironmentMigrationFrom2021To2023",
+  "slug": "/2021/home/Custom2021",
+  "permalink": "/Migration/docs/2021/home/Custom2021",
   "draft": false,
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Custom2021",
+    "sidebar_position": 1
+  }
 }

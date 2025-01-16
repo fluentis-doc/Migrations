@@ -1,34 +1,34 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/Migrations/docs",
+      "path": "/Migration/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/Migrations/docs",
-          "mainDocId": "2021/home/CustomEnvironmentMigrationFrom2021To2023",
+          "path": "/Migration/docs",
+          "mainDocId": "2021/home/Custom2021",
           "docs": [
             {
-              "id": "2021/home/CustomEnvironmentMigrationFrom2021To2023",
-              "path": "/Migrations/docs/2021/home/CustomEnvironmentMigrationFrom2021To2023"
+              "id": "2021/home/Custom2021",
+              "path": "/Migration/docs/2021/home/Custom2021"
             },
             {
               "id": "2021/home/Personalizzazioni",
-              "path": "/Migrations/docs/2021/home/Personalizzazioni"
+              "path": "/Migration/docs/2021/home/Personalizzazioni"
             },
             {
               "id": "2021/home/Standard2021",
-              "path": "/Migrations/docs/2021/home/Standard2021"
+              "path": "/Migration/docs/2021/home/Standard2021"
             },
             {
               "id": "intro",
-              "path": "/Migrations/docs/intro"
+              "path": "/Migration/docs/intro"
             },
             {
               "id": "release-notes/intro",
-              "path": "/Migrations/docs/release-notes/intro"
+              "path": "/Migration/docs/release-notes/intro"
             }
           ],
           "draftIds": [],

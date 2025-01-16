@@ -3,95 +3,95 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/Migrations/__docusaurus/debug',
-    component: ComponentCreator('/Migrations/__docusaurus/debug', 'de2'),
+    path: '/Migration/__docusaurus/debug',
+    component: ComponentCreator('/Migration/__docusaurus/debug', 'da2'),
     exact: true
   },
   {
-    path: '/Migrations/__docusaurus/debug/config',
-    component: ComponentCreator('/Migrations/__docusaurus/debug/config', 'ab3'),
+    path: '/Migration/__docusaurus/debug/config',
+    component: ComponentCreator('/Migration/__docusaurus/debug/config', '27f'),
     exact: true
   },
   {
-    path: '/Migrations/__docusaurus/debug/content',
-    component: ComponentCreator('/Migrations/__docusaurus/debug/content', '359'),
+    path: '/Migration/__docusaurus/debug/content',
+    component: ComponentCreator('/Migration/__docusaurus/debug/content', 'cfa'),
     exact: true
   },
   {
-    path: '/Migrations/__docusaurus/debug/globalData',
-    component: ComponentCreator('/Migrations/__docusaurus/debug/globalData', '709'),
+    path: '/Migration/__docusaurus/debug/globalData',
+    component: ComponentCreator('/Migration/__docusaurus/debug/globalData', '8ab'),
     exact: true
   },
   {
-    path: '/Migrations/__docusaurus/debug/metadata',
-    component: ComponentCreator('/Migrations/__docusaurus/debug/metadata', '9ef'),
+    path: '/Migration/__docusaurus/debug/metadata',
+    component: ComponentCreator('/Migration/__docusaurus/debug/metadata', 'c53'),
     exact: true
   },
   {
-    path: '/Migrations/__docusaurus/debug/registry',
-    component: ComponentCreator('/Migrations/__docusaurus/debug/registry', 'eeb'),
+    path: '/Migration/__docusaurus/debug/registry',
+    component: ComponentCreator('/Migration/__docusaurus/debug/registry', 'b9f'),
     exact: true
   },
   {
-    path: '/Migrations/__docusaurus/debug/routes',
-    component: ComponentCreator('/Migrations/__docusaurus/debug/routes', 'dc7'),
+    path: '/Migration/__docusaurus/debug/routes',
+    component: ComponentCreator('/Migration/__docusaurus/debug/routes', '960'),
     exact: true
   },
   {
-    path: '/Migrations/blog',
-    component: ComponentCreator('/Migrations/blog', '72d'),
+    path: '/Migration/blog',
+    component: ComponentCreator('/Migration/blog', 'aea'),
     exact: true
   },
   {
-    path: '/Migrations/blog/2019/05/28/hola',
-    component: ComponentCreator('/Migrations/blog/2019/05/28/hola', 'ce4'),
+    path: '/Migration/blog/2019/05/28/hola',
+    component: ComponentCreator('/Migration/blog/2019/05/28/hola', '8c7'),
     exact: true
   },
   {
-    path: '/Migrations/blog/archive',
-    component: ComponentCreator('/Migrations/blog/archive', '164'),
+    path: '/Migration/blog/archive',
+    component: ComponentCreator('/Migration/blog/archive', '7f3'),
     exact: true
   },
   {
-    path: '/Migrations/markdown-page',
-    component: ComponentCreator('/Migrations/markdown-page', '937'),
+    path: '/Migration/markdown-page',
+    component: ComponentCreator('/Migration/markdown-page', 'cfa'),
     exact: true
   },
   {
-    path: '/Migrations/docs',
-    component: ComponentCreator('/Migrations/docs', 'f87'),
+    path: '/Migration/docs',
+    component: ComponentCreator('/Migration/docs', '7f9'),
     routes: [
       {
-        path: '/Migrations/docs',
-        component: ComponentCreator('/Migrations/docs', '77f'),
+        path: '/Migration/docs',
+        component: ComponentCreator('/Migration/docs', '032'),
         routes: [
           {
-            path: '/Migrations/docs',
-            component: ComponentCreator('/Migrations/docs', 'f01'),
+            path: '/Migration/docs',
+            component: ComponentCreator('/Migration/docs', '473'),
             routes: [
               {
-                path: '/Migrations/docs/2021/home/CustomEnvironmentMigrationFrom2021To2023',
-                component: ComponentCreator('/Migrations/docs/2021/home/CustomEnvironmentMigrationFrom2021To2023', '72f'),
+                path: '/Migration/docs/2021/home/Custom2021',
+                component: ComponentCreator('/Migration/docs/2021/home/Custom2021', '2be'),
                 exact: true
               },
               {
-                path: '/Migrations/docs/2021/home/Personalizzazioni',
-                component: ComponentCreator('/Migrations/docs/2021/home/Personalizzazioni', 'f95'),
+                path: '/Migration/docs/2021/home/Personalizzazioni',
+                component: ComponentCreator('/Migration/docs/2021/home/Personalizzazioni', 'c3e'),
                 exact: true
               },
               {
-                path: '/Migrations/docs/2021/home/Standard2021',
-                component: ComponentCreator('/Migrations/docs/2021/home/Standard2021', '161'),
+                path: '/Migration/docs/2021/home/Standard2021',
+                component: ComponentCreator('/Migration/docs/2021/home/Standard2021', 'ae1'),
                 exact: true
               },
               {
-                path: '/Migrations/docs/intro',
-                component: ComponentCreator('/Migrations/docs/intro', '4fa'),
+                path: '/Migration/docs/intro',
+                component: ComponentCreator('/Migration/docs/intro', '608'),
                 exact: true
               },
               {
-                path: '/Migrations/docs/release-notes/intro',
-                component: ComponentCreator('/Migrations/docs/release-notes/intro', 'c78'),
+                path: '/Migration/docs/release-notes/intro',
+                component: ComponentCreator('/Migration/docs/release-notes/intro', 'a85'),
                 exact: true
               }
             ]
@@ -101,8 +101,8 @@ export default [
     ]
   },
   {
-    path: '/Migrations/',
-    component: ComponentCreator('/Migrations/', '2a0'),
+    path: '/Migration/',
+    component: ComponentCreator('/Migration/', '8eb'),
     exact: true
   },
   {

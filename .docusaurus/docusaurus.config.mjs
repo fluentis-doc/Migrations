@@ -4,15 +4,15 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Fluentis Migrations",
-  "tagline": "Migrations",
+  "title": "Fluentis Migration",
+  "tagline": "Migration",
   "url": "https://docs.fluentis.com",
-  "baseUrl": "/Migrations/",
+  "baseUrl": "/Migration/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/fluentis-32x32px.png",
+  "favicon": "/img/fluentis-32x32px.png",
   "organizationName": "Fluentis srl",
-  "projectName": "Migrations",
+  "projectName": "Migration",
   "i18n": {
     "defaultLocale": "it-IT",
     "locales": [
@@ -33,10 +33,10 @@ export default {
   },
   "themeConfig": {
     "navbar": {
-      "title": "Migrations",
+      "title": "Migration",
       "logo": {
         "alt": "Logo",
-        "src": "img/fluentis.svg",
+        "src": "/img/fluentis.svg",
         "className": "logo"
       },
       "items": [
@@ -50,7 +50,7 @@ export default {
             },
             {
               "label": "Custom Environment Migration from 2021 to 2023​",
-              "to": "docs/arm/home/company"
+              "to": "docs/2021/home/Custom2021"
             },
             {
               "label": "Test Migrated Custom from 2021 to 2023​",
