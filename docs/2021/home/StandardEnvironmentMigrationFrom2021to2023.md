@@ -88,15 +88,16 @@ Una volta terminato con **successo** il processo di validazione della base di da
 * 
 * ***DESTINATION DATABASE***
     * Server: indirizzo IP del server MSSQL (oppure hostname se presente un server DNS correttamente configurato) relativamente all'istanza di destinazione.     
-    * Database: Nome del database (di origine) caricato sull'istanza MSSQL di cui al punto che precede.  
+    * Database: Nome del database (di destinazione) che verrà caricato sull'istanza MSSQL di cui al punto che precede.  
     * User: utilizzare sempre lo User 'sa' (***SuperAdmin***)
     * Passwd: utilizzare la passwd relativa all'utente di cui al punto che precede.  
+* ***CASI PARTICOLARI***
+    * L'istanza del motore database MSSQL di origine e di destinazione possono coincidere.  
+
 * ***MIGRATE OPTIONS***
-    * Migrate Fluentis2021 custom data: 
-    * Override database collation: 
-    * 
-    * 
-    * 
+    * Migrate Fluentis2021 custom data: permette di specificare se anche le personalizzazioni saranno oggetto di **migrazione**.    
+
+
 
 
 
