@@ -56,7 +56,6 @@ Selezionando un determinato **Elemento** della gerarchia di cui sopra, è possib
 
 ## How does it Work?
 ### Migration Check  
-
 Prima di procedere con la **Migrazione** vera e propria della base dati di Fluentis è fortemente raccomandato procedere ad una **validazione preliminare** della medesima che metterà in evidenza eventuali criticità nonché cause ostative allo step successivo.  
 ![](../../../static/images/20250116084058.png)
 
@@ -73,8 +72,6 @@ Al termine del processo, in assenza in criticità e/o errori, comparirà un mess
 ![](../../../static/images/20250116105245.png)
 
 ### Database Migration
-
-
 Una volta terminato con **successo** il processo di validazione della base di dati Fluentis, è possibile procedere alla **migrazione** vera e propria mediante la pressione del pulsante **Fluentis2023 database migration** il quale apre un pop-up che prevede l'inserimento dei seguenti dati:  
 
 ![](../../../static/images/20250116112044.png)
@@ -97,10 +94,9 @@ Una volta terminato con **successo** il processo di validazione della base di da
 * ***MIGRATE OPTIONS***
     * Migrate Fluentis2021 custom data: permette di specificare se anche le personalizzazioni saranno oggetto di **migrazione**.    
 
-
-
-
-
+### Common Issues
+Al termine della migrazione potrebbero comunque verificarsi delle problematiche nell'ambiente di destinazione, specie in presenza in personalizzazioni (c.d. custom), indipendentemente dalla validazione eseguita in fase preliminare (***Migration Check***).  
+Eventuali errori compariranno nell'apposito log. Tuttavia, non verrà proposto uno script di correzione automatico degli errori, in quanto la gestione degli stessi è a carico del'utente che ha effettuato la personalizzazione nell'ambiente d'origine.  
 
 
 
