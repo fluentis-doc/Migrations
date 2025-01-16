@@ -1,7 +1,7 @@
 {
   "id": "2021/home/Standard2021",
   "title": "Standard Environment Migration From 2021 to 2023",
-  "description": "How It Works",
+  "description": "Prerequisites",
   "source": "@site/docs/2021/home/StandardEnvironmentMigrationFrom2021to2023.md",
   "sourceDirName": "2021/home",
   "slug": "/2021/home/Standard2021",
