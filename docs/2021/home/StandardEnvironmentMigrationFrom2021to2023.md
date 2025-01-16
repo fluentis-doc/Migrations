@@ -67,6 +67,38 @@ Cliccando quindi sul pulsante '**Fluentis2023 database migration check**' si apr
 * Password: Si tratta della password relativa all'utente di cui al punto che precede.  
 
 
+Una volta lanciata la procedura di *Validazione*, apparirà a schermo un pop-up che mostrerà lo stato progressivo d'avanzamento della procedura.  
+Al termine del processo, in assenza in criticità e/o errori, comparirà un messaggio di avvenuta validazione della base dati Fluentis.  
+
+![](../../../static/images/20250116105245.png)
+
+### Database Migration
+
+
+Una volta terminato con **successo** il processo di validazione della base di dati Fluentis, è possibile procedere alla **migrazione** vera e propria mediante la pressione del pulsante **Fluentis2023 database migration** il quale apre un pop-up che prevede l'inserimento dei seguenti dati:  
+
+![](../../../static/images/20250116112044.png)
+
+
+*  ***SOURCE DATABASE***
+    * Server: indirizzo IP del server MSSQL (oppure hostname se presente un server DNS correttamente configurato) relativamente all'istanza di origine.  
+    * Database: Nome del database (di origine) caricato sull'istanza MSSQL di cui al punto che precede.  
+    * User: utilizzare sempre lo User 'sa' (***SuperAdmin***)
+    * Passwd: utilizzare la passwd relativa all'utente di cui al punto che precede.  
+* 
+* ***DESTINATION DATABASE***
+    * Server: indirizzo IP del server MSSQL (oppure hostname se presente un server DNS correttamente configurato) relativamente all'istanza di destinazione.     
+    * Database: Nome del database (di origine) caricato sull'istanza MSSQL di cui al punto che precede.  
+    * User: utilizzare sempre lo User 'sa' (***SuperAdmin***)
+    * Passwd: utilizzare la passwd relativa all'utente di cui al punto che precede.  
+* ***MIGRATE OPTIONS***
+    * Migrate Fluentis2021 custom data: 
+    * Override database collation: 
+    * 
+    * 
+    * 
+
+
 
 
 
