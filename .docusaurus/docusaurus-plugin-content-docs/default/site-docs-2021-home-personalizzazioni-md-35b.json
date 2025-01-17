@@ -1,14 +1,18 @@
 {
-  "id": "2021/home/Personalizzazioni",
-  "title": "Personalizzazioni",
-  "description": "",
+  "id": "2021/home/CustomOneByOne",
+  "title": "Test Migrated Custom 2021 to 2023",
+  "description": "Come anticipato in precedenza, nella pagina web Link si spiega che il comportamento relativo alla migrazione può variare a seconda del tipo di personalizzazione.",
   "source": "@site/docs/2021/home/Personalizzazioni.md",
   "sourceDirName": "2021/home",
-  "slug": "/2021/home/Personalizzazioni",
-  "permalink": "/Migration/docs/2021/home/Personalizzazioni",
+  "slug": "/2021/home/CustomOneByOne",
+  "permalink": "/Migration/docs/2021/home/CustomOneByOne",
   "draft": false,
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "CustomOneByOne",
+    "sidebar_position": 2
+  }
 }

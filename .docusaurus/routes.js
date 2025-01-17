@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/Migration/docs',
-    component: ComponentCreator('/Migration/docs', '7f9'),
+    component: ComponentCreator('/Migration/docs', '098'),
     routes: [
       {
         path: '/Migration/docs',
-        component: ComponentCreator('/Migration/docs', '032'),
+        component: ComponentCreator('/Migration/docs', 'd32'),
         routes: [
           {
             path: '/Migration/docs',
-            component: ComponentCreator('/Migration/docs', '473'),
+            component: ComponentCreator('/Migration/docs', 'a15'),
             routes: [
               {
                 path: '/Migration/docs/2021/home/Custom2021',
@@ -75,8 +75,8 @@ export default [
                 exact: true
               },
               {
-                path: '/Migration/docs/2021/home/Personalizzazioni',
-                component: ComponentCreator('/Migration/docs/2021/home/Personalizzazioni', 'c3e'),
+                path: '/Migration/docs/2021/home/CustomOneByOne',
+                component: ComponentCreator('/Migration/docs/2021/home/CustomOneByOne', 'd50'),
                 exact: true
               },
               {

@@ -54,7 +54,7 @@ export default {
             },
             {
               "label": "Test Migrated Custom from 2021 to 2023​",
-              "to": "docs/arm/home/connections"
+              "to": "docs/2021/home/CustomOneByOne"
             },
             {
               "label": "Personalizzazioni",

@@ -7,8 +7,8 @@ const NavbarLinks = [
     title: 'Migration from 2021 to 2023',
     items: [
       { label: 'Standard Environment Migration from 2021 to 2023', to: 'docs/2021/home/Standard2021' },
-      { label: 'Custom Environment Migration from 2021 to 2023', to: 'docs/arm/home/company' },
-      { label: 'Test Migrated Custom from 2021 to 2023​', to: 'docs/arm/home/connections' },
+      { label: 'Custom Environment Migration from 2021 to 2023', to: 'docs/2021/home/Custom2021' },
+      { label: 'Test Migrated Custom from 2021 to 2023​', to: 'docs/2021/home/CustomOneByOne' },
       { label: 'Personalizzazioni​', to: 'docs/arm/home/connections' },
 
     ],
