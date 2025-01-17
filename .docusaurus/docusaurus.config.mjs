@@ -58,7 +58,7 @@ export default {
             },
             {
               "label": "Personalizzazioni",
-              "to": "docs/arm/home/Applications/dictionary"
+              "to": "docs/2021/home/Customizations2021"
             }
           ]
         },

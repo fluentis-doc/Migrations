@@ -59,19 +59,24 @@ export default [
   },
   {
     path: '/Migration/docs',
-    component: ComponentCreator('/Migration/docs', '098'),
+    component: ComponentCreator('/Migration/docs', '29d'),
     routes: [
       {
         path: '/Migration/docs',
-        component: ComponentCreator('/Migration/docs', 'd32'),
+        component: ComponentCreator('/Migration/docs', '183'),
         routes: [
           {
             path: '/Migration/docs',
-            component: ComponentCreator('/Migration/docs', 'a15'),
+            component: ComponentCreator('/Migration/docs', 'ff5'),
             routes: [
               {
                 path: '/Migration/docs/2021/home/Custom2021',
                 component: ComponentCreator('/Migration/docs/2021/home/Custom2021', '2be'),
+                exact: true
+              },
+              {
+                path: '/Migration/docs/2021/home/Customizations2021',
+                component: ComponentCreator('/Migration/docs/2021/home/Customizations2021', 'dfd'),
                 exact: true
               },
               {
